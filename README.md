@@ -216,7 +216,3 @@ python test_suite.py
 
 ### 💙 Built to make public services easier to understand and navigate.
 
-</div>
-"""
-path.write_text(readme, encoding="utf-8")
-print(f"Updated README without any team/organization name: {path}")
