@@ -1,86 +1,101 @@
 from pathlib import Path
 
-readme = r"""# SevaSignal — Public Services Made Easier
+path = Path("/mnt/data/README.md")
+readme = r"""<div align="center">
 
-**Developed by Binary Bloom**
+# 🇮🇳 SevaSignal
+### ✨ Public Services Made Easier
 
-SevaSignal is a multilingual civic-guidance platform designed to help Indian citizens, especially in Karnataka, understand public-service processes more easily. It organizes information into clear, actionable **Next-Step Cards** and guides users toward relevant government services.
+**Empowering citizens with clear, accessible, and actionable public-service guidance.**
 
-SevaSignal is an independent student project. It is not an official government portal and is not affiliated with, endorsed by, or authorized by any government ministry or department.
+[![Project](https://img.shields.io/badge/Project-Civic%20Tech-2563EB?style=for-the-badge)](#-about-sevasignal)
+[![Languages](https://img.shields.io/badge/Languages-English%20%7C%20Kannada%20%7C%20Hindi-16A34A?style=for-the-badge)](#-key-features)
+[![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-7C3AED?style=for-the-badge)](#-technology-stack)
+[![Backend](https://img.shields.io/badge/Backend-FastAPI-0EA5E9?style=for-the-badge)](#-technology-stack)
 
-## Overview
+</div>
 
-Public-service procedures can be difficult to navigate because information is spread across different portals and may involve multiple steps, eligibility conditions, and documents. SevaSignal aims to make this information easier to understand by presenting structured guidance in a user-friendly format.
+---
 
-The platform combines a React-based interface with a FastAPI backend, a service knowledge base, conversation-aware retrieval, and an optional Gemini AI integration with a local fallback assistant.
+## 🌟 About SevaSignal
 
-## Key Features
+**SevaSignal** is a multilingual civic-guidance platform designed to help Indian citizens—especially in Karnataka—understand public-service processes more easily.
 
-- **Step-by-step guidance:** Presents processes as clear, actionable next steps.
-- **Multilingual support:** Interface strings for English, Kannada, and Hindi.
-- **Eight service categories:** Groups common public-service topics in one place.
-- **Conversation-aware assistance:** Supports follow-up questions using conversational context.
-- **Grounded information:** Uses a local knowledge base and fallback assistant, with optional Gemini AI integration.
-- **Government-portal navigation:** Helps users locate official services for completing applications and other actions.
-- **Privacy-conscious interaction:** Designed not to request Aadhaar numbers, OTPs, biometric credentials, or banking passwords.
+Public-service procedures can involve multiple websites, eligibility conditions, and documents. SevaSignal makes this information easier to navigate by organizing guidance into clear, structured, step-by-step **🧭 Next-Step Cards** and pointing users toward relevant government services.
 
-## Service Categories
+> ⚠️ **Project Disclaimer**
+>
+> SevaSignal is an independent student project. It is **not an official government portal** and is not affiliated with, endorsed by, or authorized by any government ministry or department. It provides informational guidance; users complete official applications and authentication through the relevant government portals.
 
-### 1. Education and Scholarships
-- SSP Post-Matric Scholarship (Karnataka)
+## 💡 Key Features
+
+| Feature | Description |
+|---|---|
+| 🪜 **Step-by-step guidance** | Breaks public-service processes into clear, actionable next steps. |
+| 🌐 **Multilingual interface** | Provides interface strings in English, Kannada, and Hindi. |
+| 🗂️ **Eight service categories** | Organizes common public-service topics in one place. |
+| 💬 **Conversation-aware assistance** | Supports follow-up questions using conversational context. |
+| 📚 **Grounded information** | Uses a local knowledge base and fallback assistant, with optional Gemini AI integration. |
+| 🔗 **Official-service navigation** | Helps users find relevant portals for completing official actions. |
+| 🔐 **Privacy-conscious design** | Designed not to request Aadhaar numbers, OTPs, biometric credentials, or banking passwords. |
+
+## 🏛️ Explore the 8 Service Categories
+
+### 🎓 1. Education & Scholarships
+- SSP Post-Matric Scholarship — Karnataka
 - National Scholarship Portal (NSP)
 - Vidyasiri (BCWD)
 
-### 2. Certificates and Documents
+### 📄 2. Certificates & Documents
 - Karnataka Nadakacheri services, including caste, income, and residence certificates
 - Seva Sindhu
 - e-JanMa
 
-### 3. Transport and Travel
-- KSRTC and BMTC student-concession bus passes, including fresh applications and renewals
-- Parivahan Sarathi services for learner's licences (LLR) and driving licences (DL)
+### 🚌 3. Transport & Travel
+- KSRTC and BMTC student-concession bus passes — fresh applications and renewals
+- Parivahan Sarathi — learner's licences (LLR) and driving licences (DL)
 
-### 4. Grievances and Complaints
+### 📣 4. Grievances & Complaints
 - Central Public Grievance Redress and Monitoring System (CPGRAMS)
 - Karnataka e-Janaspandana and CM Helpline 1902
 
-### 5. Pensions and Welfare Benefits
+### 🤝 5. Pensions & Welfare Benefits
 - Sandhya Suraksha Yojana
 - Old Age Pension (IGNOAP/OAP)
 - Widow Pension (Manasvini)
 - Disability Pension (DSSP)
 
-### 6. Ration Cards and Food Services
+### 🍚 6. Ration Cards & Food Services
 - Karnataka Ahara services
 - BPL/APL applications
 - Adding a newborn family member
 - e-KYC guidance
 
-### 7. Agriculture and Farmer Schemes
+### 🌾 7. Agriculture & Farmer Schemes
 - PM-KISAN Samman Nidhi
 - Karnataka FRUITS (Farmer Registration and Unified Beneficiary Information System / FID)
 - Raitha Vidyanidhi
 
-### 8. Utilities and Local Services
+### 💡 8. Utilities & Local Services
 - BESCOM and other ESCOM services
 - Gruha Jyothi zero-bill scheme information
 - Electricity-bill complaints (1912)
 - BWSSB water services
 
-> **Note:** Eligibility, documents, deadlines, procedures, and portal availability may change. Users should confirm current requirements with the relevant official service provider.
+> 📌 **Please note:** Eligibility rules, required documents, deadlines, procedures, and portal availability may change. Always confirm current requirements with the relevant official service provider.
 
-## Technology Stack
+## 🧰 Technology Stack
 
-| Component | Technology |
-|---|---|
-| Frontend | React, Vite, JavaScript, CSS |
-| Backend | Python, FastAPI |
-| Data validation | Pydantic |
-| AI assistance | Optional Gemini integration and local fallback assistant |
-| Knowledge base | JSON service records |
-| Languages | English, Kannada, Hindi |
+| Layer | Technologies |
+|:---:|---|
+| 🎨 **Frontend** | React · Vite · JavaScript · CSS |
+| ⚙️ **Backend** | Python · FastAPI |
+| ✅ **Data Validation** | Pydantic |
+| 🤖 **AI Assistance** | Optional Gemini integration · Local fallback assistant |
+| 🗃️ **Knowledge Base** | JSON service records |
+| 🗣️ **Languages** | English · ಕನ್ನಡ (Kannada) · हिन्दी (Hindi) |
 
-## Project Structure
+## 🗂️ Project Structure
 
 ```text
 SevaSignal/
@@ -109,46 +124,49 @@ SevaSignal/
 └── README.md
 ```
 
-## Local Development
+## 🚀 Run SevaSignal Locally
 
-### Prerequisites
+### 📋 Prerequisites
 
-- Python 3.10 or newer
-- Node.js and npm
+Make sure you have installed:
 
-### Backend
+- 🐍 **Python 3.10 or newer**
+- 🟢 **Node.js and npm**
 
-From the project root, run:
+### ⚙️ 1. Start the Backend
+
+From the project root, open a terminal and run:
 
 ```bash
 cd backend
 python -m venv venv
 ```
 
-Activate the virtual environment.
+Activate the virtual environment:
 
-**Windows PowerShell:**
+**Windows PowerShell**
 ```powershell
 .\venv\Scripts\Activate.ps1
 ```
 
-**macOS/Linux:**
+**macOS / Linux**
 ```bash
 source venv/bin/activate
 ```
 
-Install dependencies and start the API:
+Install the dependencies and start the API:
 
 ```bash
 pip install -r requirements.txt
 python -m uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-The backend should be available at `http://localhost:8000`. Interactive API documentation is available at `http://localhost:8000/docs`.
+✅ Backend: `http://localhost:8000`  
+📘 Interactive API documentation: `http://localhost:8000/docs`
 
-### Frontend
+### 🎨 2. Start the Frontend
 
-Open a second terminal from the project root:
+Open a **second terminal** from the project root:
 
 ```bash
 cd frontend
@@ -156,46 +174,49 @@ npm install
 npm run dev
 ```
 
-Open the local URL shown by Vite, usually `http://localhost:5173`.
+🌐 Open the local URL printed by Vite, usually `http://localhost:5173`.
 
-Configure the frontend's API base URL according to the API client settings when using a separately running backend.
+> 🔧 If the frontend uses a separately running backend, configure its API base URL according to the settings in the frontend API client.
 
-## Automated Tests
+## 🧪 Automated Tests
 
-The backend test suite is located at `backend/test_suite.py`. Run it from the backend directory in an environment where the project dependencies are installed:
+The backend test suite is located at `backend/test_suite.py`. Run it from the backend directory with the required dependencies installed:
 
 ```bash
 cd backend
 python test_suite.py
 ```
 
-Example questions covered by the test suite include:
+### 💬 Example Questions
 
-- How do I apply for a fresh SSP scholarship?
-- What documents are required for my scholarship?
-- How do I renew my scholarship?
-- Why is my SSP scholarship payment delayed?
-- How do I renew my KSRTC student bus pass?
-- How do I apply for an income certificate?
-- Who is eligible for the Gruha Jyothi scheme?
-- How can I complain about an electricity bill?
-- How can I track my pension payment?
-- How do I update my ration card?
-- How can I file a public-service grievance?
+- 🎓 How do I apply for a fresh SSP scholarship?
+- 📑 What documents are required for my scholarship?
+- 🔄 How do I renew my scholarship?
+- ⏳ Why is my SSP scholarship payment delayed?
+- 🚌 How do I renew my KSRTC student bus pass?
+- 📄 How do I apply for an income certificate?
+- 💡 Who is eligible for the Gruha Jyothi scheme?
+- 📣 How can I complain about an electricity bill?
+- 🤝 How can I track my pension payment?
+- 🍚 How do I update my ration card?
+- 🏛️ How can I file a public-service grievance?
 
-## Security and Privacy
+## 🔒 Security & Privacy
 
-- SevaSignal is an informational guidance platform, not a government authority or an application-submission service.
-- Do not enter Aadhaar numbers, OTPs, biometric credentials, banking passwords, or other highly sensitive information into the assistant.
-- Complete authentication and official submissions only on the relevant official government portal.
-- Verify that a website is an official government domain before sharing personal information.
-- Keep API keys and other secrets out of source control. Use environment variables or an appropriate local environment file.
-- Public-service information can change; confirm important details with the official service provider.
+- 🛡️ SevaSignal is an informational guidance platform, not a government authority or application-submission service.
+- 🚫 Do not enter Aadhaar numbers, OTPs, biometric credentials, banking passwords, or other highly sensitive information into the assistant.
+- 🔑 Keep API keys and secrets out of source control. Use environment variables or an appropriate local environment file.
+- 🔗 Complete authentication and official submissions only on the relevant official government portal.
+- 🔍 Verify that a website is an official government domain before sharing personal information.
+- 📌 Public-service information can change; confirm important details with the official service provider.
 
+---
 
-*Designed to make public-service information clearer, more accessible, and easier to act on.*
+<div align="center">
+
+### 💙 Built to make public services easier to understand and navigate.
+
+</div>
 """
-
-path = Path("/mnt/data/README.md")
 path.write_text(readme, encoding="utf-8")
-print(f"Created professional README without deployment instructions: {path}")
+print(f"Updated README without any team/organization name: {path}")
