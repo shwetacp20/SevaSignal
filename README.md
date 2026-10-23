@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # SevaSignal
 ### ✨ Public Services Made Easier
