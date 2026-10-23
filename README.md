@@ -2,283 +2,200 @@ from pathlib import Path
 
 readme = r"""# SevaSignal — Public Services Made Easier
 
-**Developed by Binary Bloom** · Empowering citizens with clear, actionable, and grounded public-service guidance.
+**Developed by Binary Bloom**
 
-SevaSignal is an empathetic, multilingual civic-guidance platform designed for Indian citizens, especially in Karnataka. It helps people navigate complex public-service processes across eight categories by presenting clear, structured, step-by-step **Next-Step Cards** grounded in government-service information.
+SevaSignal is a multilingual civic-guidance platform designed to help Indian citizens, especially in Karnataka, understand public-service processes more easily. It organizes information into clear, actionable **Next-Step Cards** and guides users toward relevant government services.
 
-> **Project disclaimer:** SevaSignal is an independent student project created for educational and technology-festival purposes. It is not an official government portal and is not affiliated with, endorsed by, or authorized by any government ministry or department. It provides guidance and links to official services; users complete applications and authentication on the relevant official portals.
+SevaSignal is an independent student project. It is not an official government portal and is not affiliated with, endorsed by, or authorized by any government ministry or department.
 
-## Contents
+## Overview
 
-- [Features](#features)
-- [Eight Service Categories](#the-eight-service-categories)
-- [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Running Tests](#running-automated-tests)
-- [Deployment](#deployment)
-- [Security and Privacy](#security-and-privacy)
-- [Team](#team)
+Public-service procedures can be difficult to navigate because information is spread across different portals and may involve multiple steps, eligibility conditions, and documents. SevaSignal aims to make this information easier to understand by presenting structured guidance in a user-friendly format.
 
-## Features
+The platform combines a React-based interface with a FastAPI backend, a service knowledge base, conversation-aware retrieval, and an optional Gemini AI integration with a local fallback assistant.
 
-- **Step-by-step guidance:** Breaks public-service processes into actionable next steps.
-- **Multilingual interface:** Includes English, Kannada, and Hindi interface strings.
-- **Eight service categories:** Covers common citizen-service needs, from scholarships to utilities.
-- **Conversation-aware assistance:** Supports follow-up questions using the conversation and retrieval engine.
-- **Grounded responses:** Uses a local knowledge base and fallback assistant; Gemini AI can be configured as an optional capability.
-- **Official-service navigation:** Directs users to relevant government portals to complete official actions.
-- **Privacy-conscious design:** Does not ask users to provide Aadhaar numbers, OTPs, biometric credentials, or banking passwords.
+## Key Features
 
-## The Eight Service Categories
+- **Step-by-step guidance:** Presents processes as clear, actionable next steps.
+- **Multilingual support:** Interface strings for English, Kannada, and Hindi.
+- **Eight service categories:** Groups common public-service topics in one place.
+- **Conversation-aware assistance:** Supports follow-up questions using conversational context.
+- **Grounded information:** Uses a local knowledge base and fallback assistant, with optional Gemini AI integration.
+- **Government-portal navigation:** Helps users locate official services for completing applications and other actions.
+- **Privacy-conscious interaction:** Designed not to request Aadhaar numbers, OTPs, biometric credentials, or banking passwords.
 
-1. **Education and Scholarships**
-   - Karnataka SSP Post-Matric Scholarship
-   - National Scholarship Portal (NSP)
-   - Vidyasiri (BCWD)
+## Service Categories
 
-2. **Certificates and Documents**
-   - Karnataka Nadakacheri: caste, income, residence, and related certificates
-   - Seva Sindhu
-   - e-JanMa
+### 1. Education and Scholarships
+- SSP Post-Matric Scholarship (Karnataka)
+- National Scholarship Portal (NSP)
+- Vidyasiri (BCWD)
 
-3. **Transport and Travel**
-   - KSRTC and BMTC student-concession bus passes, including fresh applications and renewals
-   - Parivahan Sarathi: learner's licence (LLR) and driving licence (DL)
+### 2. Certificates and Documents
+- Karnataka Nadakacheri services, including caste, income, and residence certificates
+- Seva Sindhu
+- e-JanMa
 
-4. **Grievances and Complaints**
-   - Central CPGRAMS: [pgportal.gov.in](https://pgportal.gov.in/)
-   - Karnataka e-Janaspandana / CM Helpline 1902
+### 3. Transport and Travel
+- KSRTC and BMTC student-concession bus passes, including fresh applications and renewals
+- Parivahan Sarathi services for learner's licences (LLR) and driving licences (DL)
 
-5. **Pensions and Welfare Benefits**
-   - Sandhya Suraksha Yojana
-   - Old Age Pension (IGNOAP/OAP)
-   - Widow Pension (Manasvini)
-   - Disability Pension (DSSP)
+### 4. Grievances and Complaints
+- Central Public Grievance Redress and Monitoring System (CPGRAMS)
+- Karnataka e-Janaspandana and CM Helpline 1902
 
-6. **Ration Cards and Food Services**
-   - Karnataka Ahara: [ahara.kar.nic.in](https://ahara.kar.nic.in/)
-   - BPL/APL applications
-   - Adding a newborn family member
-   - e-KYC guidance
+### 5. Pensions and Welfare Benefits
+- Sandhya Suraksha Yojana
+- Old Age Pension (IGNOAP/OAP)
+- Widow Pension (Manasvini)
+- Disability Pension (DSSP)
 
-7. **Agriculture and Farmer Schemes**
-   - PM-KISAN Samman Nidhi
-   - Karnataka FRUITS (Farmer Registration and Unified Beneficiary Information System / FID)
-   - Raitha Vidyanidhi
+### 6. Ration Cards and Food Services
+- Karnataka Ahara services
+- BPL/APL applications
+- Adding a newborn family member
+- e-KYC guidance
 
-8. **Utilities and Local Services**
-   - BESCOM / other ESCOM services
-   - Gruha Jyothi zero-bill scheme information
-   - Electricity-bill complaints (1912)
-   - BWSSB water services
+### 7. Agriculture and Farmer Schemes
+- PM-KISAN Samman Nidhi
+- Karnataka FRUITS (Farmer Registration and Unified Beneficiary Information System / FID)
+- Raitha Vidyanidhi
 
-> Service rules, eligibility, deadlines, required documents, and portal availability can change. Users should verify current details on the linked official government portal before acting.
+### 8. Utilities and Local Services
+- BESCOM and other ESCOM services
+- Gruha Jyothi zero-bill scheme information
+- Electricity-bill complaints (1912)
+- BWSSB water services
+
+> **Note:** Eligibility, documents, deadlines, procedures, and portal availability may change. Users should confirm current requirements with the relevant official service provider.
 
 ## Technology Stack
 
-| Layer | Technology |
+| Component | Technology |
 |---|---|
 | Frontend | React, Vite, JavaScript, CSS |
 | Backend | Python, FastAPI |
-| API schemas | Pydantic |
-| AI assistant | Optional Gemini integration and grounded local fallback |
+| Data validation | Pydantic |
+| AI assistance | Optional Gemini integration and local fallback assistant |
 | Knowledge base | JSON service records |
-| Frontend hosting | Vercel |
-| Backend hosting | Render |
-
-The frontend dependencies and exact framework versions are defined in `frontend/package.json`. The backend dependencies are defined in `backend/requirements.txt`.
+| Languages | English, Kannada, Hindi |
 
 ## Project Structure
 
 ```text
-sevasignal/
+SevaSignal/
 ├── backend/
 │   ├── app/
 │   │   ├── ai/                 # Gemini AI and local fallback assistant
-│   │   ├── models/             # Pydantic request/response schemas
+│   │   ├── models/             # Request and response schemas
 │   │   ├── retrieval/          # Knowledge retrieval and conversation context
-│   │   ├── routes/             # Chat, guidance, services, categories APIs
+│   │   ├── routes/             # Chat, guidance, services, and categories APIs
 │   │   ├── config.py           # Application configuration
-│   │   └── main.py             # FastAPI application and CORS
-│   ├── data/                   # Government-service knowledge base (JSON)
+│   │   └── main.py             # FastAPI application entry point
+│   ├── data/                   # JSON service knowledge base
 │   ├── test_suite.py           # Automated test suite
 │   └── requirements.txt        # Python dependencies
 ├── frontend/
 │   ├── src/
-│   │   ├── components/         # UI components
-│   │   ├── locales/            # English, Kannada, Hindi strings
+│   │   ├── components/         # Reusable interface components
+│   │   ├── locales/            # English, Kannada, and Hindi strings
 │   │   ├── services/           # API client and local knowledge fallback
 │   │   ├── App.jsx              # Application shell and view routing
-│   │   └── App.css              # CSS design system
+│   │   └── App.css              # Styles and design system
 │   ├── index.html
 │   ├── package.json
-│   ├── package-lock.json
-│   └── vercel.json              # Vercel / SPA configuration
-├── render.yaml                  # Render deployment blueprint, if configured
+│   └── vercel.json
+├── render.yaml
 └── README.md
 ```
 
-## Getting Started
+## Local Development
 
 ### Prerequisites
 
 - Python 3.10 or newer
 - Node.js and npm
-- Git (for cloning and pushing the repository)
 
-### 1. Get the project
+### Backend
 
-If you have access to the repository:
+From the project root, run:
 
 ```bash
-git clone https://github.com/shwetacp20/SevaSignal.git
-cd SevaSignal
-```
-
-### 2. Set up the backend
-
-Open a terminal in the project root, then run:
-
-**Windows PowerShell**
-
-```powershell
 cd backend
 python -m venv venv
+```
+
+Activate the virtual environment.
+
+**Windows PowerShell:**
+```powershell
 .\venv\Scripts\Activate.ps1
-python -m pip install --upgrade pip
+```
+
+**macOS/Linux:**
+```bash
+source venv/bin/activate
+```
+
+Install dependencies and start the API:
+
+```bash
 pip install -r requirements.txt
-```
-
-If PowerShell blocks activation, you can run the backend using the virtual-environment interpreter directly:
-
-```powershell
-.\venv\Scripts\python.exe -m pip install -r requirements.txt
-```
-
-Configure any required environment variables using the deployment dashboard or a local `.env` file if the project configuration supports it. `GEMINI_API_KEY` is optional according to the project design; without it, the local grounded fallback is intended to respond.
-
-Start the API from the `backend` directory:
-
-```powershell
 python -m uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-The API should be available at:
+The backend should be available at `http://localhost:8000`. Interactive API documentation is available at `http://localhost:8000/docs`.
 
-- API base: `http://localhost:8000`
-- Interactive API docs: `http://localhost:8000/docs`
+### Frontend
 
-### 3. Set up the frontend
+Open a second terminal from the project root:
 
-Open a **second terminal** in the project root:
-
-```powershell
+```bash
 cd frontend
 npm install
 npm run dev
 ```
 
-Open the local Vite URL printed in the terminal, usually `http://localhost:5173`.
+Open the local URL shown by Vite, usually `http://localhost:5173`.
 
-If the frontend needs to call a separately hosted backend, configure `VITE_API_BASE` with the correct backend API base URL. For local development, use the API URL/path expected by the frontend's API client. For deployment, set it in Vercel's project environment variables and redeploy after changing it.
+Configure the frontend's API base URL according to the API client settings when using a separately running backend.
 
-## Running Automated Tests
+## Automated Tests
 
-From the project root:
+The backend test suite is located at `backend/test_suite.py`. Run it from the backend directory in an environment where the project dependencies are installed:
 
 ```bash
 cd backend
 python test_suite.py
 ```
 
-The test suite is intended to cover service questions, follow-up conversation sequences, action plans, service categories, and multilingual responses. Run it in the configured Python environment with the backend dependencies installed.
-
-### Example test questions
+Example questions covered by the test suite include:
 
 - How do I apply for a fresh SSP scholarship?
-- Is there any qualification for an SSP scholarship?
 - What documents are required for my scholarship?
 - How do I renew my scholarship?
 - Why is my SSP scholarship payment delayed?
-- My scholarship application was rejected. What should I do?
 - How do I renew my KSRTC student bus pass?
-- How do I download my digitally signed caste certificate?
 - How do I apply for an income certificate?
-- Who is eligible for the Gruha Jyothi zero-bill scheme?
-- How do I apply for a farmer scheme?
+- Who is eligible for the Gruha Jyothi scheme?
 - How can I complain about an electricity bill?
 - How can I track my pension payment?
 - How do I update my ration card?
 - How can I file a public-service grievance?
 
-## Deployment
-
-Deploy the frontend and backend separately. The frontend must be configured with the URL of the deployed backend if it relies on remote API calls.
-
-### Frontend — Vercel
-
-1. Push the project to GitHub and import the repository in [Vercel](https://vercel.com/).
-2. Configure the project:
-
-   | Setting | Value |
-   |---|---|
-   | Framework Preset | Vite |
-   | Root Directory | `frontend` |
-   | Build Command | `npm run build` |
-   | Output Directory | `dist` |
-
-3. Add the environment variable below if the frontend uses the remote API:
-
-   ```text
-   VITE_API_BASE=https://YOUR-RENDER-SERVICE.onrender.com/api
-   ```
-
-   Replace the example hostname and API path with the actual deployed backend URL and the prefix expected by the frontend API client. Do not paste secret API keys into frontend variables.
-
-4. Deploy. Vercel should build the frontend from the `frontend` directory. After updating environment variables, trigger a new deployment.
-
-### Backend — Render
-
-1. Create a **Web Service** in [Render](https://render.com/) and connect the GitHub repository.
-2. Configure the service:
-
-   | Setting | Value |
-   |---|---|
-   | Root Directory | `backend` |
-   | Runtime | Python |
-   | Build Command | `pip install -r requirements.txt` |
-   | Start Command | `uvicorn app.main:app --host 0.0.0.0 --port $PORT` |
-
-3. Add backend environment variables in the Render dashboard as needed:
-
-   ```text
-   GEMINI_MODEL=gemini-2.5-flash
-   GEMINI_API_KEY=your-key-if-using-Gemini
-   ```
-
-   `GEMINI_API_KEY` is optional only if the configured local fallback can handle the required requests. Never commit API keys or secrets to GitHub.
-
-4. After deployment, open the backend's `/docs` URL to check that the API starts. Configure the Vercel `VITE_API_BASE` value to match the deployed backend URL and the API prefix used by the app.
-
-5. If the frontend cannot reach the backend, check the backend logs, CORS configuration, API base URL, and whether the route prefix matches the frontend's requests.
-
-> **Deployment note:** Exact environment-variable names, API prefixes, and supported deployment settings depend on the repository configuration. Check `frontend/src/services/`, `backend/app/config.py`, `backend/app/main.py`, `frontend/vercel.json`, and `render.yaml` if present before changing them.
-
 ## Security and Privacy
 
-- SevaSignal is a guidance and navigation tool, not a government authority or an application-submission service.
+- SevaSignal is an informational guidance platform, not a government authority or an application-submission service.
 - Do not enter Aadhaar numbers, OTPs, biometric credentials, banking passwords, or other highly sensitive information into the assistant.
-- Complete authentication, payments, and official submissions only on the relevant official government portal.
-- Verify that a website is an official government domain before sharing information.
-- Keep API keys and other secrets in local environment files or hosting-provider environment settings. Do not commit them to the repository.
-- Guidance is informational and may not reflect the latest policy changes. Confirm important requirements with the official service provider.
+- Complete authentication and official submissions only on the relevant official government portal.
+- Verify that a website is an official government domain before sharing personal information.
+- Keep API keys and other secrets out of source control. Use environment variables or an appropriate local environment file.
+- Public-service information can change; confirm important details with the official service provider.
 
 
-
-Made with the goal of making public-service information clearer and easier to navigate.
+*Designed to make public-service information clearer, more accessible, and easier to act on.*
 """
 
 path = Path("/mnt/data/README.md")
 path.write_text(readme, encoding="utf-8")
-print(f"Created: {path}")
+print(f"Created professional README without deployment instructions: {path}")
