@@ -1,9 +1,6 @@
-from pathlib import Path
 
-path = Path("/mnt/data/README.md")
-readme = r"""<div align="center">
 
-# 🇮🇳 SevaSignal
+# SevaSignal
 ### ✨ Public Services Made Easier
 
 **Empowering citizens with clear, accessible, and actionable public-service guidance.**
