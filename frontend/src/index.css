@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700&display=swap');
+
+:root {
+  --color-primary-navy: #142957;
+  --color-nav-navy: #152852;
+  --color-white: #FFFFFF;
+  --color-hero-mint: #EAF7EF;
+  --color-hero-hill-dark: #D4EEDC;
+  --color-card-blue: #EAF2FF;
+  --color-card-green: #EAF7EF;
+  --color-card-cream: #FFF5E4;
+  --color-card-purple: #EEF0FC;
+  --color-card-rose: #FFF1F2;
+  --color-card-amber: #FEF3C7;
+  --color-card-emerald: #ECFDF5;
+  --color-card-teal: #F0FDFA;
+  --color-accent-orange: #FFAD32;
+  --color-text-navy: #142957;
+  --color-text-muted: #5A6B82;
+  --color-text-subtle: #64748B;
+  --color-border-light: rgba(20, 41, 87, 0.08);
+
+  --font-family-base: 'Outfit', 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-family-kn: 'Noto Sans Kannada', 'Outfit', sans-serif;
+  --font-family-hi: 'Noto Sans Devanagari', 'Outfit', sans-serif;
+
+  --shadow-sm: 0 2px 4px rgba(20, 41, 87, 0.04);
+  --shadow-md: 0 6px 16px rgba(20, 41, 87, 0.06);
+  --shadow-lg: 0 12px 32px rgba(20, 41, 87, 0.10);
+  --shadow-panel: 0 16px 40px rgba(20, 41, 87, 0.07);
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-panel: 22px;
+  --radius-pill: 9999px;
+
+  --header-height: 85px;
+  --nav-height: 53px;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-family-base);
+  color: var(--color-text-navy);
+  background-color: #F8FAFC;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+/* Kannada font support */
+.lang-kn, 
+[lang="kn"] {
+  font-family: var(--font-family-kn) !important;
+  line-height: 1.65;
+}
+
+/* Hindi font support */
+.lang-hi, 
+[lang="hi"] {
+  font-family: var(--font-family-hi) !important;
+  line-height: 1.6;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+button:focus-visible {
+  outline: 2px solid var(--color-accent-orange);
+  outline-offset: 2px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}

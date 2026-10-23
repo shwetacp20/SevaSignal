@@ -1,0 +1,160 @@
+{
+  "brand": {
+    "name": "SevaSignal",
+    "tagline": "Public Services Made Easier"
+  },
+  "nav": {
+    "scholarships": "Education & Scholarships",
+    "certificates": "Certificates",
+    "transport": "Transport",
+    "grievances": "Grievances",
+    "moreServices": "More Services",
+    "pensions": "Pensions & Welfare Benefits",
+    "ration": "Ration Cards & Food Services",
+    "agriculture": "Agriculture & Farmer Schemes",
+    "utilities": "Utilities & Local Services",
+    "about": "About",
+    "help": "Help",
+    "search": "Search services...",
+    "openMenu": "Open Menu",
+    "closeMenu": "Close Menu"
+  },
+  "hero": {
+    "titleLine1": "Public services, made easier",
+    "titleLine2": "to understand.",
+    "subtitle": "Find your next step for scholarships, certificates, transport and more.",
+    "cta": "Find a Service →"
+  },
+  "panel": {
+    "startWithService": "START WITH A SERVICE",
+    "moreServices": "MORE SERVICES FOR YOU",
+    "disclaimer": "Independent student project · Not an official government portal",
+    "exploreAll": "Explore All Services",
+    "getGuidance": "Get Guidance",
+    "verified": "Verified",
+    "lastVerified": "Last verified"
+  },
+  "search": {
+    "title": "Search Public Services",
+    "placeholder": "Search by scheme name, document (e.g. Caste certificate, bus pass, SSP)...",
+    "quickFilter": "Popular Services:",
+    "noResults": "No direct service matches found. Would you like to ask our AI Assistant?",
+    "askAi": "Ask SevaSignal AI",
+    "recent": "Suggested Queries",
+    "pressEsc": "Press ESC to close"
+  },
+  "scholarshipWizard": {
+    "title": "Guided Scholarship Finder",
+    "subtitle": "Answer 4 simple questions to discover eligible scholarships and get your step-by-step action plan.",
+    "step1": "1. Provider / Category",
+    "step2": "2. Education Details",
+    "step3": "3. Matching Scholarships",
+    "step4": "4. What is your blocker?",
+    "step5": "5. Your Action Plan",
+    "providerPrompt": "Who is providing your scholarship or where are you applying?",
+    "providerOptions": {
+      "central": "Central Government (NSP / National Portals)",
+      "karnataka": "Karnataka State Government (SSP / Post-Matric)",
+      "college": "College or University Merit Quota",
+      "private": "Private Foundation / Corporate CSR",
+      "unknown": "I am not sure / Help me find one"
+    },
+    "educationLevel": "Current Education Level",
+    "selectLevel": "Select your level...",
+    "levels": {
+      "school": "Pre-Matric / High School (Classes 8-10)",
+      "puc": "PUC / 11th-12th / Intermediate",
+      "diploma": "Polytechnic Diploma",
+      "degree": "Undergraduate Degree (BA, BSc, BCom, BE, MBBS)",
+      "pg": "Postgraduate (MA, MSc, MTech, PhD)"
+    },
+    "category": "Social Category / Caste",
+    "categories": {
+      "general": "General / Unreserved",
+      "obc": "OBC / Cat-1 / 2A / 2B / 3A / 3B",
+      "sc": "Scheduled Caste (SC)",
+      "st": "Scheduled Tribe (ST)",
+      "minority": "Religious Minority (Muslim, Christian, Jain, Sikh, etc.)"
+    },
+    "income": "Annual Family Income Range",
+    "incomeRanges": {
+      "under1lakh": "Below ₹1,00,000 per year",
+      "under25lakh": "Between ₹1,00,000 and ₹2,50,000 per year",
+      "above25lakh": "Above ₹2,50,000 per year"
+    },
+    "problemPrompt": "What is the primary issue you are facing?",
+    "problems": {
+      "apply": "I want to apply fresh for this academic year",
+      "missing_doc": "I am missing a document (Income, Caste, or SATS number)",
+      "rejected": "My application was rejected or returned with an objection",
+      "delayed_payment": "My application is approved, but scholarship money is not credited",
+      "renewal": "I need guidance on renewing my scholarship for next year"
+    },
+    "findMatchingBtn": "Check Eligible Schemes →",
+    "generatePlanBtn": "Generate Action Plan →",
+    "back": "← Back",
+    "startOver": "Start Over"
+  },
+  "nextStepCard": {
+    "header": "Action Plan & Next Steps",
+    "forService": "Guidance for",
+    "problemLabel": "Your Situation:",
+    "summaryLabel": "Overview & Procedure:",
+    "actionLabel": "Recommended Immediate Action:",
+    "checklistLabel": "Actionable Step-by-Step Checklist:",
+    "documentsLabel": "Required Documents Checklist:",
+    "escalationLabel": "Official Escalation & Helplines:",
+    "copy": "Copy Guidance",
+    "copied": "Copied to Clipboard!",
+    "print": "Print / Save PDF",
+    "openPortal": "Open Official Portal",
+    "askAi": "Ask AI Follow-Up",
+    "verifiedNotice": "Official government information verified on",
+    "disclaimer": "SevaSignal is an independent guidance platform and not an official government portal. Confirm crucial deadlines on the official portal."
+  },
+  "chat": {
+    "title": "SevaSignal AI Citizen Assistant",
+    "subtitle": "Ask any question about scholarships, certificates, or public services in simple language.",
+    "placeholder": "e.g., How do I apply for a student bus pass in Karnataka?",
+    "send": "Send",
+    "thinking": "Consulting verified public service database...",
+    "disclaimer": "Answers are grounded in verified government portals. Independent guidance platform.",
+    "clearChat": "Clear Conversation",
+    "quickPrompts": [
+      "How to renew KSRTC student bus pass?",
+      "Why is my SSP scholarship payment delayed?",
+      "How to download digitally signed Caste certificate?",
+      "Who is eligible for Gruha Jyothi zero-bill?"
+    ]
+  },
+  "footer": {
+    "desc": "A citizen navigation platform that translates bureaucratic complexity into clear, dignified, and actionable steps.",
+    "links": "Quick Links",
+    "about": "About Project",
+    "faqs": "Help & FAQs",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "contact": "Contact Project Team",
+    "disclaimerTitle": "Independent Academic Project Notice",
+    "disclaimerText": "SevaSignal is an independent student project created for civic guidance. It is not an official government portal and is not affiliated with, endorsed by, or representing any government ministry or department.",
+    "rights": "All rights reserved. Built with empathy for Indian citizens."
+  },
+  "modals": {
+    "aboutTitle": "About SevaSignal",
+    "aboutP1": "Navigating government portals in India can be overwhelming. Citizens often struggle to determine which scheme applies to them, what documents are required, or what to do when an application is stuck or rejected.",
+    "aboutP2": "SevaSignal was conceptualized as an empathetic, multilingual Citizen Navigation Layer. By combining structured official data with natural-language AI grounded in verified sources, SevaSignal breaks down bureaucratic jargon into clear Next-Step Cards.",
+    "aboutP3": "Notice: This application is an independent student project. We never collect Aadhaar numbers, OTPs, or passwords, and we never claim official government authority.",
+    "helpTitle": "Help & Frequently Asked Questions",
+    "faq1Q": "Is SevaSignal an official government website?",
+    "faq1A": "No. SevaSignal is an independent guidance and educational project. We provide verified links directly to official government portals (such as Seva Sindhu, NSP, and Parivahan) where official applications take place.",
+    "faq2Q": "Can I submit my application directly through SevaSignal?",
+    "faq2A": "No. All official transactions, document uploads, and fee payments must be completed on the authorized government portal. SevaSignal provides the preparation checklist and guidance before you visit the official portal.",
+    "faq3Q": "How do you ensure information is accurate?",
+    "faq3A": "Every record in our database is linked to the official source URL and displays a verification timestamp. When information is partial, we explicitly flag it.",
+    "privacyTitle": "Privacy Policy",
+    "privacyText": "Your privacy and security are our highest priority. We do not store sensitive personal information such as Aadhaar numbers, bank passwords, or biometric data. Any questions submitted to the AI assistant are processed securely strictly to provide public service answers.",
+    "termsTitle": "Terms of Use",
+    "termsText": "The information provided on SevaSignal is for general informational and navigational guidance only. Government rules, eligibility criteria, and fee structures are subject to change by respective government departments. Always verify final instructions on the official department portal.",
+    "close": "Close"
+  }
+}

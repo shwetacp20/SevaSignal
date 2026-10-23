@@ -1,0 +1,1941 @@
+{
+  "categories": [
+    {
+      "id": "education_scholarships",
+      "slug": "scholarships",
+      "order": 1,
+      "title": {
+        "en": "Education & Scholarships",
+        "kn": "ಶಿಕ್ಷಣ ಮತ್ತು ವಿದ್ಯಾರ್ಥಿವೇತನ",
+        "hi": "शिक्षा और छात्रवृत्तियाँ"
+      },
+      "short_title": {
+        "en": "Scholarships",
+        "kn": "ವಿದ್ಯಾರ್ಥಿವೇತನ",
+        "hi": "छात्रवृत्तियाँ"
+      },
+      "description": {
+        "en": "Find and apply for scholarships suited to your education.",
+        "kn": "ನಿಮ್ಮ ಶಿಕ್ಷಣಕ್ಕೆ ಸೂಕ್ತವಾದ ವಿದ್ಯಾರ್ಥಿವೇತನಗಳನ್ನು ಹುಡುಕಿ ಮತ್ತು ಅರ್ಜಿ ಸಲ್ಲಿಸಿ.",
+        "hi": "अपनी शिक्षा के अनुकूल उपयुक्त छात्रवृत्तियाँ खोजें और आवेदन करें।"
+      },
+      "color_theme": "blue",
+      "bg_color": "#EAF2FF",
+      "accent_color": "#2563EB",
+      "image_key": "card_scholarships.png"
+    },
+    {
+      "id": "certificates_documents",
+      "slug": "certificates",
+      "order": 2,
+      "title": {
+        "en": "Certificates & Documents",
+        "kn": "ಪ್ರಮಾಣಪತ್ರಗಳು ಮತ್ತು ದಾಖಲೆಗಳು",
+        "hi": "प्रमाणपत्र और दस्तावेज़"
+      },
+      "short_title": {
+        "en": "Certificates",
+        "kn": "ಪ್ರಮಾಣಪತ್ರಗಳು",
+        "hi": "प्रमाणपत्र"
+      },
+      "description": {
+        "en": "Get guidance on birth, income, residence and other certificates.",
+        "kn": "ಜನನ, ಆದಾಯ, ವಾಸಸ್ಥಳ ಮತ್ತು ಇತರ ಪ್ರಮಾಣಪತ್ರಗಳ ಕುರಿತು ಮಾರ್ಗದರ್ಶನ ಪಡೆಯಿರಿ.",
+        "hi": "जन्म, आय, निवास और अन्य प्रमाणपत्रों पर मार्गदर्शन प्राप्त करें।"
+      },
+      "color_theme": "green",
+      "bg_color": "#EAF7EF",
+      "accent_color": "#059669",
+      "image_key": "card_certificates.png"
+    },
+    {
+      "id": "transport_travel",
+      "slug": "transport",
+      "order": 3,
+      "title": {
+        "en": "Transport & Travel",
+        "kn": "ಸಾರಿಗೆ ಮತ್ತು ಪ್ರಯಾಣ",
+        "hi": "परिवहन और यात्रा"
+      },
+      "short_title": {
+        "en": "Transport",
+        "kn": "ಸಾರಿಗೆ",
+        "hi": "परिवहन"
+      },
+      "description": {
+        "en": "Access student bus passes, driving licence guidance and vehicle services.",
+        "kn": "ವಿದ್ಯಾರ್ಥಿ ಬಸ್ ಪಾಸ್, ಡ್ರೈವಿಂಗ್ ಲೈಸೆನ್ಸ್ ಮಾರ್ಗದರ್ಶನ ಮತ್ತು ವಾಹನ ಸೇವೆಗಳನ್ನು ಪ್ರವೇಶಿಸಿ.",
+        "hi": "छात्र बस पास, ड्राइविंग लाइसेंस मार्गदर्शन और वाहन सेवाओं तक पहुँचें।"
+      },
+      "color_theme": "orange",
+      "bg_color": "#FFF5E4",
+      "accent_color": "#D97706",
+      "image_key": "card_transport.png"
+    },
+    {
+      "id": "grievances_complaints",
+      "slug": "grievances",
+      "order": 4,
+      "title": {
+        "en": "Grievances & Complaints",
+        "kn": "ದೂರುಗಳು ಮತ್ತು ಅಹವಾಲುಗಳು",
+        "hi": "शिकायतें और जन-शिकायत निवारण"
+      },
+      "short_title": {
+        "en": "Grievances",
+        "kn": "ದೂರುಗಳು",
+        "hi": "शिकायतें"
+      },
+      "description": {
+        "en": "Find the correct complaint channel and understand escalation steps.",
+        "kn": "ಸರಿಯಾದ ದೂರು ವಿಭಾಗವನ್ನು ಹುಡುಕಿ ಮತ್ತು ಮುಂದಿನ ಹಂತಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ.",
+        "hi": "उचित शिकायत निवारण चैनल खोजें और क्रमिक कार्रवाई के चरण समझें।"
+      },
+      "color_theme": "purple",
+      "bg_color": "#EEF0FC",
+      "accent_color": "#4F46E5",
+      "image_key": "card_grievances.png"
+    },
+    {
+      "id": "pensions_welfare",
+      "slug": "pensions",
+      "order": 5,
+      "title": {
+        "en": "Pensions & Welfare Benefits",
+        "kn": "ಪಿಂಚಣಿ ಮತ್ತು ಕಲ್ಯಾಣ",
+        "hi": "पेंशन और कल्याण"
+      },
+      "short_title": {
+        "en": "Pensions & Welfare",
+        "kn": "ಪಿಂಚಣಿ ಮತ್ತು ಕಲ್ಯಾಣ",
+        "hi": "पेंशन और कल्याण"
+      },
+      "description": {
+        "en": "Understand public pension schemes, benefit eligibility and renewal procedures.",
+        "kn": "ಸಾರ್ವಜನಿಕ ಪಿಂಚಣಿ ಯೋಜನೆಗಳು, ಅರ್ಹತೆ ಮತ್ತು ನವೀಕರಣ ಪ್ರಕ್ರಿಯೆಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ.",
+        "hi": "सरकारी पेंशन योजनाओं, पात्रता मानदंडों और नवीनीकरण प्रक्रियाओं को समझें।"
+      },
+      "color_theme": "rose",
+      "bg_color": "#FFF1F2",
+      "accent_color": "#E11D48",
+      "image_key": "card_pensions"
+    },
+    {
+      "id": "ration_food",
+      "slug": "ration",
+      "order": 6,
+      "title": {
+        "en": "Ration Cards & Food Services",
+        "kn": "ಪಡಿತರ ಚೀಟಿ",
+        "hi": "राशन कार्ड"
+      },
+      "short_title": {
+        "en": "Ration Cards",
+        "kn": "ಪಡಿತರ ಚೀಟಿ",
+        "hi": "राशन कार्ड"
+      },
+      "description": {
+        "en": "Find guidance on ration cards, family-member updates and corrections.",
+        "kn": "ಪಡಿತರ ಚೀಟಿ ಅರ್ಜಿ, ಕುಟುಂಬ ಸದಸ್ಯರ ಸೇರ್ಪಡೆ ಮತ್ತು ತಿದ್ದುಪಡಿಗಳ ಮಾರ್ಗದರ್ಶನ ಪಡೆಯಿರಿ.",
+        "hi": "राशन कार्ड, परिवार के सदस्यों को जोड़ने और संशोधन के बारे में मार्गदर्शन प्राप्त करें।"
+      },
+      "color_theme": "amber",
+      "bg_color": "#FEF3C7",
+      "accent_color": "#B45309",
+      "image_key": "card_ration"
+    },
+    {
+      "id": "agriculture_farmer",
+      "slug": "agriculture",
+      "order": 7,
+      "title": {
+        "en": "Agriculture & Farmer Schemes",
+        "kn": "ಕೃಷಿ ಮತ್ತು ರೈತ ಯೋಜನೆಗಳು",
+        "hi": "कृषि और किसान योजनाएं"
+      },
+      "short_title": {
+        "en": "Farmer Schemes",
+        "kn": "ರೈತ ಯೋಜನೆಗಳು",
+        "hi": "किसान योजनाएं"
+      },
+      "description": {
+        "en": "Explore farmer schemes, application steps and agricultural support services.",
+        "kn": "ರೈತ ಯೋಜನೆಗಳು, ಅರ್ಜಿ ಹಂತಗಳು ಮತ್ತು ಕೃಷಿ ಬೆಂಬಲ ಸೇವೆಗಳನ್ನು ಅನ್ವೇಷಿಸಿ.",
+        "hi": "किसान योजनाओं, आवेदन के चरणों और कृषि सहायता सेवाओं की जानकारी लें।"
+      },
+      "color_theme": "emerald",
+      "bg_color": "#ECFDF5",
+      "accent_color": "#047857",
+      "image_key": "card_agriculture"
+    },
+    {
+      "id": "utilities_local",
+      "slug": "utilities",
+      "order": 8,
+      "title": {
+        "en": "Utilities & Local Services",
+        "kn": "ಸ್ಥಳೀಯ ಸೇವೆಗಳು",
+        "hi": "उपयोगिताएं और स्थानीय सेवाएं"
+      },
+      "short_title": {
+        "en": "Utilities & Local",
+        "kn": "ಸ್ಥಳೀಯ ಸೇವೆಗಳು",
+        "hi": "उपयोगिताएं"
+      },
+      "description": {
+        "en": "Find help with electricity, water bills and local service requests.",
+        "kn": "ವಿದ್ಯುತ್, ನೀರಿನ ಬಿಲ್ ಸಮಸ್ಯೆಗಳು ಮತ್ತು ಸ್ಥಳೀಯ ಸೇವಾ ಮನವಿಗಳಿಗೆ ನೆರವು ಪಡೆಯಿರಿ.",
+        "hi": "बिजली, पानी के बिल और स्थानीय नागरिक समस्याओं के समाधान में सहायता पाएं।"
+      },
+      "color_theme": "teal",
+      "bg_color": "#F0FDFA",
+      "accent_color": "#0F766E",
+      "image_key": "card_utilities"
+    }
+  ],
+  "services": [
+    {
+      "id": "ssp_postmatric_karnataka",
+      "category_id": "education_scholarships",
+      "name": {
+        "en": "Karnataka State Scholarship Portal (SSP) - Post-Matric",
+        "kn": "ಕರ್ನಾಟಕ ರಾಜ್ಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ (SSP) - ಮೆಟ್ರಿಕ್ ನಂತರದ",
+        "hi": "कर्नाटक राज्य छात्रवृत्ति पोर्टल (एसएसपी) - पोस्ट-मैट्रिक"
+      },
+      "provider": {
+        "en": "Government of Karnataka (Social Welfare, BCWD, Tribal Welfare, DTE)",
+        "kn": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ (ಸಮಾಜ ಕಲ್ಯಾಣ, ಹಿಂದುಳಿದ ವರ್ಗ, ಬುಡಕಟ್ಟು ಕಲ್ಯಾಣ)",
+        "hi": "कर्नाटक सरकार (समाज कल्याण, पिछड़ा वर्ग, जनजातीय कल्याण विभाग)"
+      },
+      "scope": "Karnataka",
+      "portal_url": "https://ssp.postmatric.karnataka.gov.in/",
+      "verification_status": "verified",
+      "last_verified": "2026-03-15",
+      "summary": {
+        "en": "Unified scholarship portal for Karnataka students enrolled in post-matric courses (PUC, Diploma, Degree, PG, Engineering, Medical). Offers tuition reimbursement and maintenance allowance.",
+        "kn": "ಮೆಟ್ರಿಕ್ ನಂತರದ ಕೋರ್ಸ್‌ಗಳಲ್ಲಿ (ಪಿಯುಸಿ, ಪದವಿ, ಡಿಪ್ಲೊಮಾ, ಪಿಜಿ, ಇಂಜಿನಿಯರಿಂಗ್, ಮೆಡಿಕಲ್) ಓದುತ್ತಿರುವ ಕರ್ನಾಟಕದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಶುಲ್ಕ ಮರುಪಾವತಿ ಮತ್ತು ನಿರ್ವಹಣಾ ಭತ್ಯೆ ಒದಗಿಸುವ ಏಕೀಕೃತ ಪೋರ್ಟಲ್.",
+        "hi": "पोस्ट-मैट्रिक पाठ्यक्रमों (पीयूसी, डिप्लोमा, डिग्री, पीजी, इंजीनियरिंग, मेडिकल) में अध्ययनरत कर्नाटक के छात्रों के लिए शुल्क प्रतिपूर्ति और रख-रखाव भत्ता प्रदान करने वाला एकीकृत पोर्टल।"
+      },
+      "eligibility": {
+        "en": [
+          "Karnataka resident / domicile",
+          "Studying in a recognized post-matric course in Karnataka",
+          "Annual family income: SC/ST up to ₹2.5 Lakhs (Freeship card up to ₹10L); Cat-1 up to ₹2.5 Lakhs; 2A/2B/3A/3B up to ₹1.0 Lakh",
+          "Aadhaar-seeded bank account enabled for Direct Benefit Transfer (DBT via NPCI)"
+        ],
+        "kn": [
+          "ಕರ್ನಾಟಕದ ಖಾಯಂ ನಿವಾಸಿ",
+          "ಕರ್ನಾಟಕದ ಮಾನ್ಯತೆ ಪಡೆದ ಕಾಲೇಜಿನಲ್ಲಿ ಪಿಯುಸಿ/ಪದವಿ/ಡಿಪ್ಲೊಮಾ/ಪಿಜಿ ವ್ಯಾಸಂಗ",
+          "ಕುಟುಂಬದ ವಾರ್ಷಿಕ ಆದಾಯ ಮಿತಿ (SC/ST: ₹2.5 ಲಕ್ಷ; Cat-1: ₹2.5 ಲಕ್ಷ; 2A/2B/3A/3B: ₹1.0 ಲಕ್ಷ)",
+          "ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಆಧಾರ್-NPCI ಮ್ಯಾಪಿಂಗ್ ಸಕ್ರಿಯವಾಗಿರಬೇಕು (DBT ಸಕ್ರಿಯ)"
+        ],
+        "hi": [
+          "कर्नाटक का स्थायी निवासी",
+          "कर्नाटक के मान्यता प्राप्त कॉलेज में पोस्ट-मैट्रिक पाठ्यक्रम में अध्ययनरत",
+          "परिवार की वार्षिक आय सीमा (एससी/एसटी: ₹2.5 लाख; कैट-1: ₹2.5 लाख; 2A/2B/3A/3B: ₹1.0 लाख)",
+          "डीबीटी सक्षम आधार-लिंक्ड एनपीसीआई सक्रिय बैंक खाता"
+        ]
+      },
+      "required_documents": {
+        "en": [
+          "Student Aadhaar Number & registered mobile for OTP",
+          "SSLC / 10th Registration Number & Year of Passing",
+          "College Admission / University Registration / SATS Number",
+          "Valid Nadakacheri Caste & Income Certificate RD Number",
+          "College Fee Receipt & Bonafide Certificate",
+          "Bank Account passbook copy (Aadhaar NPCI mapped)"
+        ],
+        "kn": [
+          "ವಿದ್ಯಾರ್ಥಿಯ ಆಧಾರ್ ಸಂಖ್ಯೆ ಮತ್ತು OTP ಗಾಗಿ ನೋಂದಾಯಿತ ಮೊಬೈಲ್",
+          "SSLC ಅಂಕಪಟ್ಟಿ ನೋಂದಣಿ ಸಂಖ್ಯೆ ಮತ್ತು ಉತ್ತೀರ್ಣ ವರ್ಷ",
+          "ಕಾಲೇಜು ಪ್ರವೇಶ ರಶೀದಿ / ವಿಶ್ವವಿದ್ಯಾಲಯ ನೋಂದಣಿ / SATS ಸಂಖ್ಯೆ",
+          "ಚಾಲ್ತಿಯಲ್ಲಿರುವ ನಡಕಚೇರಿ ಜಾತಿ ಮತ್ತು ಆದಾಯ ಪ್ರಮಾಣಪತ್ರದ RD ಸಂಖ್ಯೆ",
+          "ಕಾಲೇಜು ಶುಲ್ಕ ರಶೀದಿ",
+          "ಆಧಾರ್ ಲಿಂಕ್ ಆದ ಬ್ಯಾಂಕ್ ಖಾತೆ ವಿವರ"
+        ],
+        "hi": [
+          "छात्र आधार संख्या एवं ओटीपी हेतु पंजीकृत मोबाइल नंबर",
+          "10वीं/एसएसएलसी रोल नंबर एवं उत्तीर्ण वर्ष",
+          "कॉलेज प्रवेश संख्या / एसएटीएस नंबर",
+          "वैध नाडाकचेरी जाति एवं आय प्रमाणपत्र आरडी संख्या",
+          "कॉलेज फीस रसीद एवं बोनाफाइड",
+          "एनपीसीआई से जुड़ा आधार-सक्रिय बैंक खाता"
+        ]
+      },
+      "common_problems": [
+        {
+          "problem_id": "ssp_apply_fresh",
+          "problem_title": {
+            "en": "Apply fresh for SSP scholarship",
+            "kn": "ಹೊಸ SSP ವಿದ್ಯಾರ್ಥಿವೇತನಕ್ಕೆ ಅರ್ಜಿ ಸಲ್ಲಿಕೆ",
+            "hi": "नई एसएसपी छात्रवृत्ति के लिए आवेदन"
+          },
+          "recommended_action": {
+            "en": "Create an SSP Student Account using Aadhaar e-KYC, enter your SSLC registration number, link your Nadakacheri RD number, and submit college verification.",
+            "kn": "ಆಧಾರ್ ಇ-ಕೆವೈಸಿ ಮೂಲಕ SSP ವಿದ್ಯಾರ್ಥಿ ಖಾತೆ ರಚಿಸಿ, SSLC ನೋಂದಣಿ ಸಂಖ್ಯೆ, ನಡಕಚೇರಿ RD ಸಂಖ್ಯೆ ನಮೂದಿಸಿ ಮತ್ತು ಕಾಲೇಜು ವಿವರ ಸಲ್ಲಿಸಿ.",
+            "hi": "आधार ई-केवाईसी द्वारा एसएसपी छात्र खाता बनाएं, एसएसएलसी रोल नंबर दर्ज करें, नाडाकचेरी आरडी नंबर जोड़ें और कॉलेज सत्यापन सबमिट करें।"
+          },
+          "checklist": {
+            "en": [
+              "Visit official SSP portal at https://ssp.postmatric.karnataka.gov.in/ and click 'Create Account'",
+              "Authenticate with Student Aadhaar and mobile OTP",
+              "Enter SSLC Reg No to fetch student credentials automatically from Karnataka board",
+              "Enter active Nadakacheri Caste & Income RD numbers (ensure name matches Aadhaar)",
+              "Enter College Admission Details and upload documents for college e-Attestation (eattestation.karnataka.gov.in)",
+              "Submit online and submit the acknowledgement receipt copy to your college scholarship counter"
+            ],
+            "kn": [
+              "https://ssp.postmatric.karnataka.gov.in/ ಗೆ ಭೇಟಿ ನೀಡಿ 'ಖಾತೆ ರಚಿಸಿ' ಕ್ಲಿಕ್ ಮಾಡಿ",
+              "ವಿದ್ಯಾರ್ಥಿ ಆಧಾರ್ ಮತ್ತು ಮೊಬೈಲ್ OTP ಮೂಲಕ ಪರಿಶೀಲಿಸಿ",
+              "SSLC ನೋಂದಣಿ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ ವಿದ್ಯಾರ್ಥಿ ವಿವರಗಳನ್ನು ಪಡೆಯಿರಿ",
+              "ಚಾಲ್ತಿಯಲ್ಲಿರುವ ಜಾತಿ ಮತ್ತು ಆದಾಯ RD ಸಂಖ್ಯೆ ನಮೂದಿಸಿ",
+              "ಕಾಲೇಜು ಪ್ರವೇಶ ವಿವರ ನಮೂದಿಸಿ ಮತ್ತು ಇ-ದೃಢೀಕರಣ (e-Attestation) ಮಾಡಿಸಿ",
+              "ಅರ್ಜಿ ಸಲ್ಲಿಸಿ ಸ್ವೀಕೃತಿ ಪ್ರತಿಯನ್ನು ನಿಮ್ಮ ಕಾಲೇಜಿನ ಸ್ಕಾಲರ್‌ಶಿಪ್ ಕೌಂಟರ್‌ಗೆ ಸಲ್ಲಿಸಿ"
+            ],
+            "hi": [
+              "आधिकारिक पोर्टल https://ssp.postmatric.karnataka.gov.in/ पर जाएं और 'खाता बनाएं' चुनें",
+              "छात्र आधार एवं ओटीपी द्वारा प्रमाणीकरण पूरा करें",
+              "एसएसएलसी पंजीकरण संख्या दर्ज कर शैक्षणिक विवरण प्राप्त करें",
+              "वैध जाति व आय आरडी संख्या दर्ज करें",
+              "कॉलेज प्रवेश विवरण भरें और ई-सत्यापन (e-Attestation) पूरा करवाएं",
+              "आवेदन जमा कर कॉलेज छात्रवृत्ति काउंटर पर पावती प्रति जमा करें"
+            ]
+          },
+          "escalation_route": {
+            "en": "SSP Helpline: 080-35254757 / Social Welfare: 1902. Or visit your college scholarship nodal officer.",
+            "kn": "SSP ಸಹಾಯವಾಣಿ: 080-35254757 / ಸಮಾಜ ಕಲ್ಯಾಣ: 1902. ಅಥವಾ ಕಾಲೇಜು ನೋಡಲ್ ಅಧಿಕಾರಿಯನ್ನು ಸಂಪರ್ಕಿಸಿ.",
+            "hi": "एसएसपी हेल्पलाइन: 080-35254757 / समाज कल्याण: 1902 अथवा कॉलेज नोडल अधिकारी।"
+          }
+        },
+        {
+          "problem_id": "ssp_eligibility_qualification",
+          "problem_title": {
+            "en": "Eligibility & qualification for SSP scholarship",
+            "kn": "SSP ವಿದ್ಯಾರ್ಥಿವೇತನದ ಅರ್ಹತೆ ಮತ್ತು ಶೈಕ್ಷಣಿಕ ಮಾನದಂಡ",
+            "hi": "एसएसपी छात्रवृत्ति के लिए पात्रता एवं योग्यता"
+          },
+          "recommended_action": {
+            "en": "Verify that you are a Karnataka domicile student admitted to a post-matric course (PUC, Diploma, Degree, PG, Professional) with family income under prescribed limits (SC/ST ₹2.5L, Cat-1 ₹2.5L, others ₹1.0L).",
+            "kn": "ನೀವು ಕರ್ನಾಟಕದ ನಿವಾಸಿಯಾಗಿದ್ದು, ಮೆಟ್ರಿಕ್ ನಂತರದ ಕೋರ್ಸ್‌ಗೆ ದಾಖಲಾಗಿದ್ದು, ನಿಗದಿತ ವಾರ್ಷಿಕ ಆದಾಯ ಮಿತಿಯೊಳಗಿದ್ದೀರಾ (SC/ST ₹2.5L, Cat-1 ₹2.5L, ಇತರರು ₹1.0L) ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.",
+            "hi": "जांचें कि आप कर्नाटक निवासी हैं, पोस्ट-मैट्रिक कोर्स में प्रवेशित हैं और पारिवारिक आय निर्धारित सीमा के भीतर है (एससी/एसटी ₹2.5L, कैट-1 ₹2.5L, अन्य ₹1.0L)।"
+          },
+          "checklist": {
+            "en": [
+              "Must be a Karnataka domicile holding a valid state address proof",
+              "Enrolled in regular Post-Matric courses (PUC, ITI, Diploma, Degree, Engineering, Medical, PG)",
+              "Annual family income limits: SC/ST up to ₹2,50,000 (Freeship up to ₹10 Lakhs); Cat-1 up to ₹2,50,000; 2A/2B/3A/3B up to ₹1,00,000",
+              "Must have a valid Nadakacheri Caste/Income RD certificate in the student's or father/mother's name",
+              "Bank account must be active in student's own name and mapped to Aadhaar NPCI for DBT"
+            ],
+            "kn": [
+              "ಕರ್ನಾಟಕ ರಾಜ್ಯದ ಖಾಯಂ ನಿವಾಸಿಯಾಗಿರಬೇಕು",
+              "ಮಾನ್ಯತೆ ಪಡೆದ ಪಿಯುಸಿ, ಐಟಿಐ, ಡಿಪ್ಲೊಮಾ, ಪದವಿ, ಸ್ನಾತಕೋತ್ತರ ಅಥವಾ ವೃತ್ತಿಪರ ಕೋರ್ಸ್ ವ್ಯಾಸಂಗ ಮಾಡುತ್ತಿರಬೇಕು",
+              "ವಾರ್ಷಿಕ ಆದಾಯ ಮಿತಿ: SC/ST ₹2.5 ಲಕ್ಷ (ಫ್ರೀಶಿಪ್ ₹10 ಲಕ್ಷದವರೆಗೆ); Cat-1 ₹2.5 ಲಕ್ಷ; 2A/2B/3A/3B ₹1.0 ಲಕ್ಷ",
+              "ವಿದ್ಯಾರ್ಥಿ ಹೆಸರಿನಲ್ಲಿ ಸಕ್ರಿಯ ನಡಕಚೇರಿ RD ಪ್ರಮಾಣಪತ್ರವಿರಬೇಕು",
+              "ವಿದ್ಯಾರ್ಥಿಯ ಸ್ವಂತ ಹೆಸರಿನ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಆಧಾರ್-NPCI ಜೋಡಣೆಯಾಗಿರಬೇಕು"
+            ],
+            "hi": [
+              "कर्नाटक का स्थायी अधिवास (डोमिसाइल) होना आवश्यक है",
+              "मान्यता प्राप्त पोस्ट-मैट्रिक (पीयूसी, डिप्लोमा, डिग्री, पीजी) में नियमित छात्र हों",
+              "पारिवारिक आय सीमा: एससी/एसटी ₹2.5 लाख; कैट-1 ₹2.5 लाख; अन्य पिछड़ा वर्ग ₹1.0 लाख",
+              "सक्रिय नाडाकचेरी जाति/आय आरडी प्रमाणपत्र उपलब्ध हो",
+              "छात्र के नाम पर बैंक खाता आधार-एनपीसीआई से मैप होना अनिवार्य है"
+            ]
+          },
+          "escalation_route": {
+            "en": "Karnataka Social Welfare Dept Toll-Free: 1902 / SSP Support: 080-35254757",
+            "kn": "ಕರ್ನಾಟಕ ಸಮಾಜ ಕಲ್ಯಾಣ ಸಹಾಯವಾಣಿ: 1902 / SSP ಬೆಂಬಲ: 080-35254757",
+            "hi": "कर्नाटक समाज कल्याण टोल-फ्री: 1902 / एसएसपी सपोर्ट: 080-35254757"
+          }
+        },
+        {
+          "problem_id": "ssp_documents_required",
+          "problem_title": {
+            "en": "Required documents for SSP scholarship",
+            "kn": "SSP ವಿದ್ಯಾರ್ಥಿವೇತನಕ್ಕೆ ಅಗತ್ಯವಿರುವ ದಾಖಲೆಗಳು",
+            "hi": "एसएसपी छात्रवृत्ति हेतु आवश्यक दस्तावेज"
+          },
+          "recommended_action": {
+            "en": "Assemble Student Aadhaar, SSLC marks card number, active Nadakacheri Caste & Income RD numbers, college admission fee receipt, and bank passbook with NPCI Aadhaar seeding.",
+            "kn": "ವಿದ್ಯಾರ್ಥಿ ಆಧಾರ್, SSLC ನೋಂದಣಿ ಸಂಖ್ಯೆ, ಚಾಲ್ತಿಯಲ್ಲಿರುವ ನಡಕಚೇರಿ ಜಾತಿ/ಆದಾಯ RD ಸಂಖ್ಯೆ, ಕಾಲೇಜು ಪ್ರವೇಶ ರಶೀದಿ ಮತ್ತು NPCI ಸಕ್ರಿಯ ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್ ಸಿದ್ಧಪಡಿಸಿ.",
+            "hi": "छात्र आधार कार्ड, 10वीं का रोल नंबर, वैध नाडाकचेरी जाति व आय आरडी संख्या, कॉलेज प्रवेश रसीद और एनपीसीआई सक्रिय बैंक पासबुक तैयार रखें।"
+          },
+          "checklist": {
+            "en": [
+              "Student Aadhaar Card (with active phone number linked for OTP)",
+              "10th / SSLC Marks Card Registration Number (for automated profile verification)",
+              "Nadakacheri Caste & Income Certificate RD Number (check validity on nadakacheri.karnataka.gov.in)",
+              "College Admission Fee Receipt with Fee Breakdown",
+              "College SATS / Student Registration Number",
+              "Hostel Stay Certificate (if availing hostel fee/maintenance allowance)",
+              "Disability Certificate UDID (for differently-abled applicants)"
+            ],
+            "kn": [
+              "ವಿದ್ಯಾರ್ಥಿಯ ಆಧಾರ್ ಕಾರ್ಡ್ (OTP ಗಾಗಿ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಲಿಂಕ್ ಆಗಿರಬೇಕು)",
+              "SSLC / 10ನೇ ತರಗತಿ ಅಂಕಪಟ್ಟಿ ನೋಂದಣಿ ಸಂಖ್ಯೆ",
+              "ಚಾಲ್ತಿಯಲ್ಲಿರುವ ಜಾತಿ ಮತ್ತು ಆದಾಯ ಪ್ರಮಾಣಪತ್ರದ RD ಸಂಖ್ಯೆ (ನಡಕಚೇರಿ)",
+              "ಕಾಲೇಜು ಪ್ರವೇಶ ಶುಲ್ಕ ಪಾವತಿ ರಶೀದಿ",
+              "ಕಾಲೇಜು SATS ಸಂಖ್ಯೆ / ನೋಂದಣಿ ಸಂಖ್ಯೆ",
+              "ಹಾಸ್ಟೆಲ್ ವಾಸ ಪ್ರಮಾಣಪತ್ರ (ಹಾಸ್ಟೆಲ್ ಭತ್ಯೆ ಪಡೆಯುವುದಾದರೆ)",
+              "ಅಂಗವಿಕಲತೆಯ UDID ಪ್ರಮಾಣಪತ್ರ (ಅನ್ವಯಿಸಿದಲ್ಲಿ)"
+            ],
+            "hi": [
+              "छात्र आधार कार्ड (ओटीपी हेतु मोबाइल से लिंक)",
+              "10वीं/एसएसएलसी रोल नंबर",
+              "वैध नाडाकचेरी जाति एवं आय प्रमाणपत्र आरडी संख्या",
+              "कॉलेज प्रवेश एवं शुल्क रसीद",
+              "कॉलेज एसएटीएस / पंजीकरण संख्या",
+              "छात्रावास प्रमाण पत्र (यदि लागू हो)",
+              "दिव्यांगता यूडीआईडी प्रमाण पत्र (यदि लागू हो)"
+            ]
+          },
+          "escalation_route": {
+            "en": "Helpdesk: 080-35254757 / Email: postmatrichelp@karnataka.gov.in",
+            "kn": "ಸಹಾಯವಾಣಿ: 080-35254757 / ಇಮೇಲ್: postmatrichelp@karnataka.gov.in",
+            "hi": "हेल्पलाइन: 080-35254757 / ईमेल: postmatrichelp@karnataka.gov.in"
+          }
+        },
+        {
+          "problem_id": "ssp_renewal",
+          "problem_title": {
+            "en": "Renew SSP scholarship for existing students",
+            "kn": "ಹಾಲಿ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ SSP ವಿದ್ಯಾರ್ಥಿವೇತನ ನವೀಕರಣ",
+            "hi": "मौजूदा छात्रों के लिए एसएसपी छात्रवृत्ति का नवीनीकरण"
+          },
+          "recommended_action": {
+            "en": "Log in with your existing Student ID, verify your previous year marks via e-Attestation, confirm your ongoing college admission, and submit the renewal application.",
+            "kn": "ನಿಮ್ಮ ಹಳೆಯ ವಿದ್ಯಾರ್ಥಿ ಐಡಿ ಬಳಸಿ ಲಾಗಿನ್ ಆಗಿ, ಇ-ದೃಢೀಕರಣದ ಮೂಲಕ ಹಿಂದಿನ ವರ್ಷದ ಅಂಕಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ನವೀಕರಣ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ.",
+            "hi": "अपनी पुरानी छात्र आईडी से लॉगिन करें, ई-अटेस्टेशन द्वारा पिछले वर्ष के अंक सत्यापित करें और नवीनीकरण फॉर्म सबमिट करें।"
+          },
+          "checklist": {
+            "en": [
+              "Login to SSP portal at https://ssp.postmatric.karnataka.gov.in/ with your existing Student ID and Password",
+              "Select 'Apply for Scholarship (Renewal)' for current academic year",
+              "Check e-Attestation portal (eattestation.karnataka.gov.in) to verify previous semester marks card",
+              "Verify if your Caste & Income certificate RD number is still valid (re-enter new RD if expired)",
+              "Confirm current college/course admission details fetched from university portal",
+              "Submit application and print acknowledgement copy for college verification"
+            ],
+            "kn": [
+              "https://ssp.postmatric.karnataka.gov.in/ ನಲ್ಲಿ ಹಿಂದಿನ ವಿದ್ಯಾರ್ಥಿ ಐಡಿ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಬಳಸಿ ಲಾಗಿನ್ ಮಾಡಿ",
+              "ಪ್ರಸಕ್ತ ಶೈಕ್ಷಣಿಕ ವರ್ಷಕ್ಕೆ 'ವಿದ್ಯಾರ್ಥಿವೇತನ ನವೀಕರಣ' ಆಯ್ಕೆಮಾಡಿ",
+              "ಇ-ದೃಢೀಕರಣ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಹಿಂದಿನ ಸೆಮಿಸ್ಟರ್ ಅಂಕಪಟ್ಟಿ ಅನುಮೋದನೆಯಾಗಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ",
+              "ಜಾತಿ/ಆದಾಯ RD ಸಂಖ್ಯೆಯ ಸಿಂಧುತ್ವ ಪರಿಶೀಲಿಸಿ (ಅವಧಿ ಮುಗಿದಿದ್ದರೆ ಹೊಸ RD ನಮೂದಿಸಿ)",
+              "ಕಾಲೇಜು ಪ್ರವೇಶ ವಿವರ ಖಚಿತಪಡಿಸಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ ಮತ್ತು ರಶೀದಿ ಮುದ್ರಿಸಿಕೊಳ್ಳಿ"
+            ],
+            "hi": [
+              "मौजूदा छात्र आईडी एवं पासवर्ड से https://ssp.postmatric.karnataka.gov.in/ पर लॉगिन करें",
+              "'छात्रवृत्ति नवीनीकरण' का विकल्प चुनें",
+              "ई-अटेस्टेशन पोर्टल पर पिछले सत्र की अंकतालिका सत्यापन की जांच करें",
+              "जांचें कि जाति व आय आरडी संख्या वैध है या नहीं",
+              "नवीनतम कॉलेज प्रवेश विवरण की पुष्टि कर सबमिट करें और पावती प्रिंट करें"
+            ]
+          },
+          "escalation_route": {
+            "en": "Helpline: 080-35254757 / College Scholarship Officer",
+            "kn": "ಸಹಾಯವಾಣಿ: 080-35254757 / ಕಾಲೇಜು ಸ್ಕಾಲರ್‌ಶಿಪ್ ಅಧಿಕಾರಿ",
+            "hi": "हेल्पलाइन: 080-35254757 / कॉलेज छात्रवृत्ति अधिकारी"
+          }
+        },
+        {
+          "problem_id": "ssp_payment_delayed",
+          "problem_title": {
+            "en": "Why is my SSP scholarship payment delayed?",
+            "kn": "ನನ್ನ SSP ವಿದ್ಯಾರ್ಥಿವೇತನ ಹಣ ಏಕೆ ತಡವಾಗಿದೆ?",
+            "hi": "मेरी एसएसपी छात्रवृत्ति का भुगतान क्यों विलंबित है?"
+          },
+          "recommended_action": {
+            "en": "Check your payment disbursement status on DBT Karnataka (dbt.karnataka.gov.in) and ensure your bank account has active Aadhaar NPCI seeding.",
+            "kn": "ಕರ್ನಾಟಕ DBT ಪೋರ್ಟಲ್‌ನಲ್ಲಿ (dbt.karnataka.gov.in) ಪಾವತಿ ಸ್ಥಿತಿ ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಆಧಾರ್-NPCI ಮ್ಯಾಪಿಂಗ್ ಸಕ್ರಿಯವಾಗಿದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.",
+            "hi": "डीबीटी कर्नाटक पोर्टल (dbt.karnataka.gov.in) पर भुगतान की स्थिति जांचें और सुनिश्चित करें कि बैंक खाता आधार-एनपीसीआई से जुड़ा है।"
+          },
+          "checklist": {
+            "en": [
+              "Login to Karnataka DBT Portal at https://dbt.karnataka.gov.in/ using your Aadhaar number",
+              "Check 'Payment Status' tab to view transaction status and failure remarks if any",
+              "Verify if the status shows 'Aadhaar not mapped to NPCI' or 'Account Inactive/Dormant'",
+              "If NPCI unmapped: Visit your bank branch in person and submit 'Aadhaar DBT Seeding Mandate'",
+              "Verify on UIDAI Bank Seeding Checker (resident.uidai.gov.in) that NPCI status shows 'Active'",
+              "Once updated, department will automatically re-push disbursement in the next DBT billing cycle"
+            ],
+            "kn": [
+              "https://dbt.karnataka.gov.in/ ಗೆ ನಿಮ್ಮ ಆಧಾರ್ ನಂಬರ್ ಬಳಸಿ ಲಾಗಿನ್ ಆಗಿ",
+              "'ಪಾವತಿ ಸ್ಥಿತಿ' (Payment Status) ಟ್ಯಾಬ್ ಪರಿಶೀಲಿಸಿ",
+              "ಸ್ಥಿತಿಯಲ್ಲಿ 'Aadhaar not mapped to NPCI' ಅಥವಾ ಖಾತೆ ನಿಷ್ಕ್ರಿಯ ಎಂದು ತೋರಿಸುತ್ತಿದೆಯೇ ನೋಡಿ",
+              "NPCI ಲಿಂಕ್ ಆಗದಿದ್ದರೆ: ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಶಾಖೆಗೆ ಭೇಟಿ ನೀಡಿ 'Aadhaar DBT Seeding' ಫಾರ್ಮ್ ಸಲ್ಲಿಸಿ",
+              "ಬ್ಯಾಂಕ್ ಅಪ್‌ಡೇಟ್ ಆದ ನಂತರ ಮುಂದಿನ DBT ಸೈಕಲ್‌ನಲ್ಲಿ ಹಣ ಖಾತೆಗೆ ಜಮೆಯಾಗುತ್ತದೆ"
+            ],
+            "hi": [
+              "https://dbt.karnataka.gov.in/ पर अपने आधार नंबर से लॉगिन करें",
+              "'भुगतान स्थिति' जांचें और विफलता का कारण देखें",
+              "यदि 'Aadhaar not mapped to NPCI' या खाता निष्क्रिय दिखे, तो बैंक शाखा जाएं",
+              "बैंक में जाकर 'आधार डीबीटी सीडिंग मैंडेट' फॉर्म जमा करें",
+              "सीडिंग सक्रिय होने के बाद अगले भुगतान चक्र में राशि सीधे खाते में आ जाएगी"
+            ]
+          },
+          "escalation_route": {
+            "en": "Karnataka DBT Helpline: 080-22340199 / Social Welfare Call Centre: 1902",
+            "kn": "ಕರ್ನಾಟಕ DBT ಸಹಾಯವಾಣಿ: 080-22340199 / ಸಮಾಜ ಕಲ್ಯಾಣ ಸಹಾಯವಾಣಿ: 1902",
+            "hi": "कर्नाटक डीबीटी हेल्पलाइन: 080-22340199 / समाज कल्याण कॉल सेंटर: 1902"
+          }
+        },
+        {
+          "problem_id": "ssp_application_rejected",
+          "problem_title": {
+            "en": "My scholarship application was rejected. What should I do?",
+            "kn": "ನನ್ನ ವಿದ್ಯಾರ್ಥಿವೇತನ ಅರ್ಜಿ ತಿರಸ್ಕೃತಗೊಂಡಿದೆ. ನಾನು ಏನು ಮಾಡಬೇಕು?",
+            "hi": "मेरा छात्रवृत्ति आवेदन अस्वीकृत हो गया है। मुझे क्या करना चाहिए?"
+          },
+          "recommended_action": {
+            "en": "Log in to SSP, read the exact objection reason (e.g. e-Attestation mismatch, invalid RD number, college fee mismatch), rectify the document, and resubmit within the objection correction window.",
+            "kn": "SSP ಪೋರ್ಟಲ್‌ಗೆ ಲಾಗಿನ್ ಆಗಿ ಆಕ್ಷೇಪಣೆಯ ನಿಖರ ಕಾರಣವನ್ನು ಪರಿಶೀಲಿಸಿ, ಇ-ದೃಢೀಕರಣ ಸರಿಪಡಿಸಿ ಮತ್ತು ನಿಗದಿತ ತಿದ್ದುಪಡಿ ಅವಧಿಯಲ್ಲಿ ಮರುಸಲ್ಲಿಸಿ.",
+            "hi": "एसएसपी में लॉगिन कर आपत्ति का सटीक कारण देखें (जैसे ई-सत्यापन त्रुटि, गलत आरडी नंबर), दस्तावेज सुधारें और सुधार अवधि में पुनः सबमिट करें।"
+          },
+          "checklist": {
+            "en": [
+              "Login to SSP portal and navigate to 'Track Student Status'",
+              "Check Department Objection remarks (e.g. 'Fee mismatch', 'Caste/Income RD rejected', 'College verification pending')",
+              "If e-Attestation error: Login to e-Attestation portal (eattestation.karnataka.gov.in) and upload correct document with officer attestation",
+              "If RD error: Apply for fresh certificate on Nadakacheri and update new RD number in SSP profile",
+              "Click 'Rectify Objection' on SSP before the deadline and resubmit to college for approval"
+            ],
+            "kn": [
+              "SSP ಪೋರ್ಟಲ್‌ಗೆ ಲಾಗಿನ್ ಆಗಿ 'ವಿದ್ಯಾರ್ಥಿ ಸ್ಥಿತಿ' (Student Status) ಪರಿಶೀಲಿಸಿ",
+              "ಇಲಾಖೆಯ ಆಕ್ಷೇಪಣೆಯ ಕಾರಣವನ್ನು ಗಮನಿಸಿ (ಉದಾ: ಇ-ದೃಢೀಕರಣ ಬಾಕಿ, ಶುಲ್ಕ ವ್ಯತ್ಯಾಸ, RD ತಿರಸ್ಕಾರ)",
+              "ಇ-ದೃಢೀಕರಣ ಸಮಸ್ಯೆಯಿದ್ದರೆ: eattestation.karnataka.gov.in ನಲ್ಲಿ ಸರಿಯಾದ ದಾಖಲೆ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ ಮರುದೃಢೀಕರಿಸಿ",
+              "RD ತಪ್ಪಾಗಿದ್ದರೆ: ನಡಕಚೇರಿಯಲ್ಲಿ ಸರಿಯಾದ ಪ್ರಮಾಣಪತ್ರ ಪಡೆದು ಹೊಸ RD ನಮೂದಿಸಿ",
+              "ತಿದ್ದುಪಡಿ ಮಾಡಿ ಕಾಲೇಜು ಅನುಮೋದನೆಗೆ ಮರುಸಲ್ಲಿಸಿ"
+            ],
+            "hi": [
+              "एसएसपी पोर्टल पर 'छात्र स्थिति' (Student Status) देखें",
+              "आपत्ति का विवरण पढ़ें (जैसे ई-अटेस्टेशन त्रुटि, फीस बेमेल, आरडी अमान्य)",
+              "यदि ई-अटेस्टेशन समस्या है: eattestation.karnataka.gov.in पर सही दस्तावेज अपलोड करें",
+              "यदि आरडी नंबर गलत है: नाडाकचेरी से नया प्रमाणपत्र बनवाकर अपडेट करें",
+              "आपत्ति सुधार कर पुनः कॉलेज सत्यापन हेतु सबमिट करें"
+            ]
+          },
+          "escalation_route": {
+            "en": "Taluk Social Welfare Officer / SSP Grievance Desk: 080-35254757 / 1902",
+            "kn": "ತಾಲೂಕು ಸಮಾಜ ಕಲ್ಯಾಣಾಧಿಕಾರಿ / SSP ಸಹಾಯವಾಣಿ: 080-35254757 / 1902",
+            "hi": "तालुक समाज कल्याण अधिकारी / एसएसपी ग्रीवेंस डेस्क: 080-35254757 / 1902"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nsp_central_sector",
+      "category_id": "education_scholarships",
+      "name": {
+        "en": "National Scholarship Portal (NSP) - Central Schemes",
+        "kn": "ರಾಷ್ಟ್ರೀಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ (NSP) - ಕೇಂದ್ರ ಯೋಜನೆಗಳು",
+        "hi": "राष्ट्रीय छात्रवृत्ति पोर्टल (एनएसपी) - केंद्रीय योजनाएं"
+      },
+      "provider": {
+        "en": "Ministry of Education & Ministry of Minority Affairs, Govt of India",
+        "kn": "ಶಿಕ್ಷಣ ಸಚಿವಾಲಯ ಮತ್ತು ಅಲ್ಪಸಂಖ್ಯಾತ ವ್ಯವಹಾರಗಳ ಸಚಿವಾಲಯ, ಭಾರತ ಸರ್ಕಾರ",
+        "hi": "शिक्षा मंत्रालय एवं अल्पसंख्यक कार्य मंत्रालय, भारत सरकार"
+      },
+      "scope": "Central",
+      "portal_url": "https://scholarships.gov.in/",
+      "verification_status": "verified",
+      "last_verified": "2026-03-15",
+      "summary": {
+        "en": "Unified central portal for Central Sector Scheme of Scholarship for College and University Students, Post-Matric Minority Scholarships, and AICTE schemes with biometric OTR authentication.",
+        "kn": "ಕಾಲೇಜು-ವಿಶ್ವವಿದ್ಯಾಲಯ ವಿದ್ಯಾರ್ಥಿಗಳ ಕೇಂದ್ರ ವಲಯ ಯೋಜನೆ ಮತ್ತು ಅಲ್ಪಸಂಖ್ಯಾತರ ವಿದ್ಯಾರ್ಥಿವೇತನಗಳಿಗೆ ಬಯೋಮೆಟ್ರಿಕ್ OTR ಆಧಾರಿತ ಏಕೀಕೃತ ರಾಷ್ಟ್ರೀಯ ಪೋರ್ಟಲ್.",
+        "hi": "कॉलेज एवं विश्वविद्यालय छात्रों हेतु केंद्रीय क्षेत्र छात्रवृत्ति, अल्पसंख्यक छात्रवृत्ति व एआईसीटीई योजनाओं के लिए बायोमेट्रिक ओटीआर आधारित राष्ट्रीय पोर्टल।"
+      },
+      "eligibility": {
+        "en": [
+          "Above 80th percentile in relevant stream in Class 12 / Board Exam",
+          "Enrolled in regular full-time degree course in recognized College/University",
+          "Annual parental income below ₹4,50,000 per year",
+          "Not availing any other government scholarship"
+        ],
+        "kn": [
+          "12ನೇ ತರಗತಿ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಶೇ. 80 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಂಕಗಳ ಪರ್ಸಂಟೈಲ್",
+          "ಮಾನ್ಯತೆ ಪಡೆದ ಕಾಲೇಜಿನಲ್ಲಿ ನಿಯಮಿತ ಪದವಿ ವ್ಯಾಸಂಗ",
+          "ವಾರ್ಷಿಕ ಪೋಷಕರ ಆದಾಯ ₹4,50,000 ಕ್ಕಿಂತ ಕಡಿಮೆ",
+          "ಇತರ ಯಾವುದೇ ಸರ್ಕಾರಿ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪಡೆಯುತ್ತಿರಬಾರದು"
+        ],
+        "hi": [
+          "12वीं कक्षा बोर्ड परीक्षा में 80 पर्सेंटाइल से अधिक अंक",
+          "मान्यता प्राप्त कॉलेज/विश्वविद्यालय में नियमित स्नातक डिग्री में अध्ययनरत",
+          "अभिभावकों की वार्षिक आय ₹4,50,000 से कम",
+          "किसी अन्य सरकारी छात्रवृत्ति का लाभ न ले रहे हों"
+        ]
+      },
+      "required_documents": {
+        "en": [
+          "NSP One-Time Registration (OTR) Reference Number",
+          "Aadhaar Card & mobile linked to Aadhaar",
+          "Class 12 / Intermediate Marksheet",
+          "Current College Bonafide Certificate",
+          "Family Income Certificate issued by competent revenue authority",
+          "Bank passbook in student's name (Aadhaar seeded)"
+        ],
+        "kn": [
+          "NSP ಒನ್-ಟೈಮ್ ರಿಜಿಸ್ಟ್ರೇಷನ್ (OTR) ಸಂಖ್ಯೆ",
+          "ಆಧಾರ್ ಕಾರ್ಡ್ ಮತ್ತು ಲಿಂಕ್ ಆದ ಮೊಬೈಲ್",
+          "12ನೇ ತರಗತಿ / ಪಿಯುಸಿ ಅಂಕಪಟ್ಟಿ",
+          "ಕಾಲೇಜು ಬೋನಾಫೈಡ್ ಪ್ರಮಾಣಪತ್ರ",
+          "ಕಂದಾಯ ಇಲಾಖೆ ನೀಡಿದ ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ",
+          "ವಿದ್ಯಾರ್ಥಿಯ ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್"
+        ],
+        "hi": [
+          "एनएसपी वन-टाइम रजिस्ट्रेशन (OTR) नंबर",
+          "आधार कार्ड एवं लिंक मोबाइल नंबर",
+          "12वीं कक्षा की अंकतालिका",
+          "कॉलेज बोनाफाइड प्रमाणपत्र",
+          "सक्षम प्राधिकारी द्वारा जारी आय प्रमाणपत्र",
+          "छात्र के नाम पर बैंक पासबुक"
+        ]
+      },
+      "common_problems": [
+        {
+          "problem_id": "nsp_apply_fresh",
+          "problem_title": {
+            "en": "Apply fresh on National Scholarship Portal (NSP)",
+            "kn": "ರಾಷ್ಟ್ರೀಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ (NSP) ಹೊಸ ಅರ್ಜಿ ಸಲ್ಲಿಕೆ",
+            "hi": "राष्ट्रीय छात्रवृत्ति पोर्टल (एनएसपी) पर नया आवेदन"
+          },
+          "recommended_action": {
+            "en": "Complete Face-Authentication on Aadhaar FaceRD app to generate your NSP OTR, log in to scholarships.gov.in, select eligible central schemes, and submit for Institute verification.",
+            "kn": "Aadhaar FaceRD ಆ್ಯಪ್ ಮೂಲಕ OTR ಪಡೆಯಿರಿ, scholarships.gov.in ನಲ್ಲಿ ಲಾಗಿನ್ ಆಗಿ ಕೇಂದ್ರ ಯೋಜನೆಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ.",
+            "hi": "Aadhaar FaceRD ऐप द्वारा ओटीआर (OTR) बनाएं, scholarships.gov.in पर लॉगिन कर उपयुक्त योजना चुनें और सबमिट करें।"
+          },
+          "checklist": {
+            "en": [
+              "Download 'NSP OTR' and 'Aadhaar FaceRD' apps on mobile to complete Face e-KYC",
+              "Receive your 14-digit OTR Number and Password on SMS",
+              "Login to https://scholarships.gov.in/ with OTR credentials",
+              "Fill academic details, choose Central Sector / Minority Scheme, and upload Bonafide Certificate",
+              "Submit application and inform College Institute Nodal Officer (INO) for verification"
+            ],
+            "kn": [
+              "ಮೊಬೈಲ್‌ನಲ್ಲಿ 'NSP OTR' ಮತ್ತು 'Aadhaar FaceRD' ಆ್ಯಪ್ ಬಳಸಿ ಫೇಸ್ ಇ-ಕೆವೈಸಿ ಪೂರ್ಣಗೊಳಿಸಿ",
+              "SMS ಮೂಲಕ ಬರುವ 14-ಅಂಕಿಯ OTR ಸಂಖ್ಯೆ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಪಡೆಯಿರಿ",
+              "scholarships.gov.in ಗೆ OTR ವಿವರಗಳೊಂದಿಗೆ ಲಾಗಿನ್ ಆಗಿ",
+              "ಶೈಕ್ಷಣಿಕ ವಿವರ ಭರ್ತಿ ಮಾಡಿ, ಸೂಕ್ತ ಯೋಜನೆ ಆಯ್ಕೆಮಾಡಿ ಬೋನಾಫೈಡ್ ಪ್ರಮಾಣಪತ್ರ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ",
+              "ಅರ್ಜಿ ಸಲ್ಲಿಸಿ ಕಾಲೇಜಿನ ನೋಡಲ್ ಅಧಿಕಾರಿಗೆ ಪರಿಶೀಲನೆಗಾಗಿ ತಿಳಿಸಿ"
+            ],
+            "hi": [
+              "मोबाइल पर 'NSP OTR' और 'Aadhaar FaceRD' से बायोमेट्रिक ई-केवाईसी पूरी करें",
+              "एसएमएस पर 14 अंकों का ओटीआर नंबर व पासवर्ड प्राप्त करें",
+              "https://scholarships.gov.in/ पर ओटीआर से लॉगिन करें",
+              "विवरण भरें, केंद्रीय योजना चुनें और बोनाफाइड अपलोड कर सबमिट करें",
+              "सत्यापन हेतु कॉलेज संस्थान नोडल अधिकारी (INO) को सूचित करें"
+            ]
+          },
+          "escalation_route": {
+            "en": "NSP Helpdesk: 0120-6619540 / Email: helpdesk@nsp.gov.in",
+            "kn": "NSP ಸಹಾಯವಾಣಿ: 0120-6619540 / ಇಮೇಲ್: helpdesk@nsp.gov.in",
+            "hi": "एनएसपी हेल्पडेस्क: 0120-6619540 / ईमेल: helpdesk@nsp.gov.in"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nadakacheri_caste_income",
+      "category_id": "certificates_documents",
+      "name": {
+        "en": "Karnataka Nadakacheri - Caste & Income Certificates",
+        "kn": "ಕರ್ನಾಟಕ ನಾಡಕಚೇರಿ - ಜಾತಿ ಮತ್ತು ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ",
+        "hi": "कर्नाटक नाडाकचेरी - जाति एवं आय प्रमाणपत्र"
+      },
+      "provider": {
+        "en": "Revenue Department, Directorate of Atalji Janasnehi Kendra (AJSK), Karnataka",
+        "kn": "ಕಂದಾಯ ಇಲಾಖೆ, ಅಟಲ್ ಜೀ ಜನಸ್ನೇಹಿ ಕೇಂದ್ರ (AJSK), ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
+        "hi": "राजस्व विभाग, अटलजी जनस्नेही केंद्र (एजेएसके), कर्नाटक"
+      },
+      "scope": "Karnataka",
+      "portal_url": "https://nadakacheri.karnataka.gov.in/",
+      "verification_status": "verified",
+      "last_verified": "2026-03-15",
+      "summary": {
+        "en": "Official Karnataka portal for issuing digitally signed Caste (SC/ST/Cat-1/OBC), Income, Residence/Domicile, and Living certificates with 15-digit RD Numbers and Sakala SLA guarantees.",
+        "kn": "15-ಅಂಕಿಯ RD ಸಂಖ್ಯೆ ಮತ್ತು ಸಕಾಲ ಗ್ಯಾರಂಟಿಯೊಂದಿಗೆ ಡಿಜಿಟಲ್ ಸಹಿ ಹೊಂದಿರುವ ಜಾತಿ (SC/ST/Cat-1/OBC), ಆದಾಯ, ವಾಸಸ್ಥಳ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ವಿತರಿಸುವ ಅಧಿಕೃತ ಪೋರ್ಟಲ್.",
+        "hi": "15-अंकीय आरडी संख्या और सकाला गारंटी के साथ डिजिटल हस्ताक्षरित जाति (एससी/एसटी/ओबीसी), आय, निवास प्रमाण पत्र जारी करने का आधिकारिक कर्नाटक पोर्टल।"
+      },
+      "eligibility": {
+        "en": [
+          "Karnataka resident / domicile",
+          "Applicant or family belonging to recognized SC/ST/OBC/General categories",
+          "Annual income verifiable through salary certificate, Form 16, or land revenue records (RTC/Pahani)"
+        ],
+        "kn": [
+          "ಕರ್ನಾಟಕದ ಖಾಯಂ ನಿವಾಸಿ",
+          "ಮಾನ್ಯತೆ ಪಡೆದ SC/ST/OBC/ಸಾಮಾನ್ಯ ವರ್ಗಕ್ಕೆ ಸೇರಿದವರು",
+          "ವೇತನ ಪ್ರಮಾಣಪತ್ರ, ಫಾರ್ಮ್ 16 ಅಥವಾ ಜಮೀನಿನ ಪಹಣಿ (RTC) ಮೂಲಕ ದೃಢೀಕರಿಸಬಹುದಾದ ಆದಾಯ"
+        ],
+        "hi": [
+          "कर्नाटक का स्थायी निवासी",
+          "मान्यता प्राप्त एससी/एसटी/ओबीसी/सामान्य श्रेणी से संबंधित",
+          "वेतन पर्ची, फॉर्म 16 या जमीन के रिकॉर्ड (आरटीसी) द्वारा सत्यापन योग्य वार्षिक आय"
+        ]
+      },
+      "required_documents": {
+        "en": [
+          "Aadhaar Card of Applicant and Parent",
+          "Previous Caste Certificate / School Leaving Certificate (TC) mentioning caste",
+          "Income Proof (Salary Slip, Form 16, or Self-Declaration attested by VA)",
+          "Residential Proof (Ration Card, Electricity Bill, Voter ID)",
+          "Passport size photograph"
+        ],
+        "kn": [
+          "ಅರ್ಜಿದಾರ ಮತ್ತು ಪೋಷಕರ ಆಧಾರ್ ಕಾರ್ಡ್",
+          "ಹಳೆಯ ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ ಅಥವಾ ಜಾತಿ ನಮೂದಾಗಿರುವ ಶಾಲಾ ವರ್ಗಾವಣೆ ಪತ್ರ (TC)",
+          "ಆದಾಯದ ಪುರಾವೆ (ವೇತನ ಚೀಟಿ, ಪಹಣಿ ಅಥವಾ ಗ್ರಾಮ ಲೆಕ್ಕಿಗರ ದೃಢೀಕರಣ)",
+          "ವಾಸಸ್ಥಳ ದೃಢೀಕರಣ (ಪಡಿತರ ಚೀಟಿ, ವಿದ್ಯುತ್ ಬಿಲ್ ಅಥವಾ ಮತದಾರರ ಗುರುತಿನ ಚೀಟಿ)",
+          "ಭಾವಚಿತ್ರ"
+        ],
+        "hi": [
+          "आवेदक एवं माता-पिता का आधार कार्ड",
+          "पुराना जाति प्रमाणपत्र अथवा स्कूल लीविंग सर्टिफिकेट (टीसी)",
+          "आय प्रमाण (वेतन पर्ची, फॉर्म 16 या स्व-घोषणा)",
+          "निवास प्रमाण (राशन कार्ड, बिजली बिल या वोटर आईडी)",
+          "पासपोर्ट साइज फोटो"
+        ]
+      },
+      "common_problems": [
+        {
+          "problem_id": "nadakacheri_caste_download",
+          "problem_title": {
+            "en": "How to download digitally signed Caste certificate?",
+            "kn": "ಡಿಜಿಟಲ್ ಸಹಿ ಹೊಂದಿರುವ ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದು ಹೇಗೆ?",
+            "hi": "डिजिटल हस्ताक्षरित जाति प्रमाणपत्र कैसे डाउनलोड करें?"
+          },
+          "recommended_action": {
+            "en": "Visit nadakacheri.karnataka.gov.in, go to 'Print Certificate' under Online Application, enter your 15-digit RD Number (e.g. RD0038...), and download the digitally signed PDF with barcode.",
+            "kn": "nadakacheri.karnataka.gov.in ಗೆ ಭೇಟಿ ನೀಡಿ, 'ಪ್ರಿಂಟ್ ಸರ್ಟಿಫಿಕೇಟ್' ಆಯ್ಕೆಮಾಡಿ, ನಿಮ್ಮ 15-ಅಂಕಿಯ RD ಸಂಖ್ಯೆ (ಉದಾ: RD0038...) ನಮೂದಿಸಿ ಮತ್ತು ಡಿಜಿಟಲ್ ಸಹಿ ಮಾಡಿದ PDF ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.",
+            "hi": "nadakacheri.karnataka.gov.in पर जाएं, 'प्रिंट सर्टिफिकेट' चुनें, अपना 15 अंकों का आरडी नंबर (जैसे RD0038...) दर्ज करें और बारकोड युक्त डिजिटल पीडीएफ डाउनलोड करें।"
+          },
+          "checklist": {
+            "en": [
+              "Open official portal: https://nadakacheri.karnataka.gov.in/",
+              "Click on 'Online Application' menu and select 'Print Certificate'",
+              "Select the service type: 'Caste Certificate' or 'Income Certificate'",
+              "Enter your 15-digit Application / RD Reference Number (printed on acknowledgment receipt)",
+              "Click 'Search' to view certificate details; click 'Print' or 'Download PDF'",
+              "The downloaded PDF is legally valid everywhere without physical signature (features QR code & Sakala digital seal)"
+            ],
+            "kn": [
+              "ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್ ತೆರೆಯಿರಿ: https://nadakacheri.karnataka.gov.in/",
+              "'ಆನ್‌ಲೈನ್ ಅರ್ಜಿ' ಮೆನು ಕ್ಲಿಕ್ ಮಾಡಿ 'ಪ್ರಿಂಟ್ ಸರ್ಟಿಫಿಕೇಟ್' ಆಯ್ಕೆಮಾಡಿ",
+              "ಸೇವೆಯ ವಿಧವನ್ನು ಆರಿಸಿ: 'ಜಾತಿ ಪ್ರಮಾಣಪತ್ರ' ಅಥವಾ 'ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ'",
+              "ನಿಮ್ಮ 15-ಅಂಕಿಯ RD ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ",
+              "'Search' ಕ್ಲಿಕ್ ಮಾಡಿ ವಿವರಗಳನ್ನು ನೋಡಿ, ನಂತರ 'Download PDF' ಕ್ಲಿಕ್ ಮಾಡಿ",
+              "ಕ್ಯೂಆರ್ ಕೋಡ್ ಮತ್ತು ಡಿಜಿಟಲ್ ಸಹಿ ಇರುವ ಈ ಪ್ರತಿ ಎಲ್ಲಾ ಕಡೆ ಮಾನ್ಯವಾಗಿರುತ್ತದೆ (ಕಚೇರಿ ಸಹಿ ಅಗತ್ಯವಿಲ್ಲ)"
+            ],
+            "hi": [
+              "आधिकारिक पोर्टल खोलें: https://nadakacheri.karnataka.gov.in/",
+              "'ऑनलाइन एप्लीकेशन' में जाकर 'प्रिंट सर्टिफिकेट' पर क्लिक करें",
+              "सेवा प्रकार चुनें: 'जाति प्रमाणपत्र' अथवा 'आय प्रमाणपत्र'",
+              "अपनी 15 अंकों की आरडी (RD) संदर्भ संख्या दर्ज करें",
+              "'सर्च' करें और 'डाउनलोड पीडीएफ' पर क्लिक करें",
+              "यह बारकोड युक्त डिजिटल हस्ताक्षरित प्रमाणपत्र कानूनी रूप से हर जगह मान्य है"
+            ]
+          },
+          "escalation_route": {
+            "en": "Atalji Janasnehi Kendra (AJSK) Helpline: 080-22340639 / Sakala Helpdesk: 080-44554455",
+            "kn": "ನಾಡಕಚೇರಿ (AJSK) ಸಹಾಯವಾಣಿ: 080-22340639 / ಸಕಾಲ ಹೆಲ್ಪ್‌ಲೈನ್: 080-44554455",
+            "hi": "नाडाकचेरी हेल्पलाइन: 080-22340639 / सकाला सहायता: 080-44554455"
+          }
+        },
+        {
+          "problem_id": "nadakacheri_income_apply",
+          "problem_title": {
+            "en": "How do I apply for an income certificate?",
+            "kn": "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರಕ್ಕೆ ಅರ್ಜಿ ಸಲ್ಲಿಸುವುದು ಹೇಗೆ?",
+            "hi": "आय प्रमाणपत्र के लिए आवेदन कैसे करें?"
+          },
+          "recommended_action": {
+            "en": "Apply online at Nadakacheri portal or visit a Grama One / Bangalore One centre with Aadhaar, salary slip/self-declaration, and ration card; certificate is issued within 21 days under Sakala.",
+            "kn": "ಆಧಾರ್, ವೇತನ ಚೀಟಿ/ಸ್ವಯಂ ಘೋಷಣೆ ಮತ್ತು ಪಡಿತರ ಚೀಟಿಯೊಂದಿಗೆ ನಾಡಕಚೇರಿ ಪೋರ್ಟಲ್ ಅಥವಾ ಗ್ರಾಮ ಒನ್ ಕೇಂದ್ರದಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ; ಸಕಾಲ ನಿಯಮದಡಿ 21 ದಿನಗಳಲ್ಲಿ ಲಭ್ಯವಾಗುತ್ತದೆ.",
+            "hi": "आधार, वेतन पर्ची/स्व-घोषणा और राशन कार्ड के साथ नाडाकचेरी पोर्टल या ग्राम वन केंद्र पर आवेदन करें; सकाला के तहत 21 दिनों में जारी होता है।"
+          },
+          "checklist": {
+            "en": [
+              "Visit https://nadakacheri.karnataka.gov.in/ and log in with mobile OTP",
+              "Go to 'New Request' -> 'Income Certificate'",
+              "Fill applicant details, family occupation, and total annual income from all sources",
+              "Upload Aadhaar card, address proof, and self-declaration affidavit",
+              "Pay online fee of ₹40 via UPI or net banking and save the GSC/RD acknowledgment receipt",
+              "Village Accountant (VA) and Revenue Inspector (RI) will conduct field verification",
+              "Tahsildar signs digitally within 21 Sakala working days"
+            ],
+            "kn": [
+              "https://nadakacheri.karnataka.gov.in/ ಗೆ ಭೇಟಿ ನೀಡಿ ಮೊಬೈಲ್ ಒಟಿಪಿ ಮೂಲಕ ಲಾಗಿನ್ ಆಗಿ",
+              "'ಹೊಸ ಕೋರಿಕೆ' (New Request) -> 'ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ' ಆಯ್ಕೆಮಾಡಿ",
+              "ಅರ್ಜಿದಾರರ ವಿವರ, ಕುಟುಂಬದ ಉದ್ಯೋಗ ಮತ್ತು ಎಲ್ಲಾ ಮೂಲಗಳಿಂದ ಬರುವ ವಾರ್ಷಿಕ ಆದಾಯ ನಮೂದಿಸಿ",
+              "ಆಧಾರ್, ವಾಸಸ್ಥಳ ದಾಖಲೆ ಮತ್ತು ಸ್ವಯಂ ಘೋಷಣೆ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ",
+              "₹40 ಶುಲ್ಕ ಪಾವತಿಸಿ ಸ್ವೀಕೃತಿ ರಶೀದಿಯನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+              "ಗ್ರಾಮ ಲೆಕ್ಕಿಗರು ಮತ್ತು ಕಂದಾಯ ನಿರೀಕ್ಷಕರ ಪರಿಶೀಲನೆಯ ನಂತರ 21 ದಿನಗಳಲ್ಲಿ ತಹಶೀಲ್ದಾರ್ ಡಿಜಿಟಲ್ ಸಹಿ ನೀಡುತ್ತಾರೆ"
+            ],
+            "hi": [
+              "https://nadakacheri.karnataka.gov.in/ पर मोबाइल ओटीपी से लॉगिन करें",
+              "'नया अनुरोध' -> 'आय प्रमाणपत्र' चुनें",
+              "आवेदक विवरण, पारिवारिक व्यवसाय और वार्षिक आय भरें",
+              "आधार, निवास प्रमाण और स्व-घोषणा पत्र अपलोड करें",
+              "₹40 का ऑनलाइन शुल्क भुगतान करें और पावती रसीद सुरक्षित रखें",
+              "राजस्व निरीक्षक के सत्यापन उपरांत 21 कार्यदिवसों में प्रमाणपत्र जारी हो जाएगा"
+            ]
+          },
+          "escalation_route": {
+            "en": "Taluk Tahsildar Office / Sakala Mission: 080-44554455",
+            "kn": "ತಾಲೂಕು ತಹಶೀಲ್ದಾರ್ ಕಚೇರಿ / ಸಕಾಲ ಮಿಷನ್: 080-44554455",
+            "hi": "तालुक तहसीलदार कार्यालय / सकाला मिशन: 080-44554455"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sevasindhu_certificates",
+      "category_id": "certificates_documents",
+      "name": {
+        "en": "Karnataka Seva Sindhu - Unified Citizen Services",
+        "kn": "ಕರ್ನಾಟಕ ಸೇವಾ ಸಿಂಧು - ಏಕೀಕೃತ ನಾಗರಿಕ ಸೇವೆಗಳು",
+        "hi": "कर्नाटक सेवा सिंधु - एकीकृत नागरिक सेवाएं"
+      },
+      "provider": {
+        "en": "Department of Personnel and Administrative Reforms (DPAR), Government of Karnataka",
+        "kn": "ಸಿಬ್ಬಂದಿ ಮತ್ತು ಆಡಳಿತ ಸುಧಾರಣಾ ಇಲಾಖೆ (DPAR), ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
+        "hi": "कार्मिक एवं प्रशासनिक सुधार विभाग (डीपीएआर), कर्नाटक सरकार"
+      },
+      "scope": "Karnataka",
+      "portal_url": "https://sevasindhu.karnataka.gov.in/",
+      "verification_status": "verified",
+      "last_verified": "2026-03-15",
+      "summary": {
+        "en": "Integrated single-window citizen portal delivering 800+ government services including certificates, welfare registrations, transport passes, and commercial permits under the Karnataka Sakala Services Act.",
+        "kn": "ಕರ್ನಾಟಕ ಸಕಾಲ ಸೇವೆಗಳ ಕಾಯ್ದೆಯಡಿ ಪ್ರಮಾಣಪತ್ರ, ಕಲ್ಯಾಣ ಯೋಜನೆ, ಸಾರಿಗೆ ಪಾಸ್ ಸೇರಿದಂತೆ 800 ಕ್ಕೂ ಹೆಚ್ಚು ಸೇವೆಗಳನ್ನು ಒದಗಿಸುವ ಏಕಗವಾಕ್ಷಿ ಪೋರ್ಟಲ್.",
+        "hi": "सकाला अधिनियम के तहत प्रमाणपत्र, कल्याणकारी योजनाएं, परिवहन पास सहित 800 से अधिक सेवाएं देने वाला एकीकृत सिंगल-विंडो पोर्टल।"
+      },
+      "eligibility": {
+        "en": [
+          "Karnataka resident holding an Aadhaar-linked mobile number",
+          "Meets specific departmental criteria for the selected service"
+        ],
+        "kn": [
+          "ಆಧಾರ್ ಲಿಂಕ್ ಆದ ಮೊಬೈಲ್ ಹೊಂದಿರುವ ಕರ್ನಾಟಕ ನಿವಾಸಿ",
+          "ಆಯ್ಕೆಮಾಡಿದ ಇಲಾಖಾ ಸೇವೆಗೆ ನಿಗದಿತ ಅರ್ಹತೆ ಹೊಂದಿರಬೇಕು"
+        ],
+        "hi": [
+          "आधार-लिंक्ड मोबाइल नंबर वाला कर्नाटक का निवासी",
+          "चयनित सेवा हेतु विभागीय पात्रता पूरी करता हो"
+        ]
+      },
+      "required_documents": {
+        "en": [
+          "Aadhaar Number with registered mobile for e-KYC authentication",
+          "Identity and Address Proof",
+          "Service-specific supporting documents"
+        ],
+        "kn": [
+          "ಇ-ಕೆವೈಸಿಗಾಗಿ ಆಧಾರ್ ಸಂಖ್ಯೆ ಮತ್ತು ನೋಂದಾಯಿತ ಮೊಬೈಲ್",
+          "ಗುರುತು ಮತ್ತು ವಿಳಾಸದ ಪುರಾವೆ",
+          "ಸಂಬಂಧಿತ ಇಲಾಖೆಯ ಪೂರಕ ದಾಖಲೆಗಳು"
+        ],
+        "hi": [
+          "आधार संख्या एवं ओटीपी सत्यापन हेतु मोबाइल नंबर",
+          "पहचान एवं पते का प्रमाण",
+          "संबंधित सेवा के आवश्यक दस्तावेज"
+        ]
+      },
+      "common_problems": [
+        {
+          "problem_id": "sevasindhu_track_download",
+          "problem_title": {
+            "en": "Track application status or download issued certificate on Seva Sindhu",
+            "kn": "ಸೇವಾ ಸಿಂಧುವಿನಲ್ಲಿ ಅರ್ಜಿ ಸ್ಥಿತಿ ಪರಿಶೀಲನೆ ಅಥವಾ ಪ್ರಮಾಣಪತ್ರ ಡೌನ್‌ಲೋಡ್",
+            "hi": "सेवा सिंधु पर आवेदन की स्थिति जांचें अथवा जारी प्रमाणपत्र डाउनलोड करें"
+          },
+          "recommended_action": {
+            "en": "Visit sevasindhu.karnataka.gov.in, click 'Track Your Application Status', enter your Sakala GSC Number or Application Reference, verify OTP, and download the approved certificate.",
+            "kn": "sevasindhu.karnataka.gov.in ಗೆ ಭೇಟಿ ನೀಡಿ, 'ಅರ್ಜಿ ಸ್ಥಿತಿ ಪರಿಶೀಲಿಸಿ' ಕ್ಲಿಕ್ ಮಾಡಿ, ನಿಮ್ಮ GSC ನಂಬರ್ ನಮೂದಿಸಿ ಮತ್ತು ಅನುಮೋದಿತ ಪ್ರಮಾಣಪತ್ರ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.",
+            "hi": "sevasindhu.karnataka.gov.in पर 'आवेदन की स्थिति जांचें' चुनें, अपनी सकाला जीएससी संख्या दर्ज करें और स्वीकृत प्रमाणपत्र डाउनलोड करें।"
+          },
+          "checklist": {
+            "en": [
+              "Open official portal: https://sevasindhu.karnataka.gov.in/",
+              "Click 'Track Your Application Status' on the homepage",
+              "Enter your Application Reference Number or Sakala GSC Number",
+              "Select application submission date or verify via OTP sent to registered mobile",
+              "If status is 'Delivered / Approved', click 'Download Output Certificate'",
+              "If rejected, download the rejection order to see official officer remarks for appeal"
+            ],
+            "kn": [
+              "https://sevasindhu.karnataka.gov.in/ ತೆರೆಯಿರಿ",
+              "ಮುಖಪುಟದಲ್ಲಿ 'ನಿಮ್ಮ ಅರ್ಜಿ ಸ್ಥಿತಿಯನ್ನು ತಿಳಿಯಿರಿ' ಕ್ಲಿಕ್ ಮಾಡಿ",
+              "ನಿಮ್ಮ ಅರ್ಜಿ ಸಂಖ್ಯೆ ಅಥವಾ ಸಕಾಲ GSC ಸಂಖ್ಯೆ ನಮೂದಿಸಿ",
+              "ಮೊಬೈಲ್ ಒಟಿಪಿ ಮೂಲಕ ದೃಢೀಕರಿಸಿ",
+              "ಅರ್ಜಿ ಅನುಮೋದನೆಯಾಗಿದ್ದರೆ 'ಡೌನ್‌ಲೋಡ್' ಕ್ಲಿಕ್ ಮಾಡಿ ಪ್ರಮಾಣಪತ್ರ ಪಡೆಯಿರಿ",
+              "ತಿರಸ್ಕೃತವಾಗಿದ್ದರೆ ಅಧಿಕೃತ ಕಾರಣ ಮತ್ತು ಮೇಲ್ಮನವಿ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸಿ"
+            ],
+            "hi": [
+              "https://sevasindhu.karnataka.gov.in/ पर जाएं",
+              "होमपेज पर 'आवेदन की स्थिति ट्रैक करें' पर क्लिक करें",
+              "अपना आवेदन संदर्भ नंबर अथवा सकाला जीएससी नंबर दर्ज करें",
+              "ओटीपी दर्ज कर स्थिति जांचें",
+              "स्थिति 'स्वीकृत' होने पर सीधे डिजिटल प्रमाणपत्र डाउनलोड करें"
+            ]
+          },
+          "escalation_route": {
+            "en": "Seva Sindhu Toll-Free Helpline: 1902 / 080-22230282",
+            "kn": "ಸೇವಾ ಸಿಂಧು ಸಹಾಯವಾಣಿ: 1902 / 080-22230282",
+            "hi": "सेवा सिंधु टोल-फ्री हेल्पलाइन: 1902 / 080-22230282"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ksrtc_student_bus_pass",
+      "category_id": "transport_travel",
+      "name": {
+        "en": "KSRTC / BMTC Student Concession Bus Pass",
+        "kn": "KSRTC / BMTC ವಿದ್ಯಾರ್ಥಿ ರಿಯಾಯಿತಿ ಬಸ್ ಪಾಸ್",
+        "hi": "केएसआरटीसी / बीएमटीसी छात्र रियायती बस पास"
+      },
+      "provider": {
+        "en": "Karnataka State Road Transport Corporation (KSRTC) & BMTC",
+        "kn": "ಕರ್ನಾಟಕ ರಾಜ್ಯ ರಸ್ತೆ ಸಾರಿಗೆ ನಿಗಮ (KSRTC) ಮತ್ತು BMTC",
+        "hi": "कर्नाटक राज्य सड़क परिवहन निगम (केएसआरटीसी) एवं बीएमटीसी"
+      },
+      "scope": "Karnataka",
+      "portal_url": "https://sevasindhu.karnataka.gov.in/",
+      "verification_status": "verified",
+      "last_verified": "2026-03-15",
+      "summary": {
+        "en": "Subsidized annual student commuter bus pass for school, PUC, ITI, Degree, Engineering, and Medical students across Karnataka for travel between residence and educational institution.",
+        "kn": "ಶಾಲಾ-ಕಾಲೇಜು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮನೆ ಮತ್ತು ವಿದ್ಯಾಸಂಸ್ಥೆ ನಡುವೆ ಪ್ರಯಾಣಿಸಲು ರಿಯಾಯಿತಿ ದರದಲ್ಲಿ ವಾರ್ಷಿಕ ಬಸ್ ಪಾಸ್ ಸೌಲಭ್ಯ.",
+        "hi": "कर्नाटक भर के स्कूल व कॉलेज छात्रों के लिए निवास और शिक्षण संस्थान के बीच यात्रा हेतु वार्षिक रियायती बस पास सेवा।"
+      },
+      "eligibility": {
+        "en": [
+          "Regular student enrolled in a recognized Karnataka school, college, polytechnic, ITI, or university",
+          "Distance between home and educational institution is serviced by KSRTC/BMTC routes",
+          "Valid Institution Admission Fee Receipt & Bonafide"
+        ],
+        "kn": [
+          "ಕರ್ನಾಟಕದ ಮಾನ್ಯತೆ ಪಡೆದ ಶಾಲೆ/ಕಾಲೇಜು/ಐಟಿಐ/ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ನಿಯಮಿತ ವಿದ್ಯಾರ್ಥಿ",
+          "ಮನೆ ಮತ್ತು ವಿದ್ಯಾಸಂಸ್ಥೆ ನಡುವೆ KSRTC/BMTC ಬಸ್ ಮಾರ್ಗಗಳ ಸೌಲಭ್ಯವಿರಬೇಕು",
+          "ಚಾಲ್ತಿಯಲ್ಲಿರುವ ಕಾಲೇಜು ಪ್ರವೇಶ ರಶೀದಿ ಮತ್ತು ಗುರುತಿನ ಚೀಟಿ"
+        ],
+        "hi": [
+          "कर्नाटक के मान्यता प्राप्त संस्थान में नियमित छात्र",
+          "घर और संस्थान के मध्य केएसआरटीसी/बीएमटीसी बस रूट उपलब्ध हो",
+          "वैध कॉलेज प्रवेश रसीद एवं पहचान पत्र"
+        ]
+      },
+      "required_documents": {
+        "en": [
+          "Student Aadhaar Card",
+          "Current Academic Year College Admission Fee Receipt",
+          "College Principal Bonafide Certificate / Seal on Application",
+          "Recent passport size color photograph",
+          "Previous Year Bus Pass Number (for renewals)"
+        ],
+        "kn": [
+          "ವಿದ್ಯಾರ್ಥಿಯ ಆಧಾರ್ ಕಾರ್ಡ್",
+          "ಪ್ರಸಕ್ತ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಕಾಲೇಜು ಪ್ರವೇಶ ಶುಲ್ಕ ರಶೀದಿ",
+          "ಕಾಲೇಜು ಪ್ರಾಂಶುಪಾಲರ ದೃಢೀಕರಣ ಪತ್ರ / ಸೀಲ್",
+          "ಪಾಸ್‌ಪೋರ್ಟ್ ಅಳತೆಯ ಭಾವಚಿತ್ರ",
+          "ಹಿಂದಿನ ವರ್ಷದ ಬಸ್ ಪಾಸ್ ಸಂಖ್ಯೆ (ನವೀಕರಣಕ್ಕಾಗಿ)"
+        ],
+        "hi": [
+          "छात्र आधार कार्ड",
+          "वर्तमान सत्र की कॉलेज फीस रसीद",
+          "प्रिंसिपल द्वारा हस्ताक्षरित बोनाफाइड प्रमाणपत्र",
+          "पासपोर्ट साइज रंगीन फोटो",
+          "पिछले वर्ष का बस पास नंबर (नवीनीकरण हेतु)"
+        ]
+      },
+      "common_problems": [
+        {
+          "problem_id": "ksrtc_bus_pass_renewal",
+          "problem_title": {
+            "en": "How do I renew my KSRTC student bus pass?",
+            "kn": "KSRTC ವಿದ್ಯಾರ್ಥಿ ಬಸ್ ಪಾಸ್ ನವೀಕರಿಸುವುದು ಹೇಗೆ?",
+            "hi": "केएसआरटीसी छात्र बस पास का नवीनीकरण कैसे करें?"
+          },
+          "recommended_action": {
+            "en": "Apply for bus pass renewal via the Seva Sindhu Student Pass portal, enter your previous year pass number, upload your new academic admission fee receipt, verify routes, and pay the concession fee online or at your local KSRTC bus depot.",
+            "kn": "ಸೇವಾ ಸಿಂಧು ವಿದ್ಯಾರ್ಥಿ ಪಾಸ್ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಹಳೆಯ ಪಾಸ್ ನಂಬರ್ ನಮೂದಿಸಿ, ಹೊಸ ವರ್ಷದ ಕಾಲೇಜು ರಶೀದಿ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ, ಬಸ್ ಮಾರ್ಗ ಖಚಿತಪಡಿಸಿ ರಿಯಾಯಿತಿ ಶುಲ್ಕ ಪಾವತಿಸಿ ಡಿಪೋದಲ್ಲಿ ಪಾಸ್ ಪಡೆಯಿರಿ.",
+            "hi": "सेवा सिंधु स्टूडेंट पास पोर्टल पर जाएं, पुराने पास का नंबर दर्ज करें, नए सत्र की फीस रसीद अपलोड करें, रूट सत्यापित कर रियायती शुल्क जमा करें और डिपो से नया पास प्राप्त करें।"
+          },
+          "checklist": {
+            "en": [
+              "Go to Seva Sindhu Portal (https://sevasindhu.karnataka.gov.in/) and search for 'Student Bus Pass'",
+              "Select 'KSRTC Student Concession Pass - Renewal'",
+              "Enter your Previous Year Pass Number or Student SATS ID to auto-populate details",
+              "Upload current year College Admission Fee Receipt and passport photograph",
+              "Verify Starting Bus Stop (Origin) and College Bus Stop (Destination) along with change-over stations",
+              "Submit application and note down the Reference Acknowledgment Number",
+              "Once approved by the educational institution and KSRTC online, pay the concession amount online or visit the nominated KSRTC pass counter/depot to collect the smart card"
+            ],
+            "kn": [
+              "ಸೇವಾ ಸಿಂಧು ಪೋರ್ಟಲ್‌ನಲ್ಲಿ 'ವಿದ್ಯಾರ್ಥಿ ಬಸ್ ಪಾಸ್' (Student Bus Pass) ಆಯ್ಕೆಮಾಡಿ",
+              "'KSRTC ವಿದ್ಯಾರ್ಥಿ ರಿಯಾಯಿತಿ ಪಾಸ್ - ನವೀಕರಣ' ಕ್ಲಿಕ್ ಮಾಡಿ",
+              "ಹಿಂದಿನ ವರ್ಷದ ಪಾಸ್ ಸಂಖ್ಯೆ ಅಥವಾ SATS ಸಂಖ್ಯೆ ನಮೂದಿಸಿ ವಿವರಗಳನ್ನು ಪಡೆಯಿರಿ",
+              "ಪ್ರಸಕ್ತ ವರ್ಷದ ಕಾಲೇಜು ಶುಲ್ಕ ರಶೀದಿ ಮತ್ತು ಭಾವಚಿತ್ರ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ",
+              "ಪ್ರಯಾಣದ ಆರಂಭದ ನಿಲ್ದಾಣ ಮತ್ತು ಕಾಲೇಜು ನಿಲ್ದಾಣಗಳನ್ನು ಪರಿಶೀಲಿಸಿ",
+              "ಅರ್ಜಿ ಸಲ್ಲಿಸಿ ಸ್ವೀಕೃತಿ ಸಂಖ್ಯೆಯನ್ನು ಪಡೆಯಿರಿ",
+              "ಅನುಮೋದನೆಯ ನಂತರ ನಿಗದಿತ KSRTC ಬಸ್ ಡಿಪೋ ಕೌಂಟರ್‌ನಲ್ಲಿ ಸ್ಮಾರ್ಟ್ ಕಾರ್ಡ್ ಪಾಸ್ ಪಡೆದುಕೊಳ್ಳಿ"
+            ],
+            "hi": [
+              "सेवा सिंधु पोर्टल (https://sevasindhu.karnataka.gov.in/) पर 'Student Bus Pass' खोजें",
+              "'केएसआरटीसी छात्र बस पास - नवीनीकरण' चुनें",
+              "पुराना पास नंबर या एसएटीएस नंबर दर्ज कर विवरण लाएं",
+              "नवीनतम कॉलेज फीस रसीद और फोटो अपलोड करें",
+              "यात्रा का आरंभिक बस स्टॉप और कॉलेज स्टॉप सत्यापित करें",
+              "आवेदन सबमिट कर पावती रसीद प्राप्त करें",
+              "स्वीकृति मिलने के बाद ऑनलाइन अथवा नजदीकी बस डिपो काउंटर पर रियायती शुल्क देकर पास प्राप्त करें"
+            ]
+          },
+          "escalation_route": {
+            "en": "KSRTC Call Centre: 080-26252625 / Seva Sindhu Student Pass Helpdesk: 1902",
+            "kn": "KSRTC ಕಾಲ್ ಸೆಂಟರ್: 080-26252625 / ಸೇವಾ ಸಿಂಧು ಸಹಾಯವಾಣಿ: 1902",
+            "hi": "केएसआरटीसी कॉल सेंटर: 080-26252625 / सेवा सिंधु हेल्पलाइन: 1902"
+          }
+        },
+        {
+          "problem_id": "ksrtc_bus_pass_apply",
+          "problem_title": {
+            "en": "How to apply fresh for KSRTC student bus pass?",
+            "kn": "ಹೊಸ KSRTC ವಿದ್ಯಾರ್ಥಿ ಬಸ್ ಪಾಸ್‌ಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸುವುದು ಹೇಗೆ?",
+            "hi": "नए केएसआरटीसी छात्र बस पास के लिए आवेदन कैसे करें?"
+          },
+          "recommended_action": {
+            "en": "Submit an online application on Seva Sindhu with Aadhaar, college fee receipt, institution bonafide, and origin-destination bus stops; collect smart card at your local depot after approval.",
+            "kn": "ಆಧಾರ್, ಕಾಲೇಜು ರಶೀದಿ ಮತ್ತು ಪ್ರಯಾಣದ ಮಾರ್ಗದೊಂದಿಗೆ ಸೇವಾ ಸಿಂಧುವಿನಲ್ಲಿ ಹೊಸ ಪಾಸ್‌ಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ; ಅನುಮೋದನೆಯ ನಂತರ ಡಿಪೋದಲ್ಲಿ ಸ್ಮಾರ್ಟ್ ಕಾರ್ಡ್ ಪಡೆಯಿರಿ.",
+            "hi": "आधार, कॉलेज फीस रसीद और रूट विवरण के साथ सेवा सिंधु पर ऑनलाइन आवेदन करें; अनुमोदन उपरांत बस डिपो से स्मार्ट कार्ड लें।"
+          },
+          "checklist": {
+            "en": [
+              "Open Seva Sindhu Portal (https://sevasindhu.karnataka.gov.in/)",
+              "Click 'Apply for Student Bus Pass (Fresh)'",
+              "Enter Student Aadhaar and verify via OTP",
+              "Fill School/College details, course name, and upload principal-attested bonafide receipt",
+              "Specify residential address bus stop and college bus stop",
+              "Submit application and download acknowledgment copy",
+              "College verifies online -> KSRTC Depot approves -> Collect pass at counter"
+            ],
+            "kn": [
+              "ಸೇವಾ ಸಿಂಧು ಪೋರ್ಟಲ್ ತೆರೆಯಿರಿ (https://sevasindhu.karnataka.gov.in/)",
+              "'ವಿದ್ಯಾರ್ಥಿ ಬಸ್ ಪಾಸ್ (ಹೊಸದು)' ಆಯ್ಕೆಮಾಡಿ",
+              "ಆಧಾರ್ ಮತ್ತು ಒಟಿಪಿ ಮೂಲಕ ಪರಿಶೀಲಿಸಿ",
+              "ಕಾಲೇಜು ವಿವರ, ಕೋರ್ಸ್ ಮತ್ತು ಶುಲ್ಕ ರಶೀದಿಯನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ",
+              "ಮನೆ ಮತ್ತು ಕಾಲೇಜು ನಡುವಿನ ಬಸ್ ನಿಲ್ದಾಣಗಳನ್ನು ನಮೂದಿಸಿ",
+              "ಅರ್ಜಿ ಸಲ್ಲಿಸಿ ಸ್ವೀಕೃತಿ ರಶೀದಿಯೊಂದಿಗೆ ಡಿಪೋದಲ್ಲಿ ಪಾಸ್ ಪಡೆಯಿರಿ"
+            ],
+            "hi": [
+              "सेवा सिंधु पोर्टल खोलें और 'नया छात्र बस पास' चुनें",
+              "आधार ओटीपी से सत्यापन पूरा करें",
+              "कॉलेज विवरण, पाठ्यक्रम और सत्यापित फीस रसीद अपलोड करें",
+              "निवास और कॉलेज के बस स्टॉप का चयन करें",
+              "फॉर्म सबमिट करें और डिपो से स्मार्ट पास प्राप्त करें"
+            ]
+          },
+          "escalation_route": {
+            "en": "KSRTC Central Helpdesk: 080-26252625 / 1902",
+            "kn": "KSRTC ಕೇಂದ್ರ ಸಹಾಯವಾಣಿ: 080-26252625 / 1902",
+            "hi": "केएसआरटीसी हेल्पलाइन: 080-26252625 / 1902"
+          }
+        }
+      ]
+    },
+    {
+      "id": "parivahan_driving_licence",
+      "category_id": "transport_travel",
+      "name": {
+        "en": "Parivahan Sarathi - Driving & Learner's Licence",
+        "kn": "ಪರಿವಾಹನ್ ಸಾರಥಿ - ಚಾಲನಾ ಪರವಾನಗಿ ಮತ್ತು ಎಲ್ಎಲ್ಆರ್ (LLR)",
+        "hi": "परिवहन सारथी - ड्राइविंग एवं लर्नर लाइसेंस"
+      },
+      "provider": {
+        "en": "Ministry of Road Transport and Highways (MoRTH) & Karnataka Transport Dept",
+        "kn": "ರಸ್ತೆ ಸಾರಿಗೆ ಮತ್ತು ಹೆದ್ದಾರಿ ಸಚಿವಾಲಯ ಮತ್ತು ಕರ್ನಾಟಕ ಸಾರಿಗೆ ಇಲಾಖೆ",
+        "hi": "सड़क परिवहन एवं राजमार्ग मंत्रालय व कर्नाटक परिवहन विभाग"
+      },
+      "scope": "All India & Karnataka",
+      "portal_url": "https://sarathi.parivahan.gov.in/",
+      "verification_status": "verified",
+      "last_verified": "2026-03-15",
+      "summary": {
+        "en": "Official government portal for contactless Learner's Licence (LLR) online tests from home, Driving Licence (DL) appointments, licence renewal, and address changes without middle-men.",
+        "kn": "ಮಧ್ಯವರ್ತಿಗಳಿಲ್ಲದೆ ಮನೆಯಿಂದಲೇ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಲರ್ನರ್ಸ್ ಲೈಸೆನ್ಸ್ (LLR), ಡ್ರೈವಿಂಗ್ ಲೈಸೆನ್ಸ್ ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್ ಮತ್ತು ನವೀಕರಣ ಪಡೆಯುವ ಅಧಿಕೃತ ಪೋರ್ಟಲ್.",
+        "hi": "घर बैठे ऑनलाइन लर्नर लाइसेंस (एलएलआर), ड्राइविंग लाइसेंस (डीएल) स्लॉट बुकिंग, नवीनीकरण एवं पता परिवर्तन की आधिकारिक सेवा।"
+      },
+      "eligibility": {
+        "en": [
+          "Age 18+ for light motor vehicle (16+ for gearless 50cc two-wheeler)",
+          "Aadhaar-authenticated citizen for contactless online test from home",
+          "Physical fitness declaration (Form 1 / Form 1A medical certificate if aged 40+)"
+        ],
+        "kn": [
+          "ಲಘು ಮೋಟಾರು ವಾಹನಕ್ಕೆ ಕನಿಷ್ಠ 18 ವರ್ಷ (ಗೇರ್ ರಹಿತ ದ್ವಿಚಕ್ರ ವಾಹನಕ್ಕೆ 16 ವರ್ಷ)",
+          "ಮನೆಯಿಂದಲೇ ಆನ್‌ಲೈನ್ ಪರೀಕ್ಷೆಗಾಗಿ ಆಧಾರ್ ಆಧಾರಿತ ಮೊಬೈಲ್ ಒಟಿಪಿ",
+          "ದೈಹಿಕ ಸಾಮರ್ಥ್ಯ ದೃಢೀಕರಣ (ಫಾರ್ಮ್ 1 / ಫಾರ್ಮ್ 1A)"
+        ],
+        "hi": [
+          "हल्के मोटर वाहन हेतु न्यूनतम आयु 18 वर्ष (बिना गियर दोपहिया हेतु 16 वर्ष)",
+          "घर से ऑनलाइन टेस्ट देने हेतु आधार प्रमाणीकरण",
+          "शारीरिक फिटनेस घोषणा (फॉर्म 1 / फॉर्म 1A)"
+        ]
+      },
+      "required_documents": {
+        "en": [
+          "Aadhaar Card (serves as age and address proof)",
+          "Blood group report",
+          "Scanned signature and passport photograph",
+          "Existing DL (for renewals / endorsements)"
+        ],
+        "kn": [
+          "ಆಧಾರ್ ಕಾರ್ಡ್ (ವಯಸ್ಸು ಮತ್ತು ವಿಳಾಸದ ಪುರಾವೆ)",
+          "ರಕ್ತದ ಗುಂಪು ವರದಿ",
+          "ಸ್ಕ್ಯಾನ್ ಮಾಡಿದ ಸಹಿ ಮತ್ತು ಭಾವಚಿತ್ರ",
+          "ಹಾಲಿ ಚಾಲನಾ ಪರವಾನಗಿ (ನವೀಕರಣಕ್ಕೆ)"
+        ],
+        "hi": [
+          "आधार कार्ड (आयु एवं पते का प्रमाण)",
+          "ब्लड ग्रुप रिपोर्ट",
+          "हस्ताक्षर एवं पासपोर्ट फोटो",
+          "मौजूदा ड्राइविंग लाइसेंस (नवीनीकरण हेतु)"
+        ]
+      },
+      "common_problems": [
+        {
+          "problem_id": "parivahan_learner_licence",
+          "problem_title": {
+            "en": "How do I apply for a Learner's Licence (LLR) online?",
+            "kn": "ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಲರ್ನರ್ಸ್ ಲೈಸೆನ್ಸ್ (LLR) ಪಡೆಯುವುದು ಹೇಗೆ?",
+            "hi": "ऑनलाइन लर्नर लाइसेंस (एलएलआर) कैसे प्राप्त करें?"
+          },
+          "recommended_action": {
+            "en": "Apply on sarathi.parivahan.gov.in using Aadhaar authentication, complete the road safety video tutorial, take the 15-question online test from home, and download your instant LLR.",
+            "kn": "sarathi.parivahan.gov.in ನಲ್ಲಿ ಆಧಾರ್ ಬಳಸಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ, ರಸ್ತೆ ಸುರಕ್ಷತಾ ವಿಡಿಯೋ ವೀಕ್ಷಿಸಿ, ಮನೆಯಿಂದಲೇ ಆನ್‌ಲೈನ್ ಪರೀಕ್ಷೆ ಬರೆದು ತಕ್ಷಣ LLR ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.",
+            "hi": "sarathi.parivahan.gov.in पर आधार से आवेदन करें, सड़क सुरक्षा वीडियो देखें, घर से 15 प्रश्नों का ऑनलाइन टेस्ट दें और तुरंत एलएलआर डाउनलोड करें।"
+          },
+          "checklist": {
+            "en": [
+              "Go to https://sarathi.parivahan.gov.in/ and select 'Karnataka'",
+              "Click 'Apply for Learner Licence' -> 'Applicant holds Aadhaar Card'",
+              "Authenticate with Aadhaar OTP (no need to visit RTO office)",
+              "Select vehicle class (e.g., MCWG for geared motorcycle, LMV for car)",
+              "Pay ₹200 fee online and watch the mandatory 10-minute road safety video tutorial",
+              "Take the online computer test from home (pass score: 9 out of 15)",
+              "Download and print your verified Learner's Licence immediately (valid for 6 months)"
+            ],
+            "kn": [
+              "https://sarathi.parivahan.gov.in/ ಗೆ ಭೇಟಿ ನೀಡಿ 'ಕರ್ನಾಟಕ' ರಾಜ್ಯವನ್ನು ಆರಿಸಿ",
+              "'Apply for Learner Licence' -> 'ಆಧಾರ್ ಕಾರ್ಡ್ ಇದೆ' ಆಯ್ಕೆಮಾಡಿ",
+              "ಆಧಾರ್ ಒಟಿಪಿ ದೃಢೀಕರಣ ಪೂರ್ಣಗೊಳಿಸಿ (RTO ಕಚೇರಿಗೆ ಹೋಗುವ ಅಗತ್ಯವಿಲ್ಲ)",
+              "ವಾಹನದ ವರ್ಗ ಆಯ್ಕೆಮಾಡಿ (MCWG ಅಥವಾ LMV)",
+              "₹200 ಶುಲ್ಕ ಪಾವತಿಸಿ ರಸ್ತೆ ಸುರಕ್ಷತಾ ವಿಡಿಯೋ ವೀಕ್ಷಿಸಿ",
+              "ಮನೆಯಿಂದಲೇ ಕಂಪ್ಯೂಟರ್ ಪರೀಕ್ಷೆ ಬರೆಯಿರಿ (15 ರಲ್ಲಿ 9 ಅಂಕ ಉತ್ತೀರ್ಣ)",
+              "ತಕ್ಷಣವೇ ನಿಮ್ಮ ಡಿಜಿಟಲ್ LLR ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ (6 ತಿಂಗಳು ಮಾನ್ಯತೆ)"
+            ],
+            "hi": [
+              "https://sarathi.parivahan.gov.in/ पर 'कर्नाटक' राज्य चुनें",
+              "'अप्लाई फॉर लर्नर लाइसेंस' -> 'आधार प्रमाणीकरण' चुनें",
+              "ओटीपी दर्ज करें (आरटीओ जाने की आवश्यकता नहीं)",
+              "वाहन श्रेणी चुनें (दोपहिया/चार पहिया)",
+              "₹200 ऑनलाइन शुल्क भरें और सुरक्षा वीडियो देखें",
+              "घर बैठे ऑनलाइन टेस्ट दें (15 में से 9 अंक अनिवार्य)",
+              "तुरंत अपना डिजिटल लर्नर लाइसेंस डाउनलोड करें"
+            ]
+          },
+          "escalation_route": {
+            "en": "Parivahan Helpdesk: 0120-4925505 / Email: helpdesk-sarathi@gov.in",
+            "kn": "ಪರಿವಾಹನ್ ಸಹಾಯವಾಣಿ: 0120-4925505 / ಇಮೇಲ್: helpdesk-sarathi@gov.in",
+            "hi": "परिवहन हेल्पडेस्क: 0120-4925505 / ईमेल: helpdesk-sarathi@gov.in"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cpgrams_grievances",
+      "category_id": "grievances_complaints",
+      "name": {
+        "en": "CPGRAMS - Centralized Public Grievance Portal",
+        "kn": "CPGRAMS - ಕೇಂದ್ರೀಯ ಸಾರ್ವಜನಿಕ ಕುಂದುಕೊರತೆ ನಿವಾರಣಾ ಪೋರ್ಟಲ್",
+        "hi": "सीपीजीआरएएमएस - केंद्रीय लोक शिकायत निवारण पोर्टल"
+      },
+      "provider": {
+        "en": "Department of Administrative Reforms and Public Grievances (DARPG), Govt of India",
+        "kn": "ಆಡಳಿತ ಸುಧಾರಣೆ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಕುಂದುಕೊರತೆಗಳ ಇಲಾಖೆ (DARPG), ಭಾರತ ಸರ್ಕಾರ",
+        "hi": "प्रशासनिक सुधार और लोक शिकायत विभाग (डीएआरपीजी), भारत सरकार"
+      },
+      "scope": "Central & National",
+      "portal_url": "https://pgportal.gov.in/",
+      "verification_status": "verified",
+      "last_verified": "2026-03-15",
+      "summary": {
+        "en": "National 24/7 public grievance portal for lodging, tracking, and appealing complaints against Central Government ministries, banks, railways, posts, passports, and telecommunications.",
+        "kn": "ಕೇಂದ್ರ ಸರ್ಕಾರದ ಸಚಿವಾಲಯಗಳು, ಬ್ಯಾಂಕುಗಳು, ರೈಲ್ವೆ, ಪಾಸ್‌ಪೋರ್ಟ್ ಮತ್ತು ಅಂಚೆ ಇಲಾಖೆಗಳ ಸೇವಾ ಲೋಪಗಳ ವಿರುದ್ಧ 24x7 ದೂರು ಸಲ್ಲಿಸುವ ರಾಷ್ಟ್ರೀಯ ಪೋರ್ಟಲ್.",
+        "hi": "केंद्रीय मंत्रालयों, बैंकों, रेलवे, डाक, पासपोर्ट और दूरसंचार के विरुद्ध ऑनलाइन शिकायत दर्ज करने और अपील करने का राष्ट्रीय 24x7 पोर्टल।"
+      },
+      "eligibility": {
+        "en": [
+          "Any Indian citizen experiencing grievance with central government departments or public undertakings",
+          "Grievance does not pertain to sub-judice matters, RTI queries, or commercial disputes"
+        ],
+        "kn": [
+          "ಕೇಂದ್ರ ಸರ್ಕಾರಿ ಇಲಾಖೆ ಅಥವಾ ಸಾರ್ವಜನಿಕ ವಲಯದ ಬ್ಯಾಂಕ್‌ಗಳಿಂದ ತೊಂದರೆ ಅನುಭವಿಸಿದ ಯಾವುದೇ ನಾಗರಿಕ",
+          "ದೂರು ನ್ಯಾಯಾಲಯದಲ್ಲಿರುವ ವಿಚಾರ ಅಥವಾ ಆರ್‌ಟಿಐ (RTI) ಕೋರಿಕೆಯಾಗಿರಬಾರದು"
+        ],
+        "hi": [
+          "केंद्रीय विभागों या सार्वजनिक बैंकों से पीड़ित कोई भी भारतीय नागरिक",
+          "शिकायत न्यायालय में विचाराधीन या आरटीआई का विषय न हो"
+        ]
+      },
+      "required_documents": {
+        "en": [
+          "Identity details (Mobile number and email for tracking)",
+          "Exact details of complaint (transaction IDs, previous reference letters)",
+          "Supporting PDF documents / receipts (up to 4MB)"
+        ],
+        "kn": [
+          "ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಮತ್ತು ಇಮೇಲ್ ವಿಳಾಸ",
+          "ದೂರಿನ ವಿವರ (ಹಿಂದಿನ ಅರ್ಜಿ ಸಂಖ್ಯೆ, ಬ್ಯಾಂಕ್ ವಹಿವಾಟು ಐಡಿ)",
+          "ಪೂರಕ ದಾಖಲೆಗಳ PDF ಪ್ರತಿ (4MB ವರೆಗೆ)"
+        ],
+        "hi": [
+          "मोबाइल नंबर व ईमेल",
+          "शिकायत का पूर्ण विवरण व संदर्भ संख्या",
+          "संबंधित दस्तावेज/रसीद की पीडीएफ प्रति"
+        ]
+      },
+      "common_problems": [
+        {
+          "problem_id": "cpgrams_file_grievance",
+          "problem_title": {
+            "en": "How can I file a public-service grievance on CPGRAMS?",
+            "kn": "CPGRAMS ನಲ್ಲಿ ಸಾರ್ವಜನಿಕ ದೂರು ಸಲ್ಲಿಸುವುದು ಹೇಗೆ?",
+            "hi": "सीपीजीआरएएमएस पर सरकारी शिकायत कैसे दर्ज करें?"
+          },
+          "recommended_action": {
+            "en": "Register on pgportal.gov.in, select the responsible Central Ministry/Department, clearly state your issue with evidence, and monitor the time-bound resolution (statutory 30 days SLA).",
+            "kn": "pgportal.gov.in ನಲ್ಲಿ ನೋಂದಾಯಿಸಿ, ಸಂಬಂಧಿತ ಕೇಂದ್ರ ಸಚಿವಾಲಯವನ್ನು ಆರಿಸಿ, ಸಾಕ್ಷ್ಯಾಧಾರಗಳೊಂದಿಗೆ ದೂರು ದಾಖಲಿಸಿ ಮತ್ತು 30 ದಿನಗಳೊಳಗೆ ಪರಿಹಾರ ಪಡೆಯಿರಿ.",
+            "hi": "pgportal.gov.in पर पंजीकरण करें, संबंधित केंद्रीय मंत्रालय चुनें, प्रमाण सहित अपनी शिकायत दर्ज करें और 30 दिनों में समाधान प्राप्त करें।"
+          },
+          "checklist": {
+            "en": [
+              "Visit official portal: https://pgportal.gov.in/",
+              "Click 'Sign In' or 'Sign Up' using your mobile and email",
+              "Click 'Lodge Public Grievance' and accept the grievance criteria",
+              "Select the relevant Ministry / Department (e.g., Banking, Railways, Posts, Higher Education)",
+              "Enter a concise explanation of your issue (date, location, officer contacted)",
+              "Attach supporting files / receipts in PDF format (up to 4MB)",
+              "Submit and receive your unique Registration Number on SMS",
+              "Track resolution online; if unsatisfied, lodge an appeal before the Appellate Authority within 30 days"
+            ],
+            "kn": [
+              "ಅಧಿಕೃತ ಪೋರ್ಟಲ್‌ಗೆ ಭೇಟಿ ನೀಡಿ: https://pgportal.gov.in/",
+              "ಮೊಬೈಲ್ ಮತ್ತು ಇಮೇಲ್ ಬಳಸಿ ಸೈನ್ ಇನ್ ಮಾಡಿ",
+              "'Lodge Public Grievance' ಆಯ್ಕೆಮಾಡಿ",
+              "ಸಂಬಂಧಿತ ಸಚಿವಾಲಯ ಅಥವಾ ಇಲಾಖೆಯನ್ನು ಆರಿಸಿ (ಉದಾ: ಬ್ಯಾಂಕಿಂಗ್, ರೈಲ್ವೆ, ಉನ್ನತ ಶಿಕ್ಷಣ)",
+              "ನಿಮ್ಮ ಸಮಸ್ಯೆಯ ಸಂಕ್ಷಿಪ್ತ ವಿವರ ನಮೂದಿಸಿ (ದಿನಾಂಕ, ಸ್ಥಳ, ಅರ್ಜಿ ಸಂಖ್ಯೆ)",
+              "ಪೂರಕ ದಾಖಲೆಗಳ PDF ಲಗತ್ತಿಸಿ (ಗರಿಷ್ಠ 4MB)",
+              "ಸಲ್ಲಿಸಿ SMS ಮೂಲಕ ದೂರು ನೋಂದಣಿ ಸಂಖ್ಯೆ ಪಡೆಯಿರಿ",
+              "30 ದಿನಗಳಲ್ಲಿ ಪರಿಹಾರ ಸಿಗದಿದ್ದರೆ ಅಥವಾ ಅಸಮಾಧಾನವಿದ್ದರೆ ಮೇಲ್ಮನವಿ ಪ್ರಾಧಿಕಾರಕ್ಕೆ (Appellate Authority) ಮೇಲ್ಮನವಿ ಸಲ್ಲಿಸಿ"
+            ],
+            "hi": [
+              "आधिकारिक पोर्टल https://pgportal.gov.in/ पर जाएं",
+              "मोबाइल और ईमेल से लॉगिन करें",
+              "'लॉज पब्लिक ग्रीवेंस' पर क्लिक करें",
+              "संबंधित मंत्रालय चुनें (जैसे बैंकिंग, रेलवे, उच्च शिक्षा)",
+              "समस्या का स्पष्ट विवरण दर्ज करें और साक्ष्य पीडीएफ अपलोड करें",
+              "सबमिट कर एसएमएस पर विशिष्ट शिकायत संख्या प्राप्त करें",
+              "यदि 30 दिनों में समाधान से संतुष्ट न हों, तो अपीलीय प्राधिकारी के समक्ष अपील करें"
+            ]
+          },
+          "escalation_route": {
+            "en": "DARPG Grievance Cell: 011-23741006 / Toll-Free National Consumer Helpline: 1915",
+            "kn": "DARPG ಕುಂದುಕೊರತೆ ವಿಭಾಗ: 011-23741006 / ರಾಷ್ಟ್ರೀಯ ಗ್ರಾಹಕ ಸಹಾಯವಾಣಿ: 1915",
+            "hi": "डीएआरपीजी शिकायत प्रकोष्ठ: 011-23741006 / राष्ट्रीय उपभोक्ता हेल्पलाइन: 1915"
+          }
+        }
+      ]
+    },
+    {
+      "id": "karnataka_janaspandana_grievances",
+      "category_id": "grievances_complaints",
+      "name": {
+        "en": "Karnataka e-Janaspandana (IPGRS) & CM Helpline 1902",
+        "kn": "ಕರ್ನಾಟಕ ಇ-ಜನಸ್ಪಂದನ (IPGRS) ಮತ್ತು ಮುಖ್ಯಮಂತ್ರಿ ಸಹಾಯವಾಣಿ 1902",
+        "hi": "कर्नाटक ई-जनस्पंदना एवं मुख्यमंत्री हेल्पलाइन 1902"
+      },
+      "provider": {
+        "en": "DPAR (e-Governance), Government of Karnataka",
+        "kn": "ಸಿಬ್ಬಂದಿ ಮತ್ತು ಆಡಳಿತ ಸುಧಾರಣಾ ಇಲಾಖೆ (ಇ-ಆಡಳಿತ), ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
+        "hi": "कार्मिक एवं प्रशासनिक सुधार विभाग (ई-गवर्नेंस), कर्नाटक सरकार"
+      },
+      "scope": "Karnataka",
+      "portal_url": "https://ipgrs.karnataka.gov.in/",
+      "verification_status": "verified",
+      "last_verified": "2026-03-15",
+      "summary": {
+        "en": "State public grievance mechanism for filing complaints against Karnataka government departments, civic bodies (BBMP, BDA, Municipalities), police, and panchayats via portal or calling 1902.",
+        "kn": "ಕರ್ನಾಟಕ ರಾಜ್ಯ ಸರ್ಕಾರಿ ಇಲಾಖೆಗಳು, ಬಿಬಿಎಂಪಿ, ಗ್ರಾಮ ಪಂಚಾಯಿತಿ ಮತ್ತು ಕಂದಾಯ ಕಚೇರಿಗಳ ವಿರುದ್ಧ ದೂರು ಸಲ್ಲಿಸಲು ವೆಬ್ ಪೋರ್ಟಲ್ ಅಥವಾ 1902 ಸಹಾಯವಾಣಿ.",
+        "hi": "कर्नाटक के राज्य विभागों, बीबीएमपी, नगर पालिकाओं और पंचायतों के खिलाफ ऑनलाइन अथवा 1902 पर कॉल कर शिकायत दर्ज कराने की एकीकृत व्यवस्था।"
+      },
+      "eligibility": {
+        "en": [
+          "Any citizen facing unresolved issues with Karnataka state departments, municipal services, or district administration"
+        ],
+        "kn": [
+          "ಕರ್ನಾಟಕ ರಾಜ್ಯ ಸರ್ಕಾರಿ ಇಲಾಖೆ, ನಗರಸಭೆ ಅಥವಾ ಜಿಲ್ಲಾಡಳಿತದ ಸೇವಾ ಲೋಪದಿಂದ ಬಾಧಿತರಾದ ಯಾವುದೇ ನಾಗರಿಕ"
+        ],
+        "hi": [
+          "कर्नाटक राज्य सरकार के किसी भी विभाग या स्थानीय निकाय से असंतुष्ट कोई भी नागरिक"
+        ]
+      },
+      "required_documents": {
+        "en": [
+          "Aadhaar Number / Mobile Number",
+          "Details of previous application / Sakala number if applicable",
+          "Photos or documents demonstrating administrative delay or wrongdoing"
+        ],
+        "kn": [
+          "ಆಧಾರ್ ಸಂಖ್ಯೆ / ಮೊಬೈಲ್ ಸಂಖ್ಯೆ",
+          "ಹಿಂದಿನ ಅರ್ಜಿ ಸಂಖ್ಯೆ ಅಥವಾ ಸಕಾಲ GSC ಸಂಖ್ಯೆ",
+          "ವಿಳಂಬ ಅಥವಾ ಸಮಸ್ಯೆಯನ್ನು ದೃಢೀಕರಿಸುವ ದಾಖಲೆಗಳು/ಫೋಟೋ"
+        ],
+        "hi": [
+          "आधार अथवा मोबाइल नंबर",
+          "सकाला संख्या या पूर्व आवेदन संदर्भ",
+          "शिकायत से जुड़े साक्ष्य"
+        ]
+      },
+      "common_problems": [
+        {
+          "problem_id": "janaspandana_file_complaint",
+          "problem_title": {
+            "en": "How do I file a complaint with Karnataka State government / Janaspandana?",
+            "kn": "ಕರ್ನಾಟಕ ಜನಸ್ಪಂದನ ಅಥವಾ ಸಿಎಂ ಸಹಾಯವಾಣಿ ಮೂಲಕ ದೂರು ಸಲ್ಲಿಸುವುದು ಹೇಗೆ?",
+            "hi": "कर्नाटक जनस्पंदना अथवा सीएम हेल्पलाइन द्वारा शिकायत कैसे दर्ज करें?"
+          },
+          "recommended_action": {
+            "en": "Call toll-free CM Helpline 1902 (24x7) to register your complaint over phone, or visit ipgrs.karnataka.gov.in, enter district, taluk, and department, and submit your grievance.",
+            "kn": "ದಿನದ 24 ಗಂಟೆಯೂ ಲಭ್ಯವಿರುವ ಸಿಎಂ ಸಹಾಯವಾಣಿ 1902 ಗೆ ಕರೆ ಮಾಡಿ ದೂರು ದಾಖಲಿಸಿ, ಅಥವಾ ipgrs.karnataka.gov.in ನಲ್ಲಿ ನೇರವಾಗಿ ದೂರು ಸಲ್ಲಿಸಿ.",
+            "hi": "24x7 टोल-फ्री सीएम हेल्पलाइन 1902 पर कॉल करके शिकायत दर्ज कराएं अथवा ipgrs.karnataka.gov.in पर ऑनलाइन सबमिट करें।"
+          },
+          "checklist": {
+            "en": [
+              "Option A (Fastest): Dial 1902 from any phone; explain your issue in Kannada, English, or Hindi to the executive",
+              "Option B (Online): Open https://ipgrs.karnataka.gov.in/ and log in with your mobile OTP",
+              "Select District, Taluk, and Department (e.g., Revenue, Police, Energy, Rural Development)",
+              "Describe the grievance clearly with dates and reference numbers",
+              "Receive an SMS with your Grievance Tracking ID",
+              "The designated Tahsildar / Officer must resolve the matter within Sakala timelines (15-30 days)"
+            ],
+            "kn": [
+              "ವಿಧಾನ 1 (ಅತಿ ವೇಗ): ಯಾವುದೇ ಫೋನ್‌ನಿಂದ 1902 ಗೆ ಕರೆ ಮಾಡಿ; ಕನ್ನಡದಲ್ಲಿ ನಿಮ್ಮ ಸಮಸ್ಯೆಯನ್ನು ಅಧಿಕಾರಿಗೆ ತಿಳಿಸಿ",
+              "ವಿಧಾನ 2 (ಆನ್‌ಲೈನ್): https://ipgrs.karnataka.gov.in/ ಗೆ ಭೇಟಿ ನೀಡಿ ಒಟಿಪಿ ಮೂಲಕ ಲಾಗಿನ್ ಆಗಿ",
+              "ಜಿಲ್ಲೆ, ತಾಲೂಕು ಮತ್ತು ಇಲಾಖೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ (ಕಂದಾಯ, ಬೆಸ್ಕಾಂ, ಪೊಲೀಸ್, ಇತ್ಯಾದಿ)",
+              "ದೂರಿನ ವಿವರಗಳನ್ನು ನಮೂದಿಸಿ",
+              "SMS ಮೂಲಕ ಟ್ರ್ಯಾಕಿಂಗ್ ಐಡಿ ಪಡೆಯಿರಿ",
+              "ಸಂಬಂಧಿತ ಅಧಿಕಾರಿ 15 ರಿಂದ 30 ದಿನಗಳೊಳಗೆ ಪರಿಹಾರ ನೀಡಲು ಬಾಧ್ಯಸ್ಥರಾಗಿರುತ್ತಾರೆ"
+            ],
+            "hi": [
+              "विकल्प 1: सीधे 1902 पर कॉल करें और अधिकारी को अपनी समस्या बताएं",
+              "विकल्प 2: https://ipgrs.karnataka.gov.in/ पर मोबाइल ओटीपी से लॉगिन करें",
+              "जिला, तालुक एवं संबंधित विभाग चुनें",
+              "शिकायत का विवरण लिखें और सबमिट करें",
+              "एसएमएस द्वारा ट्रैकिंग आईडी प्राप्त करें और 15-30 दिनों में समाधान पाएं"
+            ]
+          },
+          "escalation_route": {
+            "en": "Chief Minister's Janaspandana Helpline: 1902 (Toll Free, 24x7)",
+            "kn": "ಮುಖ್ಯಮಂತ್ರಿ ಜನಸ್ಪಂದನ ಸಹಾಯವಾಣಿ: 1902 (ಉಚಿತ, 24x7)",
+            "hi": "मुख्यमंत्री जनस्पंदना हेल्पलाइन: 1902 (टोल-फ्री, 24x7)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "karnataka_social_security_pensions",
+      "category_id": "pensions_welfare",
+      "name": {
+        "en": "Karnataka Social Security Pensions (Sandhya Suraksha & Old Age)",
+        "kn": "ಕರ್ನಾಟಕ ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಪಿಂಚಣಿಗಳು (ಸಂಧ್ಯಾ ಸುರಕ್ಷಾ ಮತ್ತು ವೃದ್ಧಾಪ್ಯ ವೇತನ)",
+        "hi": "कर्नाटक सामाजिक सुरक्षा पेंशन (संध्या सुरक्षा एवं वृद्धावस्था पेंशन)"
+      },
+      "provider": {
+        "en": "Directorate of Social Security and Pensions (DSSP), Revenue Department, Karnataka",
+        "kn": "ಸಾಮಾಜಿಕ ಭದ್ರತೆ ಮತ್ತು ಪಿಂಚಣಿಗಳ ನಿರ್ದೇಶನಾಲಯ, ಕಂದಾಯ ಇಲಾಖೆ, ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
+        "hi": "सामाजिक सुरक्षा एवं पेंशन निदेशालय, राजस्व विभाग, कर्नाटक"
+      },
+      "scope": "Karnataka",
+      "portal_url": "https://dssp.karnataka.gov.in/",
+      "verification_status": "verified",
+      "last_verified": "2026-03-15",
+      "summary": {
+        "en": "Monthly financial assistance schemes including Sandhya Suraksha Yojana (₹1,200/mo for 65+), Old Age Pension (₹1,200-₹2,000/mo), Destitute Widow Pension (Manasvini), and Disability Pension directly deposited via Aadhaar DBT.",
+        "kn": "ಸಂಧ್ಯಾ ಸುರಕ್ಷಾ ಯೋಜನೆ (65+ ವಯಸ್ಸಿನವರಿಗೆ ಮಾಸಿಕ ₹1,200), ವೃದ್ಧಾಪ್ಯ ವೇತನ, ವಿಧವಾ ವೇತನ (ಮನಸ್ವಿನಿ) ಮತ್ತು ವಿಕಲಚೇತನರ ಪಿಂಚಣಿಯನ್ನು ನೇರವಾಗಿ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಜಮೆ ಮಾಡುವ ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಯೋಜನೆಗಳು.",
+        "hi": "संध्या सुरक्षा योजना (65 वर्ष से अधिक हेतु ₹1,200/माह), वृद्धावस्था पेंशन, विधवा पेंशन (मनस्विनी) और दिव्यांग पेंशन सीधे आधार डीबीटी द्वारा प्रदान करने वाली योजनाएं।"
+      },
+      "eligibility": {
+        "en": [
+          "Karnataka resident residing in the state for at least 3 years",
+          "Age criteria: Sandhya Suraksha 65+ years; IGNOAP 60+ years; Widow Pension 18+ years; Disability 40%+ benchmark",
+          "Combined family annual income below ₹32,000 for Sandhya Suraksha (BPL status)",
+          "Not covered under EPFO, NPS, or government pension benefits"
+        ],
+        "kn": [
+          "ಕನಿಷ್ಠ 3 ವರ್ಷಗಳಿಂದ ಕರ್ನಾಟಕದಲ್ಲಿ ವಾಸಿಸುತ್ತಿರುವ ಖಾಯಂ ನಿವಾಸಿ",
+          "ವಯಸ್ಸಿನ ಮಾನದಂಡ: ಸಂಧ್ಯಾ ಸುರಕ್ಷಾಗೆ 65 ವರ್ಷ; ವೃದ್ಧಾಪ್ಯಕ್ಕೆ 60 ವರ್ಷ; ವಿಧವಾ ವೇತನಕ್ಕೆ 18+ ವರ್ಷ; ವಿಕಲಚೇತನರಿಗೆ 40% ಗಿಂತ ಹೆಚ್ಚು ಅಂಗವಿಕಲತೆ",
+          "ಕುಟುಂಬದ ವಾರ್ಷಿಕ ಆದಾಯ ₹32,000 ಕ್ಕಿಂತ ಕಡಿಮೆ (ಬಿಪಿಎಲ್ ಕುಟುಂಬ)",
+          "ಇತರ ಯಾವುದೇ ಸರ್ಕಾರಿ ನೌಕರಿ ಅಥವಾ ಇಪಿಎಫ್ (EPFO) ಪಿಂಚಣಿ ಪಡೆಯುತ್ತಿರಬಾರದು"
+        ],
+        "hi": [
+          "कर्नाटक में कम से कम 3 वर्ष से रह रहे स्थायी निवासी",
+          "आयु सीमा: संध्या सुरक्षा 65+ वर्ष; वृद्धावस्था 60+ वर्ष; विधवा पेंशन 18+ वर्ष; दिव्यांग 40%+ दिव्यांगता",
+          "पारिवारिक वार्षिक आय ₹32,000 से कम (बीपीएल कार्ड धारक)",
+          "अन्य किसी सरकारी अथवा ईपीएफओ पेंशन के लाभार्थी न हों"
+        ]
+      },
+      "required_documents": {
+        "en": [
+          "Aadhaar Card of applicant",
+          "Age Proof (Voter ID, School certificate, or Medical Officer Age Certificate)",
+          "Income & Domicile Certificate from Nadakacheri (RD Number)",
+          "BPL Ration Card / Food Card",
+          "Bank Account passbook seeded with Aadhaar NPCI for DBT",
+          "Death Certificate of spouse (for Widow Pension) / UDID Card (for Disability Pension)"
+        ],
+        "kn": [
+          "ಅರ್ಜಿದಾರರ ಆಧಾರ್ ಕಾರ್ಡ್",
+          "ವಯಸ್ಸಿನ ದೃಢೀಕರಣ (ಮತದಾರರ ಗುರುತಿನ ಚೀಟಿ, ಶಾಲಾ ದಾಖಲೆ ಅಥವಾ ವೈದ್ಯಾಧಿಕಾರಿ ನೀಡಿದ ವಯಸ್ಸಿನ ಪತ್ರ)",
+          "ನಡಕಚೇರಿ ಆದಾಯ ಮತ್ತು ವಾಸಸ್ಥಳ ಪ್ರಮಾಣಪತ್ರದ RD ಸಂಖ್ಯೆ",
+          "ಬಿಪಿಎಲ್ ಪಡಿತರ ಚೀಟಿ",
+          "ಆಧಾರ್-NPCI ಜೋಡಣೆಯಾಗಿರುವ ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್",
+          "ಪತಿಯ ಮರಣ ಪ್ರಮಾಣಪತ್ರ (ವಿಧವಾ ವೇತನಕ್ಕೆ) / UDID ಪ್ರಮಾಣಪತ್ರ (ಅಂಗವಿಕಲರ ಪಿಂಚಣಿಗೆ)"
+        ],
+        "hi": [
+          "आवेदक का आधार कार्ड",
+          "आयु प्रमाण (वोटर आईडी अथवा चिकित्सा अधिकारी द्वारा प्रदत्त आयु प्रमाणपत्र)",
+          "नाडाकचेरी आय एवं निवास प्रमाणपत्र (आरडी नंबर)",
+          "बीपीएल राशन कार्ड",
+          "एनपीसीआई से जुड़ा आधार सक्रिय बैंक खाता",
+          "पति का मृत्यु प्रमाणपत्र (विधवा पेंशन हेतु) / यूडीआईडी कार्ड (दिव्यांग पेंशन हेतु)"
+        ]
+      },
+      "common_problems": [
+        {
+          "problem_id": "pension_payment_track",
+          "problem_title": {
+            "en": "How can I track my pension payment?",
+            "kn": "ನನ್ನ ಪಿಂಚಣಿ ಪಾವತಿ ಮತ್ತು ಸ್ಥಿತಿಯನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡುವುದು ಹೇಗೆ?",
+            "hi": "मेरी पेंशन के भुगतान और स्थिति की जांच कैसे करें?"
+          },
+          "recommended_action": {
+            "en": "Track your monthly pension disbursement on dssp.karnataka.gov.in or the Karnataka DBT App using your Aadhaar number or Pension Account Number.",
+            "kn": "dssp.karnataka.gov.in ಅಥವಾ ಕರ್ನಾಟಕ DBT ಆ್ಯಪ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಆಧಾರ್ ಸಂಖ್ಯೆ ಅಥವಾ ಪಿಂಚಣಿ ಸಂಖ್ಯೆ ಬಳಸಿ ಮಾಸಿಕ ಜಮೆ ಸ್ಥಿತಿ ಪರಿಶೀಲಿಸಿ.",
+            "hi": "dssp.karnataka.gov.in पर अथवा कर्नाटक डीबीटी ऐप में अपना आधार नंबर या पेंशन खाता संख्या दर्ज करके मासिक भुगतान की स्थिति जांचें।"
+          },
+          "checklist": {
+            "en": [
+              "Visit official DSSP portal: https://dssp.karnataka.gov.in/ or https://dbt.karnataka.gov.in/",
+              "Click 'Pension Status / Beneficiary Search' (ಫಲಾನುಭವಿಗಳ ಸ್ಥಿತಿ)",
+              "Enter your 12-digit Aadhaar Number or Taluk Pension Sanction Reference Number",
+              "View monthly credit date, disbursement batch ID, and the linked bank account",
+              "If payment is stopped or pending, verify whether Annual Life Certificate (Jeevan Pramaan) or Aadhaar e-KYC update is due",
+              "Check if bank account is dormant or unmapped on NPCI mapper"
+            ],
+            "kn": [
+              "ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ: https://dssp.karnataka.gov.in/ ಅಥವಾ https://dbt.karnataka.gov.in/",
+              "'ಫಲಾನುಭವಿಗಳ ಸ್ಥಿತಿ' (Beneficiary Status) ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ",
+              "ನಿಮ್ಮ 12-ಅಂಕಿಯ ಆಧಾರ್ ಸಂಖ್ಯೆ ಅಥವಾ ಪಿಂಚಣಿ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ",
+              "ಪ್ರತಿ ತಿಂಗಳ ಪಾವತಿ ದಿನಾಂಕ ಮತ್ತು ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಜಮೆಯಾದ ವಿವರಗಳನ್ನು ನೋಡಿ",
+              "ಹಣ ಬರುವುದು ನಿಂತಿದ್ದರೆ ವಾರ್ಷಿಕ ಜೀವನ ಪ್ರಮಾಣಪತ್ರ (Life Certificate) ಅಥವಾ ಬ್ಯಾಂಕ್ NPCI ಮ್ಯಾಪಿಂಗ್ ಸಕ್ರಿಯವಾಗಿದೆಯೇ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ"
+            ],
+            "hi": [
+              "आधिकारिक पोर्टल https://dssp.karnataka.gov.in/ अथवा https://dbt.karnataka.gov.in/ पर जाएं",
+              "'लाभार्थी स्थिति' (Beneficiary Status) पर क्लिक करें",
+              "अपना 12 अंकों का आधार नंबर दर्ज करें",
+              "मासिक भुगतान एवं क्रेडिट की स्थिति देखें",
+              "यदि भुगतान रुका है, तो वार्षिक जीवन प्रमाण पत्र (Jeevan Pramaan) अथवा एनपीसीआई बैंक लिंकिंग की जांच करें"
+            ]
+          },
+          "escalation_route": {
+            "en": "DSSP Pension Helpdesk: 080-22340676 / Revenue Department Toll-Free: 1902",
+            "kn": "ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಪಿಂಚಣಿ ಸಹಾಯವಾಣಿ: 080-22340676 / ಕಂದಾಯ ಇಲಾಖೆ: 1902",
+            "hi": "डीएसएसपी पेंशन हेल्पलाइन: 080-22340676 / राजस्व विभाग: 1902"
+          }
+        },
+        {
+          "problem_id": "sandhya_suraksha_apply",
+          "problem_title": {
+            "en": "How do I apply for Sandhya Suraksha / Old Age Pension?",
+            "kn": "ಸಂಧ್ಯಾ ಸುರಕ್ಷಾ ಅಥವಾ ವೃದ್ಧಾಪ್ಯ ವೇತನಕ್ಕೆ ಅರ್ಜಿ ಸಲ್ಲಿಸುವುದು ಹೇಗೆ?",
+            "hi": "संध्या सुरक्षा अथवा वृद्धावस्था पेंशन के लिए आवेदन कैसे करें?"
+          },
+          "recommended_action": {
+            "en": "Apply through your nearest Grama One / Bangalore One centre or Nadakacheri portal with Aadhaar, age proof, income certificate (<₹32,000/yr), and Aadhaar-seeded bank account.",
+            "kn": "ಆಧಾರ್, ವಯಸ್ಸಿನ ಪುರಾವೆ, ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್‌ನೊಂದಿಗೆ ಗ್ರಾಮ ಒನ್ ಕೇಂದ್ರದಲ್ಲಿ ಅಥವಾ ನಾಡಕಚೇರಿ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ.",
+            "hi": "आधार, आयु प्रमाण, आय प्रमाणपत्र (<₹32,000/वर्ष) और बैंक पासबुक के साथ ग्राम वन केंद्र या नाडाकचेरी पोर्टल पर आवेदन करें।"
+          },
+          "checklist": {
+            "en": [
+              "Obtain an Income & Domicile RD Certificate from Nadakacheri confirming annual income is below ₹32,000",
+              "Visit nearest Grama One / Seva Sindhu centre or log in to https://nadakacheri.karnataka.gov.in/",
+              "Select 'Social Security Pension -> Sandhya Suraksha Yojana'",
+              "Submit Aadhaar, Voter ID (age proof 65+), BPL ration card, and bank details",
+              "Village Accountant & Revenue Inspector conduct physical spot verification",
+              "Tahsildar issues Sanction Order within 30 Sakala days; monthly ₹1,200 DBT begins"
+            ],
+            "kn": [
+              "ನಾಡಕಚೇರಿಯಲ್ಲಿ ಕುಟುಂಬದ ವಾರ್ಷಿಕ ಆದಾಯ ₹32,000 ಕ್ಕಿಂತ ಕಡಿಮೆ ಇರುವ RD ಪ್ರಮಾಣಪತ್ರ ಪಡೆಯಿರಿ",
+              "ಹತ್ತಿರದ ಗ್ರಾಮ ಒನ್ / ಸೇವಾ ಸಿಂಧು ಕೇಂದ್ರಕ್ಕೆ ಭೇಟಿ ನೀಡಿ ಅಥವಾ nadakacheri.karnataka.gov.in ತೆರೆಯಿರಿ",
+              "'ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಯೋಜನೆಗಳು -> ಸಂಧ್ಯಾ ಸುರಕ್ಷಾ ಯೋಜನೆ' ಆಯ್ಕೆಮಾಡಿ",
+              "ಆಧಾರ್, ಮತದಾರರ ಗುರುತಿನ ಚೀಟಿ (65+ ವಯಸ್ಸು), ಬಿಪಿಎಲ್ ಕಾರ್ಡ್ ಮತ್ತು ಬ್ಯಾಂಕ್ ವಿವರ ಸಲ್ಲಿಸಿ",
+              "ಕಂದಾಯ ಅಧಿಕಾರಿಗಳ ಸ್ಥಳ ಪರಿಶೀಲನೆಯ ನಂತರ ತಹಶೀಲ್ದಾರ್ ಮಂಜೂರಾತಿ ನೀಡುತ್ತಾರೆ",
+              "ತಿಂಗಳಿಗೆ ₹1,200 ನೇರವಾಗಿ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಜಮೆಯಾಗುತ್ತದೆ"
+            ],
+            "hi": [
+              "वार्षिक आय ₹32,000 से कम होने का नाडाकचेरी आरडी प्रमाणपत्र प्राप्त करें",
+              "निकटतम ग्राम वन केंद्र जाएं अथवा https://nadakacheri.karnataka.gov.in/ खोलें",
+              "'सामाजिक सुरक्षा पेंशन -> संध्या सुरक्षा योजना' चुनें",
+              "आधार, वोटर आईडी (आयु 65+), बीपीएल कार्ड और बैंक विवरण जमा करें",
+              "राजस्व निरीक्षक के सत्यापन उपरांत तहसीलदार स्वीकृति आदेश जारी करेंगे और ₹1,200/माह डीबीटी शुरू होगा"
+            ]
+          },
+          "escalation_route": {
+            "en": "Taluk Tahsildar Social Security Branch / CM Helpline: 1902",
+            "kn": "ತಾಲೂಕು ತಹಶೀಲ್ದಾರ್ ಕಚೇರಿ / ಸಿಎಂ ಸಹಾಯವಾಣಿ: 1902",
+            "hi": "तालुक तहसीलदार कार्यालय / सीएम हेल्पलाइन: 1902"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ahara_ration_card",
+      "category_id": "ration_food",
+      "name": {
+        "en": "Karnataka Ahara - Ration Card Services (BPL/APL)",
+        "kn": "ಕರ್ನಾಟಕ ಆಹಾರ - ಪಡಿತರ ಚೀಟಿ ಸೇವೆಗಳು (BPL/APL)",
+        "hi": "कर्नाटक राशन कार्ड सेवाएं (बीपीएल/एपीएल)"
+      },
+      "provider": {
+        "en": "Department of Food, Civil Supplies & Consumer Affairs, Government of Karnataka",
+        "kn": "ಆಹಾರ, ನಾಗರಿಕ ಸರಬರಾಜು ಮತ್ತು ಗ್ರಾಹಕರ ವ್ಯವಹಾರಗಳ ಇಲಾಖೆ, ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
+        "hi": "खाद्य, नागरिक आपूर्ति एवं उपभोक्ता मामले विभाग, कर्नाटक सरकार"
+      },
+      "scope": "Karnataka",
+      "portal_url": "https://ahara.kar.nic.in/",
+      "verification_status": "verified",
+      "last_verified": "2026-03-15",
+      "summary": {
+        "en": "Official Karnataka portal for Priority Household (BPL) and Non-Priority (APL) ration cards, newborn member additions, biometric e-KYC updates, surrender, and fair price shop foodgrain entitlement tracking.",
+        "kn": "ಬಿಪಿಎಲ್/ಎಪಿಎಲ್ ಪಡಿತರ ಚೀಟಿ ಅರ್ಜಿ, ಹೊಸ ಸದಸ್ಯರ ಸೇರ್ಪಡೆ, ಬಯೋಮೆಟ್ರಿಕ್ ಇ-ಕೆವೈಸಿ, ಹೆಸರು ತಿದ್ದುಪಡಿ ಮತ್ತು ಪಡಿತರ ಧಾನ್ಯ ವಿತರಣೆಯ ಅಧಿಕೃತ ಪೋರ್ಟಲ್.",
+        "hi": "बीपीएल/एपीएल राशन कार्ड, नए सदस्य जोड़ने, बायोमेट्रिक ई-केवाईसी, नाम संशोधन और खाद्यान्न पात्रता जांचने का आधिकारिक कर्नाटक पोर्टल।"
+      },
+      "eligibility": {
+        "en": [
+          "Karnataka resident families",
+          "BPL/PHH eligibility: Annual family income under ₹1.20 Lakhs, non-taxpayer, not owning four-wheeler (except commercial taxi) or over 3 hectares dry land",
+          "APL/NPHH: Any non-BPL family residing in Karnataka"
+        ],
+        "kn": [
+          "ಕರ್ನಾಟಕದ ಖಾಯಂ ನಿವಾಸಿ ಕುಟುಂಬಗಳು",
+          "ಬಿಪಿಎಲ್ ಅರ್ಹತೆ: ವಾರ್ಷಿಕ ಕುಟುಂಬ ಆದಾಯ ₹1.20 ಲಕ್ಷದೊಳಗೆ, ಆದಾಯ ತೆರಿಗೆ ಪಾವತಿದಾರರಲ್ಲದವರು, ಸ್ವಂತ 4-ಚಕ್ರ ವಾಹನ ಹೊಂದಿರದವರು",
+          "ಎಪಿಎಲ್: ಕರ್ನಾಟಕದ ಯಾವುದೇ ನಾಗರಿಕ ಕುಟುಂಬ"
+        ],
+        "hi": [
+          "कर्नाटक निवासी परिवार",
+          "बीपीएल पात्रता: पारिवारिक आय ₹1.20 लाख से कम, आयकर दाता न हों, चार पहिया वाहन न हो",
+          "एपीएल: कोई भी गैर-बीपीएल परिवार"
+        ]
+      },
+      "required_documents": {
+        "en": [
+          "Aadhaar cards of all family members with active biometric seeding",
+          "Birth Certificate of newborn child (for child addition)",
+          "Marriage Certificate / Surrender Certificate (for spouse addition)",
+          "Electricity bill / RR Number for residence proof",
+          "Caste and Income certificate RD number"
+        ],
+        "kn": [
+          "ಕುಟುಂಬದ ಎಲ್ಲಾ ಸದಸ್ಯರ ಆಧಾರ್ ಕಾರ್ಡ್‌ಗಳು",
+          "ಮಗುವಿನ ಜನನ ಪ್ರಮಾಣಪತ್ರ (ಹೊಸ ಮಗು ಸೇರ್ಪಡೆಗೆ)",
+          "ವಿವಾಹ ಪ್ರಮಾಣಪತ್ರ ಅಥವಾ ಹಳೆಯ ಪಡಿತರ ಚೀಟಿಯಿಂದ ಹೆಸರು ತೆಗೆದ ಪ್ರಮಾಣಪತ್ರ (ಪತ್ನಿ ಸೇರ್ಪಡೆಗೆ)",
+          "ವಿದ್ಯುತ್ ಬಿಲ್ / RR ಸಂಖ್ಯೆ (ವಿಳಾಸ ಪುರಾವೆ)",
+          "ಜಾತಿ ಮತ್ತು ಆದಾಯ RD ಸಂಖ್ಯೆ"
+        ],
+        "hi": [
+          "परिवार के सभी सदस्यों का आधार कार्ड",
+          "नवजात शिशु का जन्म प्रमाणपत्र (नाम जोड़ने हेतु)",
+          "विवाह प्रमाणपत्र अथवा स्थानांतरण प्रमाणपत्र (पत्नी का नाम जोड़ने हेतु)",
+          "बिजली का बिल / पता प्रमाण",
+          "जाति एवं आय आरडी संख्या"
+        ]
+      },
+      "common_problems": [
+        {
+          "problem_id": "ahara_update_ration_card",
+          "problem_title": {
+            "en": "How do I update my ration card (add member / correction)?",
+            "kn": "ನನ್ನ ಪಡಿತರ ಚೀಟಿಯನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡುವುದು (ಸದಸ್ಯರ ಸೇರ್ಪಡೆ / ತಿದ್ದುಪಡಿ) ಹೇಗೆ?",
+            "hi": "राशन कार्ड में संशोधन अथवा नए सदस्य का नाम कैसे जोड़ें?"
+          },
+          "recommended_action": {
+            "en": "Visit ahara.kar.nic.in during active e-Services window or visit a Grama One centre with member Aadhaar, birth certificate, and electricity RR number to submit the update.",
+            "kn": "ಆಹಾರ ಇಲಾಖೆಯ ahara.kar.nic.in ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಅಥವಾ ಗ್ರಾಮ ಒನ್ ಕೇಂದ್ರದಲ್ಲಿ ಸದಸ್ಯರ ಆಧಾರ್ ಮತ್ತು ಜನನ ಪ್ರಮಾಣಪತ್ರದೊಂದಿಗೆ ಸೇರ್ಪಡೆ/ತಿದ್ದುಪಡಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ.",
+            "hi": "सदस्य के आधार कार्ड और जन्म प्रमाणपत्र के साथ ahara.kar.nic.in पोर्टल अथवा ग्राम वन केंद्र जाकर राशन कार्ड में नाम जोड़ें या संशोधन करें।"
+          },
+          "checklist": {
+            "en": [
+              "Go to official Food Dept portal: https://ahara.kar.nic.in/ and select 'e-Services'",
+              "Click 'e-Ration Card' -> 'Amendment Request' (ತಿದ್ದುಪಡಿಗೆ ವಿನಂತಿ)",
+              "Select amendment type: 'Addition of Member', 'Change of Fair Price Shop', or 'Name Correction'",
+              "Enter Ration Card Number and authenticate Head of Family via Aadhaar OTP",
+              "For newborn addition: Enter child's Aadhaar and 14-digit e-JanMa Birth Certificate registration number",
+              "For spouse addition: Upload previous ration card deletion/surrender certificate from parents' house",
+              "Pay ₹50 fee, download acknowledgement, and Food Inspector will verify and update the card within 15 days"
+            ],
+            "kn": [
+              "https://ahara.kar.nic.in/ ಗೆ ಭೇಟಿ ನೀಡಿ 'ಇ-ಸೇವೆಗಳು' (e-Services) ಆಯ್ಕೆಮಾಡಿ",
+              "'ಇ-ಪಡಿತರ ಚೀಟಿ' -> 'ತಿದ್ದುಪಡಿಗೆ ವಿನಂತಿ' ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ",
+              "ಸೇರ್ಪಡೆ ಪ್ರಕಾರ ಆಯ್ಕೆಮಾಡಿ: 'ಹೊಸ ಸದಸ್ಯರ ಸೇರ್ಪಡೆ' ಅಥವಾ 'ನ್ಯಾಯಬೆಲೆ ಅಂಗಡಿ ಬದಲಾವಣೆ'",
+              "ಪಡಿತರ ಚೀಟಿ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ ಕುಟುಂಬದ ಮುಖ್ಯಸ್ಥರ ಆಧಾರ್ ಒಟಿಪಿ ದೃಢೀಕರಿಸಿ",
+              "ಮಗುವಿನ ಸೇರ್ಪಡೆಗೆ: ಮಗುವಿನ ಆಧಾರ್ ಮತ್ತು ಇ-ಜನ್ಮ ಜನನ ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ",
+              "ವಿವಾಹಿತ ಮಹಿಳೆಯ ಸೇರ್ಪಡೆಗೆ: ತವರು ಮನೆಯ ರೇಷನ್ ಕಾರ್ಡ್‌ನಿಂದ ಹೆಸರು ರದ್ದುಗೊಳಿಸಿದ ಸರ್ಟಿಫಿಕೇಟ್ ನೀಡಿ",
+              "₹50 ಶುಲ್ಕ ಪಾವತಿಸಿ ಸ್ವೀಕೃತಿ ರಶೀದಿ ಪಡೆಯಿರಿ; 15 ದಿನಗಳಲ್ಲಿ ಪರಿಶೀಲನೆ ಪೂರ್ಣಗೊಳ್ಳುತ್ತದೆ"
+            ],
+            "hi": [
+              "https://ahara.kar.nic.in/ पर जाएं और 'ई-सर्विसेज' चुनें",
+              "'ई-राशन कार्ड' -> 'संशोधन अनुरोध' पर क्लिक करें",
+              "सदस्य जोड़ना या नाम सुधार का विकल्प चुनें",
+              "राशन कार्ड नंबर दर्ज कर मुखिया के आधार ओटीपी से लॉगिन करें",
+              "बच्चे का नाम जोड़ने के लिए: आधार व जन्म प्रमाणपत्र विवरण दर्ज करें",
+              "पत्नी का नाम जोड़ने के लिए: मायके के राशन कार्ड से नाम हटाने का प्रमाणपत्र लगाएं",
+              "पावती प्राप्त करें; खाद्य निरीक्षक द्वारा 15 दिनों में कार्ड अपडेट हो जाएगा"
+            ]
+          },
+          "escalation_route": {
+            "en": "Food & Civil Supplies Toll-Free Helpline: 1967 / 1800-425-9339",
+            "kn": "ಆಹಾರ ಮತ್ತು ನಾಗರಿಕ ಸರಬರಾಜು ಉಚಿತ ಸಹಾಯವಾಣಿ: 1967 / 1800-425-9339",
+            "hi": "खाद्य एवं नागरिक आपूर्ति टोल-फ्री हेल्पलाइन: 1967 / 1800-425-9339"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pm_kisan_agriculture",
+      "category_id": "agriculture_farmer",
+      "name": {
+        "en": "PM-KISAN Samman Nidhi & Karnataka FRUITS",
+        "kn": "PM-KISAN ಸಮ್ಮಾನ್ ನಿಧಿ ಮತ್ತು ಕರ್ನಾಟಕ FRUITS ಯೋಜನೆ",
+        "hi": "पीएम-किसान सम्मान निधि एवं कर्नाटक फ्रूट्स (FRUITS) योजना"
+      },
+      "provider": {
+        "en": "Department of Agriculture and Farmers Welfare, Govt of India & Karnataka",
+        "kn": "ಕೃಷಿ ಮತ್ತು ರೈತರ ಕಲ್ಯಾಣ ಇಲಾಖೆ, ಭಾರತ ಸರ್ಕಾರ ಮತ್ತು ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
+        "hi": "कृषि एवं किसान कल्याण विभाग, भारत सरकार एवं कर्नाटक"
+      },
+      "scope": "All India & Karnataka",
+      "portal_url": "https://pmkisan.gov.in/",
+      "verification_status": "verified",
+      "last_verified": "2026-03-15",
+      "summary": {
+        "en": "Direct income support of ₹6,000/year in 3 installments to landholding farmer families via PM-KISAN, integrated with Karnataka FRUITS portal (fruits.karnataka.gov.in) for unified farmer ID and crop benefits.",
+        "kn": "ಭೂಮಿ ಹೊಂದಿರುವ ರೈತ ಕುಟುಂಬಗಳಿಗೆ ವರ್ಷಕ್ಕೆ ₹6,000 ಆದಾಯ ಬೆಂಬಲ ನೀಡುವ PM-KISAN ಮತ್ತು ರಾಜ್ಯದ ಕೃಷಿ ಸೌಲಭ್ಯಗಳಿಗೆ ಏಕೀಕೃತ FID ಒದಗಿಸುವ ಕರ್ನಾಟಕ FRUITS ಪೋರ್ಟಲ್.",
+        "hi": "भूमिधारक किसान परिवारों को वार्षिक ₹6,000 की वित्तीय सहायता देने वाली पीएम-किसान योजना और कर्नाटक में किसान आईडी (FID) हेतु फ्रूट्स पोर्टल।"
+      },
+      "eligibility": {
+        "en": [
+          "Farmer family owning cultivable land with clear title (RTC / Pahani)",
+          "Land seeding completed and verified in revenue land records",
+          "Mandatory Aadhaar e-KYC completed on PM-KISAN portal",
+          "Bank account actively seeded with Aadhaar on NPCI mapping",
+          "Excludes institutional landholders, income tax payers, and constitutional post holders"
+        ],
+        "kn": [
+          "ತಮ್ಮ ಹೆಸರಿನಲ್ಲಿ ಸಾಗುವಳಿ ಜಮೀನು (RTC/ಪಹಣಿ) ಹೊಂದಿರುವ ರೈತ ಕುಟುಂಬ",
+          "ಕಂದಾಯ ದಾಖಲೆಗಳಲ್ಲಿ ಭೂಮಿ ಜೋಡಣೆ (Land Seeding) ಪೂರ್ಣಗೊಂಡಿರಬೇಕು",
+          "PM-KISAN ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಆಧಾರ್ ಇ-ಕೆವೈಸಿ ಮಾಡಿಸಿರಬೇಕು",
+          "ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಆಧಾರ್-NPCI ಜೋಡಣೆ ಸಕ್ರಿಯವಾಗಿರಬೇಕು",
+          "ಸಾಂಸ್ಥಿಕ ಭೂಮಾಲೀಕರು ಮತ್ತು ಆದಾಯ ತೆರಿಗೆ ಪಾವತಿದಾರರಿಗೆ ಅನ್ವಯಿಸುವುದಿಲ್ಲ"
+        ],
+        "hi": [
+          "कृषि योग्य भूमि (खतौनी/आरटीसी) धारक किसान परिवार",
+          "राजस्व रिकॉर्ड में भूमि सीडिंग पूर्ण और सत्यापित हो",
+          "पीएम-किसान पोर्टल पर आधार ई-केवाईसी पूर्ण हो",
+          "बैंक खाता एनपीसीआई के साथ आधार-सक्रिय हो",
+          "आयकर दाता एवं संवैधानिक पदधारक पात्र नहीं हैं"
+        ]
+      },
+      "required_documents": {
+        "en": [
+          "Aadhaar Card of farmer and spouse",
+          "Land Record document (Karnataka RTC / Pahani / Khata number)",
+          "Bank Account details (NPCI Aadhaar-enabled)",
+          "Karnataka FRUITS Farmer ID (FID)"
+        ],
+        "kn": [
+          "ರೈತ ಮತ್ತು ಪತ್ನಿಯ ಆಧಾರ್ ಕಾರ್ಡ್",
+          "ಜಮೀನಿನ ಪಹಣಿ / RTC / ಖಾತಾ ದಾಖಲೆ",
+          "ಆಧಾರ್ ಲಿಂಕ್ ಆದ ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್",
+          "ಕರ್ನಾಟಕ FRUITS ರೈತ ಐಡಿ (FID)"
+        ],
+        "hi": [
+          "किसान और जीवनसाथी का आधार कार्ड",
+          "जमीन के दस्तावेज (कर्नाटक आरटीसी / खतौनी / खाता संख्या)",
+          "आधार से जुड़ा बैंक खाता",
+          "कर्नाटक फ्रूट्स फार्मर आईडी (FID)"
+        ]
+      },
+      "common_problems": [
+        {
+          "problem_id": "pmkisan_apply_scheme",
+          "problem_title": {
+            "en": "How do I apply for a farmer scheme (PM-KISAN / Raitha Vidyanidhi)?",
+            "kn": "ರೈತ ಯೋಜನೆಗೆ (PM-KISAN / ರೈತ ವಿದ್ಯಾನಿಧಿ) ಅರ್ಜಿ ಸಲ್ಲಿಸುವುದು ಹೇಗೆ?",
+            "hi": "किसान योजना (पीएम-किसान / किसान छात्रवृत्ति) के लिए आवेदन कैसे करें?"
+          },
+          "recommended_action": {
+            "en": "Register on pmkisan.gov.in under 'New Farmer Registration' with Aadhaar, RTC land record, and register for a Karnataka Farmer ID (FID) on fruits.karnataka.gov.in at your local Raitha Samparka Kendra.",
+            "kn": "pmkisan.gov.in ನಲ್ಲಿ 'New Farmer Registration' ಅಡಿಯಲ್ಲಿ ಆಧಾರ್ ಮತ್ತು ಪಹಣಿಯೊಂದಿಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ ಮತ್ತು ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರದಲ್ಲಿ FRUITS FID ನೋಂದಣಿ ಮಾಡಿಸಿ.",
+            "hi": "pmkisan.gov.in पर 'न्यू फार्मर रजिस्ट्रेशन' में आधार व आरटीसी से पंजीकरण करें और नजदीकी रायता संपर्क केंद्र से कर्नाटक फ्रूट्स (FID) आईडी बनवाएं।"
+          },
+          "checklist": {
+            "en": [
+              "Open official PM-KISAN portal: https://pmkisan.gov.in/",
+              "Click 'New Farmer Registration' -> select Rural or Urban Farmer",
+              "Enter Aadhaar Number, mobile number, and select 'Karnataka'",
+              "Enter land survey number, sub-division, and khata number from your RTC/Pahani",
+              "Submit online; local Village Administrative Officer / Agriculture Officer verifies the land record",
+              "Visit nearest Raitha Samparka Kendra (RSK) to generate your Karnataka FRUITS ID (FID)",
+              "FRUITS FID automatically qualifies your college-going children for the Raitha Vidyanidhi scholarship on SSP"
+            ],
+            "kn": [
+              "https://pmkisan.gov.in/ ತೆರೆಯಿರಿ",
+              "'New Farmer Registration' ಕ್ಲಿಕ್ ಮಾಡಿ (ಗ್ರಾಮೀಣ ಅಥವಾ ನಗರ ರೈತ)",
+              "ಆಧಾರ್ ಸಂಖ್ಯೆ, ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ ಮತ್ತು ರಾಜ್ಯ 'ಕರ್ನಾಟಕ' ಆಯ್ಕೆಮಾಡಿ",
+              "ಪಹಣಿ/RTC ಯಲ್ಲಿರುವ ಸರ್ವೆ ನಂಬರ್, ಹಿಸ್ಸಾ ನಂಬರ್ ಮತ್ತು ಖಾತಾ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ",
+              "ಅರ್ಜಿ ಸಲ್ಲಿಸಿ; ಕೃಷಿ ಅಧಿಕಾರಿಗಳಿಂದ ಭೂದಾಖಲೆ ಪರಿಶೀಲನೆಯಾಗುತ್ತದೆ",
+              "ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಕ್ಕೆ (RSK) ಭೇಟಿ ನೀಡಿ ನಿಮ್ಮ FRUITS FID ಪಡೆಯಿರಿ",
+              "FRUITS FID ಇದ್ದರೆ ನಿಮ್ಮ ಕಾಲೇಜು ಓದುತ್ತಿರುವ ಮಕ್ಕಳಿಗೆ SSP ಯಲ್ಲಿ ನೇರವಾಗಿ 'ರೈತ ವಿದ್ಯಾನಿಧಿ' ವಿದ್ಯಾರ್ಥಿವೇತನ ಲಭಿಸುತ್ತದೆ"
+            ],
+            "hi": [
+              "आधिकारिक पोर्टल https://pmkisan.gov.in/ खोलें",
+              "'न्यू फार्मर रजिस्ट्रेशन' पर क्लिक करें",
+              "आधार नंबर, मोबाइल नंबर दर्ज कर 'कर्नाटक' चुनें",
+              "अपनी खतौनी/आरटीसी से सर्वे नंबर, उप-विभाग और खाता संख्या भरें",
+              "कृषि अधिकारी द्वारा सत्यापन उपरांत पंजीकरण स्वीकृत होगा",
+              "नजदीकी रायता संपर्क केंद्र (RSK) जाकर अपनी फ्रूट्स (FID) आईडी बनवाएं",
+              "फ्रूट्स आईडी होने पर आपके बच्चों को एसएसपी पोर्टल पर 'रायता विद्यानिधि' छात्रवृत्ति स्वतः मिलेगी"
+            ]
+          },
+          "escalation_route": {
+            "en": "PM-KISAN Toll-Free Helpline: 155261 / 011-24300606. Raitha Samparka Kendra / Kisan Call Centre: 1800-180-1551",
+            "kn": "PM-KISAN ಸಹಾಯವಾಣಿ: 155261 / 011-24300606. ಕಿಸಾನ್ ಕಾಲ್ ಸೆಂಟರ್: 1800-180-1551",
+            "hi": "पीएम-किसान टोल-फ्री हेल्पलाइन: 155261 / 011-24300606. किसान कॉल सेंटर: 1800-180-1551"
+          }
+        },
+        {
+          "problem_id": "pmkisan_payment_issue",
+          "problem_title": {
+            "en": "Why is my PM-KISAN installment delayed or not credited?",
+            "kn": "ನನ್ನ PM-KISAN ಕಂತಿನ ಹಣ ಏಕೆ ಬಂದಿಲ್ಲ ಅಥವಾ ತಡವಾಗಿದೆ?",
+            "hi": "मेरी पीएम-किसान की किस्त क्यों रुकी है या विलंबित है?"
+          },
+          "recommended_action": {
+            "en": "Go to 'Know Your Status' on pmkisan.gov.in, check Land Seeding, e-KYC, and Aadhaar Bank Account Seeding status, and resolve any unseeded items immediately.",
+            "kn": "pmkisan.gov.in ನಲ್ಲಿ 'Know Your Status' ಪರಿಶೀಲಿಸಿ, ಲ್ಯಾಂಡ್ ಸೀಡಿಂಗ್, ಇ-ಕೆವೈಸಿ ಮತ್ತು ಬ್ಯಾಂಕ್ ಆಧಾರ್ ಲಿಂಕಿಂಗ್ ಸರಿಪಡಿಸಿಕೊಳ್ಳಿ.",
+            "hi": "pmkisan.gov.in पर 'नो योर स्टेटस' देखें, लैंड सीडिंग, ई-केवाईसी और बैंक आधार सीडिंग की स्थिति जांचें और कमी को तुरंत ठीक कराएं।"
+          },
+          "checklist": {
+            "en": [
+              "Visit https://pmkisan.gov.in/ and click 'Know Your Status'",
+              "Enter Registration Number or mobile number and captcha to view beneficiary details",
+              "Verify 3 mandatory green checks: (1) Land Seeding: YES, (2) e-KYC: YES, (3) Aadhaar Bank Seeding: YES",
+              "If e-KYC is NO: Complete OTP-based e-KYC on the homepage or visit CSC centre for biometric",
+              "If Land Seeding is NO: Submit your RTC and Aadhaar to your Taluk Agriculture Office / RSK",
+              "If Bank Seeding is NO: Visit your bank branch and activate NPCI Aadhaar DBT mapping"
+            ],
+            "kn": [
+              "https://pmkisan.gov.in/ ಗೆ ಭೇಟಿ ನೀಡಿ 'Know Your Status' ಕ್ಲಿಕ್ ಮಾಡಿ",
+              "ನೋಂದಣಿ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ ನಿಮ್ಮ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸಿ",
+              "3 ಮುಖ್ಯ ಅಂಶಗಳನ್ನು ಪರಿಶೀಲಿಸಿ: (1) Land Seeding: YES, (2) e-KYC: YES, (3) Aadhaar Bank Seeding: YES",
+              "e-KYC ಇಲ್ಲದಿದ್ದರೆ: ಮುಖಪುಟದಲ್ಲಿ ಆಧಾರ್ ಒಟಿಪಿ ಮೂಲಕ ತಕ್ಷಣ e-KYC ಪೂರ್ಣಗೊಳಿಸಿ",
+              "Land Seeding ಇಲ್ಲದಿದ್ದರೆ: ತಾಲೂಕು ಕೃಷಿ ಇಲಾಖೆ / ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಕ್ಕೆ RTC ಮತ್ತು ಆಧಾರ್ ಸಲ್ಲಿಸಿ",
+              "ಬ್ಯಾಂಕ್ ಸೀಡಿಂಗ್ ಇಲ್ಲದಿದ್ದರೆ: ಬ್ಯಾಂಕ್ ಶಾಖೆಯಲ್ಲಿ ಆಧಾರ್-NPCI ಮ್ಯಾಪಿಂಗ್ ಸಕ್ರಿಯಗೊಳಿಸಿ"
+            ],
+            "hi": [
+              "https://pmkisan.gov.in/ पर 'नो योर स्टेटस' पर क्लिक करें",
+              "रजिस्ट्रेशन नंबर दर्ज कर जांचें कि तीनों शर्तें हरी (YES) हैं या नहीं: लैंड सीडिंग, ई-केवाईसी और बैंक आधार सीडिंग",
+              "यदि ई-केवाईसी NO है: होमपेज से आधार ओटीपी द्वारा तुरंत ई-केवाईसी करें",
+              "यदि लैंड सीडिंग NO है: तालुक कृषि कार्यालय में खतौनी और आधार जमा करें",
+              "यदि बैंक सीडिंग NO है: बैंक जाकर एनपीसीआई डीबीटी मैपिंग सक्रिय कराएं"
+            ]
+          },
+          "escalation_route": {
+            "en": "PM-KISAN Helpdesk: 011-23381092 / Raitha Samparka Kendra Helpline: 1800-425-3553",
+            "kn": "PM-KISAN ಸಹಾಯವಾಣಿ: 011-23381092 / ಕೃಷಿ ಸಹಾಯವಾಣಿ: 1800-425-3553",
+            "hi": "पीएम-किसान हेल्पडेस्क: 011-23381092 / कृषि हेल्पलाइन: 1800-425-3553"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bescom_gruha_jyothi",
+      "category_id": "utilities_local",
+      "name": {
+        "en": "BESCOM & Gruha Jyothi Free Electricity Scheme",
+        "kn": "ಬೆಸ್ಕಾಂ ಮತ್ತು ಗೃಹಜ್ಯೋತಿ ಉಚಿತ ವಿದ್ಯುತ್ ಯೋಜನೆ",
+        "hi": "बेस्कॉम एवं गृह ज्योति मुफ्त बिजली योजना"
+      },
+      "provider": {
+        "en": "Energy Department (BESCOM, HESCOM, GESCOM, MESCOM, CESC), Govt of Karnataka",
+        "kn": "ಇಂಧನ ಇಲಾಖೆ (ಬೆಸ್ಕಾಂ, ಹೆಸ್ಕಾಂ, ಜೆಸ್ಕಾಂ, ಮೆಸ್ಕಾಂ, ಸಿಇಎಸ್‌ಸಿ), ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
+        "hi": "ऊर्जा विभाग (बेस्कॉम, हेसकॉम, गेसकॉम, मेसकॉम, सीईएससी), कर्नाटक सरकार"
+      },
+      "scope": "Karnataka",
+      "portal_url": "https://sevasindhu.karnataka.gov.in/",
+      "verification_status": "verified",
+      "last_verified": "2026-03-15",
+      "summary": {
+        "en": "Karnataka government welfare scheme providing up to 200 units of free domestic electricity per month to residential households, calculated based on the past 12-month average consumption plus a 10% entitlement buffer.",
+        "kn": "ಕರ್ನಾಟಕದ ಗೃಹಬಳಕೆದಾರರಿಗೆ ಹಿಂದಿನ 12 ತಿಂಗಳ ಸರಾಸರಿ ಬಳಕೆಯ ಆಧಾರದಲ್ಲಿ 10% ಬಫರ್ ಸೇರಿಸಿ ತಿಂಗಳಿಗೆ 200 ಯೂನಿಟ್‌ಗಳವರೆಗೆ ಉಚಿತ ವಿದ್ಯುತ್ ಒದಗಿಸುವ ಯೋಜನೆ.",
+        "hi": "कर्नाटक के घरेलू उपभोक्ताओं को पिछले 12 महीनों के औसत उपभोग और 10% अतिरिक्त छूट के आधार पर प्रति माह 200 यूनिट तक मुफ्त बिजली देने वाली योजना।"
+      },
+      "eligibility": {
+        "en": [
+          "Residential electricity consumer in Karnataka with a separate meter/Account ID",
+          "Both homeowners and tenants/renters are eligible (only one meter per Aadhaar)",
+          "Monthly consumption must remain within 200 units and within the calculated entitlement limit (past 12-month average + 10%)",
+          "Commercial installations or industrial connections are strictly excluded",
+          "Previous arrears up to scheme registration must be cleared to receive zero-bills"
+        ],
+        "kn": [
+          "ಕರ್ನಾಟಕದ ಗೃಹಬಳಕೆ ವಿದ್ಯುತ್ ಗ್ರಾಹಕರು (ಪ್ರತ್ಯೇಕ ಮೀಟರ್ / ಅಕೌಂಟ್ ಐಡಿ ಹೊಂದಿರಬೇಕು)",
+          "ಮನೆಯ ಮಾಲೀಕರು ಮತ್ತು ಬಾಡಿಗೆದಾರರು ಇಬ್ಬರೂ ಅರ್ಹರು (ಒಬ್ಬರ ಆಧಾರ್‌ಗೆ ಕೇವಲ ಒಂದು ಮೀಟರ್ ಮಾತ್ರ)",
+          "ಮಾಸಿಕ ಬಳಕೆ 200 ಯೂನಿಟ್‌ಗಳೊಳಗೆ ಮತ್ತು ನಿಗದಿತ ಅರ್ಹತಾ ಯೂನಿಟ್‌ಗಳೊಳಗೆ ಇರಬೇಕು (12 ತಿಂಗಳ ಸರಾಸರಿ + 10% ಬಫರ್)",
+          "ವಾಣಿಜ್ಯ ಅಥವಾ ಕೈಗಾರಿಕಾ ಸಂಪರ್ಕಗಳಿಗೆ ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+          "ಹಳೆಯ ವಿದ್ಯುತ್ ಬಾಕಿ ಮೊತ್ತವನ್ನು ಪಾವತಿಸಿರಬೇಕು"
+        ],
+        "hi": [
+          "कर्नाटक के आवासीय बिजली उपभोक्ता (अलग मीटर/खाता संख्या होना अनिवार्य)",
+          "मकान मालिक और किराएदार दोनों पात्र हैं (एक आधार पर केवल एक मीटर मान्य)",
+          "मासिक बिजली खपत 200 यूनिट और अनुमन्य सीमा (12 महीने का औसत + 10%) के भीतर होनी चाहिए",
+          "व्यावसायिक अथवा औद्योगिक कनेक्शन इस योजना में शामिल नहीं हैं",
+          "शून्य बिल प्राप्त करने हेतु पिछला बकाया चुकाना आवश्यक है"
+        ]
+      },
+      "required_documents": {
+        "en": [
+          "Aadhaar Card of the applicant (homeowner or tenant)",
+          "Electricity Consumer Account ID / Connection Number (printed on monthly bill)",
+          "Name of Electricity Supply Company (BESCOM, HESCOM, MESCOM, GESCOM, or CESC)",
+          "Rental Agreement / Lease Deed / Address Proof (for tenant applicants)"
+        ],
+        "kn": [
+          "ಅರ್ಜಿದಾರರ (ಮನೆ ಮಾಲೀಕ ಅಥವಾ ಬಾಡಿಗೆದಾರ) ಆಧಾರ್ ಕಾರ್ಡ್",
+          "ವಿದ್ಯುತ್ ಅಕೌಂಟ್ ಐಡಿ / ಕಸ್ಟಮರ್ ಐಡಿ (ವಿದ್ಯುತ್ ಬಿಲ್‌ನಲ್ಲಿ ನಮೂದಾಗಿರುವ 10 ಅಂಕಿಯ ಸಂಖ್ಯೆ)",
+          "ವಿದ್ಯುತ್ ಸರಬರಾಜು ಕಂಪನಿಯ ಹೆಸರು (BESCOM, HESCOM, MESCOM, ಇತ್ಯಾದಿ)",
+          "ಬಾಡಿಗೆ ಕರಾರು ಪತ್ರ / ವಿಳಾಸ ಪುರಾವೆ (ಬಾಡಿಗೆದಾರರಾಗಿದ್ದಲ್ಲಿ)"
+        ],
+        "hi": [
+          "आवेदक (मालिक अथवा किराएदार) का आधार कार्ड",
+          "बिजली उपभोक्ता खाता संख्या / अकाउंट आईडी (बिल पर अंकित)",
+          "बिजली वितरण कंपनी का नाम (BESCOM, HESCOM आदि)",
+          "किराया अनुबंध / पता प्रमाण (किराएदारों के लिए)"
+        ]
+      },
+      "common_problems": [
+        {
+          "problem_id": "gruha_jyothi_eligibility",
+          "problem_title": {
+            "en": "Who is eligible for Gruha Jyothi zero-bill?",
+            "kn": "ಗೃಹಜ್ಯೋತಿ ಶೂನ್ಯ ಬಿಲ್ ಪಡೆಯಲು ಯಾರು ಅರ್ಹರು?",
+            "hi": "गृह ज्योति शून्य बिजली बिल पाने के लिए कौन पात्र है?"
+          },
+          "recommended_action": {
+            "en": "All domestic residential consumers (both house owners and tenants) whose monthly consumption is within 200 units and does not exceed their calculated 12-month average plus 10% buffer are eligible for zero bills.",
+            "kn": "ಕರ್ನಾಟಕದ ಎಲ್ಲಾ ಗೃಹಬಳಕೆದಾರರು (ಮನೆ ಮಾಲೀಕರು ಮತ್ತು ಬಾಡಿಗೆದಾರರು) ತಮ್ಮ ಹಿಂದಿನ 12 ತಿಂಗಳ ಸರಾಸರಿ + 10% ಮತ್ತು ಗರಿಷ್ಠ 200 ಯೂನಿಟ್‌ಗಳೊಳಗೆ ವಿದ್ಯುತ್ ಬಳಸಿದರೆ ಶೂನ್ಯ ಬಿಲ್ ಪಡೆಯಲು ಅರ್ಹರು.",
+            "hi": "कर्नाटक के सभी घरेलू उपभोक्ता (मकान मालिक एवं किराएदार) जिनका मासिक उपभोग 200 यूनिट और उनके 12 महीने के औसत + 10% तक सीमित है, वे शून्य बिल के पात्र हैं।"
+          },
+          "checklist": {
+            "en": [
+              "Must be a domestic residential meter (not commercial/shops)",
+              "Your monthly consumption must be less than 200 units",
+              "Calculate Entitlement: Government takes your average monthly usage from the past financial year and adds 10% (e.g. if average was 100 units, your entitlement is 110 units)",
+              "If your monthly consumption is <= 110 units: Your net electricity charge is ZERO (Nil bill)",
+              "If monthly consumption is between 110 and 200 units: You pay only for the difference units",
+              "If monthly consumption exceeds 200 units: You must pay the FULL bill amount for that month without subsidy",
+              "Register once on Seva Sindhu Gruha Jyothi portal with Account ID and Aadhaar"
+            ],
+            "kn": [
+              "ಮೀಟರ್ ಗೃಹಬಳಕೆ (Domestic) ಆಗಿರಬೇಕು (ಅಂಗಡಿ, ವಾಣಿಜ್ಯ ಬಳಕೆಯಲ್ಲ)",
+              "ಮಾಸಿಕ ಬಳಕೆ 200 ಯೂನಿಟ್‌ಗಳಿಗಿಂತ ಕಡಿಮೆಯಿರಬೇಕು",
+              "ಅರ್ಹತೆ ಲೆಕ್ಕಾಚಾರ: ಹಿಂದಿನ ಆರ್ಥಿಕ ವರ್ಷದ 12 ತಿಂಗಳ ಸರಾಸರಿ ಬಳಕೆ + 10% ಬಫರ್ (ಉದಾ: ಸರಾಸರಿ 100 ಯೂನಿಟ್ ಆಗಿದ್ದರೆ, ನಿಮ್ಮ ಅರ್ಹತೆ 110 ಯೂನಿಟ್)",
+              "ನಿಮ್ಮ ಮಾಸಿಕ ಬಳಕೆ 110 ಯೂನಿಟ್‌ಗಳೊಳಗೆ ಇದ್ದರೆ: ನಿಮ್ಮ ವಿದ್ಯುತ್ ಬಿಲ್ ಸಂಪೂರ್ಣ ಶೂನ್ಯ (Zero Bill)",
+              "ಬಳಕೆ 110 ರಿಂದ 200 ಯೂನಿಟ್‌ಗಳ ನಡುವೆ ಇದ್ದರೆ: ಕೇವಲ ಹೆಚ್ಚುವರಿ ಯೂನಿಟ್‌ಗಳಿಗೆ ಮಾತ್ರ ಶುಲ್ಕ ಪಾವತಿಸಬೇಕು",
+              "ಬಳಕೆ 200 ಯೂನಿಟ್‌ಗಳನ್ನು ಮೀರಿದರೆ: ಆ ತಿಂಗಳ ಸಂಪೂರ್ಣ ಬಿಲ್ ಅನ್ನು ಸಬ್ಸಿಡಿ ಇಲ್ಲದೆ ಪಾವತಿಸಬೇಕಾಗುತ್ತದೆ",
+              "ಸೇವಾ ಸಿಂಧು ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಅಕೌಂಟ್ ಐಡಿ ಮತ್ತು ಆಧಾರ್ ಲಿಂಕ್ ಮಾಡಿ ನೋಂದಾಯಿಸಿ"
+            ],
+            "hi": [
+              "कनेक्शन केवल घरेलू होना चाहिए (दुकान या कमर्शियल नहीं)",
+              "मासिक बिजली खपत 200 यूनिट से कम होनी चाहिए",
+              "पात्रता गणना: पिछले 12 महीनों का औसत उपभोग + 10% अतिरिक्त यूनिट (उदा. यदि औसत 100 यूनिट है तो अनुमन्य सीमा 110 यूनिट होगी)",
+              "यदि उपभोग 110 यूनिट तक है: बिल शून्य (Zero Bill) आएगा",
+              "यदि उपभोग 110 से 200 यूनिट के बीच है: केवल अतिरिक्त यूनिट्स का बिल देना होगा",
+              "यदि उपभोग 200 यूनिट से अधिक है: उस माह का पूरा बिल बिना सब्सिडी के भरना होगा",
+              "सेवा सिंधु पोर्टल पर अपना बिजली खाता और आधार लिंक करके एक बार पंजीकरण कराएं"
+            ]
+          },
+          "escalation_route": {
+            "en": "BESCOM / ESCOM 24x7 Helpline: 1912 / WhatsApp Support: 9449844640",
+            "kn": "ಬೆಸ್ಕಾಂ / ಎಸ್ಕಾಂ 24x7 ಸಹಾಯವಾಣಿ: 1912 / ವಾಟ್ಸಾಪ್ ಬೆಂಬಲ: 9449844640",
+            "hi": "बेस्कॉम / डिस्कॉम 24x7 हेल्पलाइन: 1912 / व्हाट्सएप सहायता: 9449844640"
+          }
+        },
+        {
+          "problem_id": "electricity_bill_complaint",
+          "problem_title": {
+            "en": "How can I complain about an electricity bill?",
+            "kn": "ವಿದ್ಯುತ್ ಬಿಲ್ ಸಮಸ್ಯೆ ಅಥವಾ ಹೆಚ್ಚುವರಿ ಬಿಲ್ ಬಗ್ಗೆ ದೂರು ನೀಡುವುದು ಹೇಗೆ?",
+            "hi": "बिजली बिल की समस्या या अधिक बिल की शिकायत कैसे करें?"
+          },
+          "recommended_action": {
+            "en": "Call the 24x7 electricity helpline 1912, register a billing or faulty-meter grievance with your 10-digit Account ID, or lodge a formal complaint on the BESCOM portal (bescom.karnataka.gov.in).",
+            "kn": "24x7 ಸಹಾಯವಾಣಿ 1912 ಗೆ ಕರೆ ಮಾಡಿ ನಿಮ್ಮ 10-ಅಂಕಿಯ ಅಕೌಂಟ್ ಐಡಿ ನೀಡಿ ಬಿಲ್ ದೋಷ ಅಥವಾ ಮೀಟರ್ ಸಮಸ್ಯೆಯ ದೂರು ದಾಖಲಿಸಿ, ಅಥವಾ bescom.karnataka.gov.in ನಲ್ಲಿ ದೂರು ನೀಡಿ.",
+            "hi": "24x7 बिजली हेल्पलाइन 1912 पर कॉल करके अपनी 10 अंकों की खाता संख्या बताएं और गलत बिल या खराब मीटर की शिकायत दर्ज कराएं अथवा bescom.karnataka.gov.in पर शिकायत करें।"
+          },
+          "checklist": {
+            "en": [
+              "Dial toll-free 1912 from your phone (accessible across Karnataka 24x7)",
+              "Keep your 10-digit Account ID / Connection Number ready (found on your electricity bill)",
+              "State the issue: inflated bill, meter reading mismatch, wrong tariff, or failed Gruha Jyothi subsidy credit",
+              "Note the Grievance Docket Number received via SMS",
+              "A meter reader or junior engineer will inspect your premises within 7 working days",
+              "If meter is faulty, request an official meter test bench check at the subdivision office; revised bill will be issued based on adjusted units"
+            ],
+            "kn": [
+              "ನಿಮ್ಮ ಫೋನ್‌ನಿಂದ 1912 ಗೆ ಕರೆ ಮಾಡಿ (ಕರ್ನಾಟಕದಾದ್ಯಂತ 24x7 ಉಚಿತ ಲಭ್ಯ)",
+              "ಬಿಲ್‌ನಲ್ಲಿರುವ ನಿಮ್ಮ 10-ಅಂಕಿಯ ಅಕೌಂಟ್ ಐಡಿ ಸಿದ್ಧವಾಗಿರಲಿ",
+              "ಸಮಸ್ಯೆಯನ್ನು ತಿಳಿಸಿ: ಅತಿಯಾದ ಬಿಲ್ ಮೊತ್ತ, ಮೀಟರ್ ರೀಡಿಂಗ್ ವ್ಯತ್ಯಾಸ ಅಥವಾ ಗೃಹಜ್ಯೋತಿ ಸಬ್ಸಿಡಿ ಬಾರದಿರುವುದು",
+              "SMS ಮೂಲಕ ಬರುವ ದೂರು ಸಂಖ್ಯೆಯನ್ನು (Docket Number) ಬರೆದಿಟ್ಟುಕೊಳ್ಳಿ",
+              "7 ಕೆಲಸದ ದಿನಗಳಲ್ಲಿ ಇಂಜಿನಿಯರ್ ನಿಮ್ಮ ಮನೆಗೆ ಭೇಟಿ ನೀಡಿ ಮೀಟರ್ ಪರಿಶೀಲಿಸುತ್ತಾರೆ",
+              "ಮೀಟರ್ ದೋಷಪೂರಿತವಾಗಿದ್ದರೆ ಪರೀಕ್ಷೆ ನಡೆಸಿ ತಿದ್ದುಪಡಿ ಮಾಡಿದ ಪರಿಷ್ಕೃತ ಬಿಲ್ ನೀಡಲಾಗುತ್ತದೆ"
+            ],
+            "hi": [
+              "टोल-फ्री 1912 डायल करें (24x7 उपलब्ध)",
+              "अपने बिल से 10 अंकों का अकाउंट आईडी तैयार रखें",
+              "समस्या बताएं: अत्यधिक बिल, गलत मीटर रीडिंग या गृह ज्योति सब्सिडी न मिलना",
+              "एसएमएस पर प्राप्त शिकायत डॉकेट नंबर नोट करें",
+              "7 कार्यदिवसों में विभागीय अधिकारी द्वारा मीटर जांच की जाएगी और सही संशोधित बिल जारी होगा"
+            ]
+          },
+          "escalation_route": {
+            "en": "BESCOM Customer Care: 1912 / Consumer Grievance Redressal Forum (CGRF) at your Division Office",
+            "kn": "ಬೆಸ್ಕಾಂ ಗ್ರಾಹಕ ಸೇವೆ: 1912 / ಗ್ರಾಹಕ ಕುಂದುಕೊರತೆ ನಿವಾರಣಾ ವೇದಿಕೆ (CGRF)",
+            "hi": "बेस्कॉम कस्टमर केयर: 1912 / उपभोक्ता शिकायत निवारण फोरम (CGRF)"
+          }
+        }
+      ]
+    }
+  ]
+}
